@@ -206,14 +206,14 @@ def json_to_md(filename,md_filename,
             f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
         
         if show_badge == True:
-            f.write(f"[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
-            f.write(f"[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors\n")
-            f.write(f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
-            f.write(f"[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members\n")
-            f.write(f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
-            f.write(f"[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers\n")
-            f.write(f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
-            f.write(f"[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues\n\n")
+            f.write(f"[contributors-shield]: https://img.shields.io/github/contributors/youngfish42/fl-arxiv-daily.svg?style=for-the-badge\n")
+            f.write(f"[contributors-url]: https://github.com/youngfish42/fl-arxiv-daily/graphs/contributors\n")
+            f.write(f"[forks-shield]: https://img.shields.io/github/forks/youngfish42/fl-arxiv-daily.svg?style=for-the-badge\n")
+            f.write(f"[forks-url]: https://github.com/youngfish42/fl-arxiv-daily/network/members\n")
+            f.write(f"[stars-shield]: https://img.shields.io/github/stars/youngfish42/fl-arxiv-daily.svg?style=for-the-badge\n")
+            f.write(f"[stars-url]: https://github.com/youngfish42/fl-arxiv-daily/stargazers\n")
+            f.write(f"[issues-shield]: https://img.shields.io/github/issues/youngfish42/fl-arxiv-daily.svg?style=for-the-badge\n")
+            f.write(f"[issues-url]: https://github.com/youngfish42/fl-arxiv-daily/issues\n\n")
                 
     print("finished")        
 
@@ -230,7 +230,7 @@ if __name__ == "__main__":
     keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\"OR\"Loop Closure Detection\"OR\"visual place recognition\"OR\"image retrieval\""
     keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
     keywords["Image Matching"]      = "\"Image Matching\"OR\"Keypoint Matching\""
-    keywords["NeRF"]                = "NeRF"
+
 
     for topic,keyword in keywords.items():
  
@@ -244,7 +244,7 @@ if __name__ == "__main__":
         print("\n")
 
     # 1. update README.md file
-    json_file = "cv-arxiv-daily.json"
+    json_file = "fl-arxiv-daily.json"
     md_file   = "README.md"
     # update json data
     update_json_file(json_file,data_collector)
@@ -252,7 +252,7 @@ if __name__ == "__main__":
     json_to_md(json_file,md_file)
 
     # 2. update docs/index.md file
-    json_file = "./docs/cv-arxiv-daily-web.json"
+    json_file = "./docs/fl-arxiv-daily-web.json"
     md_file   = "./docs/index.md"
     # update json data
     update_json_file(json_file,data_collector)
@@ -260,7 +260,7 @@ if __name__ == "__main__":
     json_to_md(json_file, md_file, to_web = True)
 
     # 3. Update docs/wechat.md file
-    json_file = "./docs/cv-arxiv-daily-wechat.json"
+    json_file = "./docs/fl-arxiv-daily-wechat.json"
     md_file   = "./docs/wechat.md"
     # update json data
     update_json_file(json_file, data_collector_web)

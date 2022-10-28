@@ -21,7 +21,7 @@ def sort_papers(papers):
         output[key] = papers[key]
     return output    
 
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic,query="federated", max_results=2):
     """
     @param topic: str
     @param query: str
@@ -225,9 +225,9 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["Federated Learning For Graph"] = "\"Federated Learning graph\"OR\"Federated GCN\"OR\"Federated Learning GNN\"OR\"Federated Learning subgraph\""
+    keywords["Federated Learning For Graph"] = "\"federate learning graph\"OR\"federate graph network\"\"federate GCN\"OR\"federate GNN\"OR\"federate subgraph\""
     keywords["Federated Learning For Tabular"] = "\"federate tree\"OR\"federate boost\"OR\"federate bagging\"OR\"federate gbdt\"OR\"federate tabular\"OR\"federate forest\"OR\"federate XGBoost\""
-    keywords["Federated Learning Framework"] = "\"Federated Learning Framework\""
+    keywords["Federated Learning Framework"] = "\"federate learning framework\""
 
 
 

@@ -45,6 +45,7 @@
 
 ## Federated Learning Framework
 
+- 2022-10-31, **FL Games: A Federated Learning Framework for Distribution Shifts**, Sharut Gupta et.al., Paper: [http://arxiv.org/abs/2211.00184v1](http://arxiv.org/abs/2211.00184v1)
 - 2022-10-12, **Anomaly Detection via Federated Learning**, Marc Vucovich et.al., Paper: [http://arxiv.org/abs/2210.06614v1](http://arxiv.org/abs/2210.06614v1)
 - 2022-10-10, **FedBA: Non-IID Federated Learning Framework in UAV Networks**, Pei Li et.al., Paper: [http://arxiv.org/abs/2210.04699v1](http://arxiv.org/abs/2210.04699v1)
 - 2022-10-03, **Federated Graph-based Networks with Shared Embedding**, Tianyi Yu et.al., Paper: [http://arxiv.org/abs/2210.01803v1](http://arxiv.org/abs/2210.01803v1), Code: **[https://github.com/GraphSAINT/GraphSAINT](https://github.com/GraphSAINT/GraphSAINT)**

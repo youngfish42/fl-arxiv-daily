@@ -55,6 +55,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-03**|**FedGen: Generalizable Federated Learning**|Praveen Venkateswaran et.al.|[2211.01914v1](http://arxiv.org/abs/2211.01914v1)|null|
+|**2022-11-03**|**FedTP: Federated Learning by Transformer Personalization**|Hongxia Li et.al.|[2211.01572v1](http://arxiv.org/abs/2211.01572v1)|**[link](https://github.com/zhyczy/fedtp)**|
 |**2022-10-31**|**FL Games: A Federated Learning Framework for Distribution Shifts**|Sharut Gupta et.al.|[2211.00184v1](http://arxiv.org/abs/2211.00184v1)|null|
 |**2022-10-12**|**Anomaly Detection via Federated Learning**|Marc Vucovich et.al.|[2210.06614v1](http://arxiv.org/abs/2210.06614v1)|null|
 |**2022-10-10**|**FedBA: Non-IID Federated Learning Framework in UAV Networks**|Pei Li et.al.|[2210.04699v1](http://arxiv.org/abs/2210.04699v1)|null|

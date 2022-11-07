@@ -55,6 +55,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-04**|**Decentralized Federated Reinforcement Learning for User-Centric Dynamic TFDD Control**|Ziyan Yin et.al.|[2211.02296v1](http://arxiv.org/abs/2211.02296v1)|null|
 |**2022-11-03**|**FedGen: Generalizable Federated Learning**|Praveen Venkateswaran et.al.|[2211.01914v1](http://arxiv.org/abs/2211.01914v1)|null|
 |**2022-11-03**|**FedTP: Federated Learning by Transformer Personalization**|Hongxia Li et.al.|[2211.01572v1](http://arxiv.org/abs/2211.01572v1)|**[link](https://github.com/zhyczy/fedtp)**|
 |**2022-10-31**|**FL Games: A Federated Learning Framework for Distribution Shifts**|Sharut Gupta et.al.|[2211.00184v1](http://arxiv.org/abs/2211.00184v1)|null|

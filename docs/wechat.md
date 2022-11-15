@@ -45,6 +45,8 @@
 
 ## Federated Learning Framework
 
+- 2022-11-14, **Universal EHR Federated Learning Framework**, Junu Kim et.al., Paper: [http://arxiv.org/abs/2211.07300v1](http://arxiv.org/abs/2211.07300v1), Code: **[https://github.com/starmpcc/unifl](https://github.com/starmpcc/unifl)**
+- 2022-11-14, **Federated Learning Framework in Fogbus2-based Edge Computing Environments**, Wuji Zhu et.al., Paper: [http://arxiv.org/abs/2211.07238v1](http://arxiv.org/abs/2211.07238v1)
 - 2022-11-04, **Decentralized Federated Reinforcement Learning for User-Centric Dynamic TFDD Control**, Ziyan Yin et.al., Paper: [http://arxiv.org/abs/2211.02296v1](http://arxiv.org/abs/2211.02296v1)
 - 2022-11-03, **FedGen: Generalizable Federated Learning**, Praveen Venkateswaran et.al., Paper: [http://arxiv.org/abs/2211.01914v1](http://arxiv.org/abs/2211.01914v1)
 - 2022-11-03, **FedTP: Federated Learning by Transformer Personalization**, Hongxia Li et.al., Paper: [http://arxiv.org/abs/2211.01572v1](http://arxiv.org/abs/2211.01572v1), Code: **[https://github.com/zhyczy/fedtp](https://github.com/zhyczy/fedtp)**

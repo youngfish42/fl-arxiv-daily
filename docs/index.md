@@ -22,7 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-10-28**|**Imitation Learning-based Implicit Semantic-aware Communication Networks: Multi-layer Representation and Collaborative Reasoning**|Yong Xiao et.al.|[2210.16118v1](http://arxiv.org/abs/2210.16118v1)|**[link](https://github.com/zjs919/irml)**|
+|**2022-11-23**|**Imitation Learning-based Implicit Semantic-aware Communication Networks: Multi-layer Representation and Collaborative Reasoning**|Yong Xiao et.al.|[2210.16118v2](http://arxiv.org/abs/2210.16118v2)|**[link](https://github.com/zjs919/irml)**|
 |**2022-09-13**|**Investigating the Predictive Reproducibility of Federated Graph Neural Networks using Medical Datasets**|Mehmet Yigit Balik et.al.|[2209.06032v1](http://arxiv.org/abs/2209.06032v1)|**[link](https://github.com/basiralab/reproduciblefedgnn)**|
 |**2022-08-19**|**Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation**|Sichun Luo et.al.|[2208.09375v1](http://arxiv.org/abs/2208.09375v1)|null|
 |**2022-06-07**|**A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential Privacy**|Yeqing Qiu et.al.|[2206.03492v1](http://arxiv.org/abs/2206.03492v1)|null|
@@ -38,6 +38,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-22**|**Fed-TDA: Federated Tabular Data Augmentation on Non-IID Data**|Shaoming Duan et.al.|[2211.13116v1](http://arxiv.org/abs/2211.13116v1)|null|
 |**2022-10-06**|**Federated Boosted Decision Trees with Differential Privacy**|Samuel Maddock et.al.|[2210.02910v1](http://arxiv.org/abs/2210.02910v1)|**[link](https://github.com/samuel-maddock/federated-boosted-dp-trees)**|
 |**2022-10-04**|**OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization**|Xiaochen Li et.al.|[2210.01318v1](http://arxiv.org/abs/2210.01318v1)|**[link](https://github.com/alibaba-edu/mpc4j)**|
 |**2022-09-03**|**Federated XGBoost on Sample-Wise Non-IID Data**|Katelinh Jones et.al.|[2209.01340v1](http://arxiv.org/abs/2209.01340v1)|null|

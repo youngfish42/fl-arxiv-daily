@@ -46,6 +46,7 @@
 
 ## Federated Learning Framework
 
+- 2022-12-16, **FewFedWeight: Few-shot Federated Learning Framework across Multiple NLP Tasks**, Weilong Dong et.al., Paper: [http://arxiv.org/abs/2212.08354v1](http://arxiv.org/abs/2212.08354v1)
 - 2022-12-11, **ResFed: Communication Efficient Federated Learning by Transmitting Deep Compressed Residuals**, Rui Song et.al., Paper: [http://arxiv.org/abs/2212.05602v1](http://arxiv.org/abs/2212.05602v1)
 - 2022-12-03, **Beyond ADMM: A Unified Client-variance-reduced Adaptive Federated Learning Framework**, Shuai Wang et.al., Paper: [http://arxiv.org/abs/2212.01519v1](http://arxiv.org/abs/2212.01519v1)
 - 2022-12-02, **Olive Branch Learning: A Topology-Aware Federated Learning Framework for Space-Air-Ground Integrated Network**, Qingze Fang et.al., Paper: [http://arxiv.org/abs/2212.01215v1](http://arxiv.org/abs/2212.01215v1)

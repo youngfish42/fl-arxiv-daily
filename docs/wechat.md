@@ -46,6 +46,7 @@
 
 ## Federated Learning Framework
 
+- 2023-01-03, **Recent Advances on Federated Learning: A Systematic Survey**, Bingyan Liu et.al., Paper: [http://arxiv.org/abs/2301.01299v1](http://arxiv.org/abs/2301.01299v1)
 - 2022-12-18, **Plankton-FL: Exploration of Federated Learning for Privacy-Preserving Training of Deep Neural Networks for Phytoplankton Classification**, Daniel Zhang et.al., Paper: [http://arxiv.org/abs/2212.08990v1](http://arxiv.org/abs/2212.08990v1)
 - 2022-12-16, **FewFedWeight: Few-shot Federated Learning Framework across Multiple NLP Tasks**, Weilong Dong et.al., Paper: [http://arxiv.org/abs/2212.08354v1](http://arxiv.org/abs/2212.08354v1)
 - 2022-12-11, **ResFed: Communication Efficient Federated Learning by Transmitting Deep Compressed Residuals**, Rui Song et.al., Paper: [http://arxiv.org/abs/2212.05602v1](http://arxiv.org/abs/2212.05602v1)

@@ -56,6 +56,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-06**|**Learning Personalized Brain Functional Connectivity of MDD Patients from Multiple Sites via Federated Bayesian Networks**|Shuai Liu et.al.|[2301.02423v1](http://arxiv.org/abs/2301.02423v1)|null|
 |**2023-01-03**|**Recent Advances on Federated Learning: A Systematic Survey**|Bingyan Liu et.al.|[2301.01299v1](http://arxiv.org/abs/2301.01299v1)|null|
 |**2022-12-18**|**Plankton-FL: Exploration of Federated Learning for Privacy-Preserving Training of Deep Neural Networks for Phytoplankton Classification**|Daniel Zhang et.al.|[2212.08990v1](http://arxiv.org/abs/2212.08990v1)|null|
 |**2022-12-16**|**FewFedWeight: Few-shot Federated Learning Framework across Multiple NLP Tasks**|Weilong Dong et.al.|[2212.08354v1](http://arxiv.org/abs/2212.08354v1)|null|

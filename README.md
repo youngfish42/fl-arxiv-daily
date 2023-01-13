@@ -34,7 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-11-22**|**Fed-TDA: Federated Tabular Data Augmentation on Non-IID Data**|Shaoming Duan et.al.|[2211.13116v1](http://arxiv.org/abs/2211.13116v1)|**[link](https://github.com/smduan/Fed-TDA)**|
+|**2023-01-12**|**Fed-TDA: Federated Tabular Data Augmentation on Non-IID Data**|Shaoming Duan et.al.|[2211.13116v2](http://arxiv.org/abs/2211.13116v2)|**[link](https://github.com/smduan/Fed-TDA)**|
 |**2022-10-06**|**Federated Boosted Decision Trees with Differential Privacy**|Samuel Maddock et.al.|[2210.02910v1](http://arxiv.org/abs/2210.02910v1)|**[link](https://github.com/samuel-maddock/federated-boosted-dp-trees)**|
 |**2022-10-04**|**OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization**|Xiaochen Li et.al.|[2210.01318v1](http://arxiv.org/abs/2210.01318v1)|**[link](https://github.com/alibaba-edu/mpc4j)**|
 |**2022-09-03**|**Federated XGBoost on Sample-Wise Non-IID Data**|Katelinh Jones et.al.|[2209.01340v1](http://arxiv.org/abs/2209.01340v1)|null|

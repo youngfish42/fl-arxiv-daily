@@ -57,7 +57,7 @@
 |**2022-12-18**|**Plankton-FL: Exploration of Federated Learning for Privacy-Preserving Training of Deep Neural Networks for Phytoplankton Classification**|Daniel Zhang et.al.|[2212.08990v1](http://arxiv.org/abs/2212.08990v1)|null|
 |**2022-12-16**|**FewFedWeight: Few-shot Federated Learning Framework across Multiple NLP Tasks**|Weilong Dong et.al.|[2212.08354v1](http://arxiv.org/abs/2212.08354v1)|null|
 |**2022-12-11**|**ResFed: Communication Efficient Federated Learning by Transmitting Deep Compressed Residuals**|Rui Song et.al.|[2212.05602v1](http://arxiv.org/abs/2212.05602v1)|null|
-|**2022-12-03**|**Beyond ADMM: A Unified Client-variance-reduced Adaptive Federated Learning Framework**|Shuai Wang et.al.|[2212.01519v1](http://arxiv.org/abs/2212.01519v1)|null|
+|**2023-01-15**|**Beyond ADMM: A Unified Client-variance-reduced Adaptive Federated Learning Framework**|Shuai Wang et.al.|[2212.01519v2](http://arxiv.org/abs/2212.01519v2)|null|
 |**2022-12-02**|**Olive Branch Learning: A Topology-Aware Federated Learning Framework for Space-Air-Ground Integrated Network**|Qingze Fang et.al.|[2212.01215v1](http://arxiv.org/abs/2212.01215v1)|null|
 |**2022-12-02**|**FedCoCo: A Memory Efficient Federated Self-supervised Framework for On-Device Visual Representation Learning**|Jiahe Shi et.al.|[2212.01006v1](http://arxiv.org/abs/2212.01006v1)|null|
 |**2022-11-17**|**Personalized Federated Learning for Multi-task Fault Diagnosis of Rotating Machinery**|Sheng Guo et.al.|[2211.09406v1](http://arxiv.org/abs/2211.09406v1)|null|

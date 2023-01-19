@@ -45,7 +45,7 @@ layout: default
 |**2022-07-11**|**Statistical Detection of Adversarial examples in Blockchain-based Federated Forest In-vehicle Network Intrusion Detection Systems**|Ibrahim Aliyu et.al.|[2207.04843v1](http://arxiv.org/abs/2207.04843v1)|null|
 |**2022-09-26**|**Motley: Benchmarking Heterogeneity and Personalization in Federated Learning**|Shanshan Wu et.al.|[2206.09262v6](http://arxiv.org/abs/2206.09262v6)|**[link](https://github.com/google-research/federated)**|
 |**2022-04-03**|**FedGBF: An efficient vertical federated learning framework via gradient boosting and bagging**|Yujin Han et.al.|[2204.00976v1](http://arxiv.org/abs/2204.00976v1)|null|
-|**2022-06-08**|**Improved Differential Privacy for SGD via Optimal Private Linear Operators on Adaptive Streams**|Sergey Denisov et.al.|[2202.08312v2](http://arxiv.org/abs/2202.08312v2)|**[link](https://github.com/google-research/federated)**|
+|**2023-01-18**|**Improved Differential Privacy for SGD via Optimal Private Linear Operators on Adaptive Streams**|Sergey Denisov et.al.|[2202.08312v3](http://arxiv.org/abs/2202.08312v3)|**[link](https://github.com/google-research/federated)**|
 |**2021-12-08**|**Efficient Batch Homomorphic Encryption for Vertically Federated XGBoost**|Wuxing Xu et.al.|[2112.04261v1](http://arxiv.org/abs/2112.04261v1)|null|
 |**2021-08-12**|**FedXGBoost: Privacy-Preserving XGBoost for Federated Learning**|Nhan Khanh Le et.al.|[2106.10662v3](http://arxiv.org/abs/2106.10662v3)|null|
 |**2021-05-12**|**An Efficient Learning Framework For Federated XGBoost Using Secret Sharing And Distributed Optimization**|Lunchen Xie et.al.|[2105.05717v1](http://arxiv.org/abs/2105.05717v1)|**[link](https://github.com/HikariX/MP-FedXGB)**|
@@ -63,7 +63,7 @@ layout: default
 |**2022-12-18**|**Plankton-FL: Exploration of Federated Learning for Privacy-Preserving Training of Deep Neural Networks for Phytoplankton Classification**|Daniel Zhang et.al.|[2212.08990v1](http://arxiv.org/abs/2212.08990v1)|null|
 |**2022-12-16**|**FewFedWeight: Few-shot Federated Learning Framework across Multiple NLP Tasks**|Weilong Dong et.al.|[2212.08354v1](http://arxiv.org/abs/2212.08354v1)|null|
 |**2022-12-11**|**ResFed: Communication Efficient Federated Learning by Transmitting Deep Compressed Residuals**|Rui Song et.al.|[2212.05602v1](http://arxiv.org/abs/2212.05602v1)|null|
-|**2023-01-15**|**Beyond ADMM: A Unified Client-variance-reduced Adaptive Federated Learning Framework**|Shuai Wang et.al.|[2212.01519v2](http://arxiv.org/abs/2212.01519v2)|null|
+|**2023-01-18**|**Beyond ADMM: A Unified Client-variance-reduced Adaptive Federated Learning Framework**|Shuai Wang et.al.|[2212.01519v3](http://arxiv.org/abs/2212.01519v3)|null|
 |**2022-12-02**|**Olive Branch Learning: A Topology-Aware Federated Learning Framework for Space-Air-Ground Integrated Network**|Qingze Fang et.al.|[2212.01215v1](http://arxiv.org/abs/2212.01215v1)|null|
 |**2022-12-02**|**FedCoCo: A Memory Efficient Federated Self-supervised Framework for On-Device Visual Representation Learning**|Jiahe Shi et.al.|[2212.01006v1](http://arxiv.org/abs/2212.01006v1)|null|
 |**2022-11-17**|**Personalized Federated Learning for Multi-task Fault Diagnosis of Rotating Machinery**|Sheng Guo et.al.|[2211.09406v1](http://arxiv.org/abs/2211.09406v1)|null|

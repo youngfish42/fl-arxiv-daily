@@ -16,6 +16,7 @@
 
 ## Federated Learning For Graph
 
+- 2023-01-27, **SplitGNN: Splitting GNN for Node Classification with Heterogeneous Attention**, Xiaolong Xu et.al., Paper: [http://arxiv.org/abs/2301.12885v1](http://arxiv.org/abs/2301.12885v1)
 - 2023-01-13, **Imitation Learning-based Implicit Semantic-aware Communication Networks: Multi-layer Representation and Collaborative Reasoning**, Yong Xiao et.al., Paper: [http://arxiv.org/abs/2210.16118v3](http://arxiv.org/abs/2210.16118v3), Code: **[https://github.com/zjs919/irml](https://github.com/zjs919/irml)**
 - 2022-09-13, **Investigating the Predictive Reproducibility of Federated Graph Neural Networks using Medical Datasets**, Mehmet Yigit Balik et.al., Paper: [http://arxiv.org/abs/2209.06032v1](http://arxiv.org/abs/2209.06032v1), Code: **[https://github.com/basiralab/reproduciblefedgnn](https://github.com/basiralab/reproduciblefedgnn)**
 - 2022-08-19, **Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation**, Sichun Luo et.al., Paper: [http://arxiv.org/abs/2208.09375v1](http://arxiv.org/abs/2208.09375v1)

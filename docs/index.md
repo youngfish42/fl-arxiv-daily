@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-27**|**SplitGNN: Splitting GNN for Node Classification with Heterogeneous Attention**|Xiaolong Xu et.al.|[2301.12885v1](http://arxiv.org/abs/2301.12885v1)|null|
 |**2023-01-13**|**Imitation Learning-based Implicit Semantic-aware Communication Networks: Multi-layer Representation and Collaborative Reasoning**|Yong Xiao et.al.|[2210.16118v3](http://arxiv.org/abs/2210.16118v3)|**[link](https://github.com/zjs919/irml)**|
 |**2022-09-13**|**Investigating the Predictive Reproducibility of Federated Graph Neural Networks using Medical Datasets**|Mehmet Yigit Balik et.al.|[2209.06032v1](http://arxiv.org/abs/2209.06032v1)|**[link](https://github.com/basiralab/reproduciblefedgnn)**|
 |**2022-08-19**|**Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation**|Sichun Luo et.al.|[2208.09375v1](http://arxiv.org/abs/2208.09375v1)|null|

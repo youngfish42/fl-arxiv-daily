@@ -47,6 +47,7 @@
 
 ## Federated Learning Framework
 
+- 2023-02-07, **A Privacy-Preserving Hybrid Federated Learning Framework for Financial Crime Detection**, Haobo Zhang et.al., Paper: [http://arxiv.org/abs/2302.03654v1](http://arxiv.org/abs/2302.03654v1), Code: **[https://github.com/illidanlab/hyfl](https://github.com/illidanlab/hyfl)**
 - 2023-01-17, **SegViz: A Federated Learning Framework for Medical Image Segmentation from Distributed Datasets with Different and Incomplete Annotations**, Adway U. Kanhere et.al., Paper: [http://arxiv.org/abs/2301.07074v1](http://arxiv.org/abs/2301.07074v1)
 - 2023-01-17, **Surgical Aggregation: A Federated Learning Framework for Harmonizing Distributed Datasets with Diverse Tasks**, Pranav Kulkarni et.al., Paper: [http://arxiv.org/abs/2301.06683v1](http://arxiv.org/abs/2301.06683v1)
 - 2023-01-06, **Learning Personalized Brain Functional Connectivity of MDD Patients from Multiple Sites via Federated Bayesian Networks**, Shuai Liu et.al., Paper: [http://arxiv.org/abs/2301.02423v1](http://arxiv.org/abs/2301.02423v1)

@@ -57,10 +57,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-17**|**Multimodal Federated Learning via Contrastive Representation Ensemble**|Qiying Yu et.al.|[2302.08888v1](http://arxiv.org/abs/2302.08888v1)|null|
 |**2023-02-10**|**XFL: A High Performace, Lightweighted Federated Learning Framework**|Hong Wang et.al.|[2302.05076v1](http://arxiv.org/abs/2302.05076v1)|**[link](https://github.com/paritybit-ai/xfl)**|
 |**2023-02-07**|**A Privacy-Preserving Hybrid Federated Learning Framework for Financial Crime Detection**|Haobo Zhang et.al.|[2302.03654v1](http://arxiv.org/abs/2302.03654v1)|**[link](https://github.com/illidanlab/hyfl)**|
 |**2023-01-17**|**SegViz: A Federated Learning Framework for Medical Image Segmentation from Distributed Datasets with Different and Incomplete Annotations**|Adway U. Kanhere et.al.|[2301.07074v1](http://arxiv.org/abs/2301.07074v1)|null|
-|**2023-01-17**|**Surgical Aggregation: A Federated Learning Framework for Harmonizing Distributed Datasets with Diverse Tasks**|Pranav Kulkarni et.al.|[2301.06683v1](http://arxiv.org/abs/2301.06683v1)|null|
+|**2023-02-17**|**Surgical Aggregation: A Federated Learning Framework for Harmonizing Distributed Datasets with Diverse Tasks**|Pranav Kulkarni et.al.|[2301.06683v2](http://arxiv.org/abs/2301.06683v2)|null|
 |**2023-01-06**|**Learning Personalized Brain Functional Connectivity of MDD Patients from Multiple Sites via Federated Bayesian Networks**|Shuai Liu et.al.|[2301.02423v1](http://arxiv.org/abs/2301.02423v1)|null|
 |**2023-01-03**|**Recent Advances on Federated Learning: A Systematic Survey**|Bingyan Liu et.al.|[2301.01299v1](http://arxiv.org/abs/2301.01299v1)|null|
 |**2022-12-18**|**Plankton-FL: Exploration of Federated Learning for Privacy-Preserving Training of Deep Neural Networks for Phytoplankton Classification**|Daniel Zhang et.al.|[2212.08990v1](http://arxiv.org/abs/2212.08990v1)|null|

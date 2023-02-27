@@ -47,6 +47,7 @@
 
 ## Federated Learning Framework
 
+- 2023-02-24, **FedDBL: Communication and Data Efficient Federated Deep-Broad Learning for Histopathological Tissue Classification**, Tianpeng Deng et.al., Paper: [http://arxiv.org/abs/2302.12662v1](http://arxiv.org/abs/2302.12662v1)
 - 2023-02-17, **Multimodal Federated Learning via Contrastive Representation Ensemble**, Qiying Yu et.al., Paper: [http://arxiv.org/abs/2302.08888v1](http://arxiv.org/abs/2302.08888v1)
 - 2023-02-10, **XFL: A High Performace, Lightweighted Federated Learning Framework**, Hong Wang et.al., Paper: [http://arxiv.org/abs/2302.05076v1](http://arxiv.org/abs/2302.05076v1), Code: **[https://github.com/paritybit-ai/xfl](https://github.com/paritybit-ai/xfl)**
 - 2023-02-23, **A Privacy-Preserving Hybrid Federated Learning Framework for Financial Crime Detection**, Haobo Zhang et.al., Paper: [http://arxiv.org/abs/2302.03654v2](http://arxiv.org/abs/2302.03654v2), Code: **[https://github.com/illidanlab/hyfl](https://github.com/illidanlab/hyfl)**

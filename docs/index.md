@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.02.27
+## Updated on 2023.02.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -33,7 +33,7 @@ layout: default
 |**2020-11-06**|**ASFGNN: Automated Separated-Federated Graph Neural Network**|Longfei Zheng et.al.|[2011.03248v1](http://arxiv.org/abs/2011.03248v1)|null|
 |**2022-04-25**|**Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification**|Chaochao Chen et.al.|[2005.11903v3](http://arxiv.org/abs/2005.11903v3)|null|
 
-<p align=right>(<a href=#Updated-on-20230227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230228>back to top</a>)</p>
 
 ## Federated Learning For Tabular
 
@@ -51,13 +51,13 @@ layout: default
 |**2021-08-12**|**FedXGBoost: Privacy-Preserving XGBoost for Federated Learning**|Nhan Khanh Le et.al.|[2106.10662v3](http://arxiv.org/abs/2106.10662v3)|null|
 |**2021-05-12**|**An Efficient Learning Framework For Federated XGBoost Using Secret Sharing And Distributed Optimization**|Lunchen Xie et.al.|[2105.05717v1](http://arxiv.org/abs/2105.05717v1)|**[link](https://github.com/HikariX/MP-FedXGB)**|
 
-<p align=right>(<a href=#Updated-on-20230227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230228>back to top</a>)</p>
 
 ## Federated Learning Framework
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-02-24**|**FedDBL: Communication and Data Efficient Federated Deep-Broad Learning for Histopathological Tissue Classification**|Tianpeng Deng et.al.|[2302.12662v1](http://arxiv.org/abs/2302.12662v1)|null|
+|**2023-02-24**|**FedDBL: Communication and Data Efficient Federated Deep-Broad Learning for Histopathological Tissue Classification**|Tianpeng Deng et.al.|[2302.12662v1](http://arxiv.org/abs/2302.12662v1)|**[link](https://github.com/tianpeng-deng/feddbl)**|
 |**2023-02-17**|**Multimodal Federated Learning via Contrastive Representation Ensemble**|Qiying Yu et.al.|[2302.08888v1](http://arxiv.org/abs/2302.08888v1)|null|
 |**2023-02-10**|**XFL: A High Performace, Lightweighted Federated Learning Framework**|Hong Wang et.al.|[2302.05076v1](http://arxiv.org/abs/2302.05076v1)|**[link](https://github.com/paritybit-ai/xfl)**|
 |**2023-02-23**|**A Privacy-Preserving Hybrid Federated Learning Framework for Financial Crime Detection**|Haobo Zhang et.al.|[2302.03654v2](http://arxiv.org/abs/2302.03654v2)|**[link](https://github.com/illidanlab/hyfl)**|
@@ -89,7 +89,7 @@ layout: default
 |**2022-09-22**|**Enhanced Decentralized Federated Learning based on Consensus in Connected Vehicles**|Xiaoyan Liu et.al.|[2209.10722v1](http://arxiv.org/abs/2209.10722v1)|null|
 |**2022-09-07**|**Modular Federated Learning**|Kuo-Yun Liang et.al.|[2209.03090v1](http://arxiv.org/abs/2209.03090v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230228>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/youngfish42/fl-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/youngfish42/fl-arxiv-daily/graphs/contributors

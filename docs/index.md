@@ -57,6 +57,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-27**|**FLAG: Fast Label-Adaptive Aggregation for Multi-label Classification in Federated Learning**|Shih-Fang Chang et.al.|[2302.13571v1](http://arxiv.org/abs/2302.13571v1)|null|
 |**2023-02-24**|**FedDBL: Communication and Data Efficient Federated Deep-Broad Learning for Histopathological Tissue Classification**|Tianpeng Deng et.al.|[2302.12662v1](http://arxiv.org/abs/2302.12662v1)|**[link](https://github.com/tianpeng-deng/feddbl)**|
 |**2023-02-17**|**Multimodal Federated Learning via Contrastive Representation Ensemble**|Qiying Yu et.al.|[2302.08888v1](http://arxiv.org/abs/2302.08888v1)|null|
 |**2023-02-10**|**XFL: A High Performace, Lightweighted Federated Learning Framework**|Hong Wang et.al.|[2302.05076v1](http://arxiv.org/abs/2302.05076v1)|**[link](https://github.com/paritybit-ai/xfl)**|

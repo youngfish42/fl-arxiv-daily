@@ -16,6 +16,7 @@
 
 ## Federated Learning For Graph
 
+- 2023-03-01, **Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices**, Qiying Pan et.al., Paper: [http://arxiv.org/abs/2303.00492v1](http://arxiv.org/abs/2303.00492v1)
 - 2023-01-27, **SplitGNN: Splitting GNN for Node Classification with Heterogeneous Attention**, Xiaolong Xu et.al., Paper: [http://arxiv.org/abs/2301.12885v1](http://arxiv.org/abs/2301.12885v1)
 - 2023-01-13, **Imitation Learning-based Implicit Semantic-aware Communication Networks: Multi-layer Representation and Collaborative Reasoning**, Yong Xiao et.al., Paper: [http://arxiv.org/abs/2210.16118v3](http://arxiv.org/abs/2210.16118v3), Code: **[https://github.com/zjs919/irml](https://github.com/zjs919/irml)**
 - 2022-09-13, **Investigating the Predictive Reproducibility of Federated Graph Neural Networks using Medical Datasets**, Mehmet Yigit Balik et.al., Paper: [http://arxiv.org/abs/2209.06032v1](http://arxiv.org/abs/2209.06032v1), Code: **[https://github.com/basiralab/reproduciblefedgnn](https://github.com/basiralab/reproduciblefedgnn)**
@@ -47,6 +48,7 @@
 
 ## Federated Learning Framework
 
+- 2023-03-01, **FedScore: A privacy-preserving framework for federated scoring system development**, Siqi Li et.al., Paper: [http://arxiv.org/abs/2303.00282v1](http://arxiv.org/abs/2303.00282v1)
 - 2023-02-27, **FLAG: Fast Label-Adaptive Aggregation for Multi-label Classification in Federated Learning**, Shih-Fang Chang et.al., Paper: [http://arxiv.org/abs/2302.13571v1](http://arxiv.org/abs/2302.13571v1)
 - 2023-02-24, **FedDBL: Communication and Data Efficient Federated Deep-Broad Learning for Histopathological Tissue Classification**, Tianpeng Deng et.al., Paper: [http://arxiv.org/abs/2302.12662v1](http://arxiv.org/abs/2302.12662v1), Code: **[https://github.com/tianpeng-deng/feddbl](https://github.com/tianpeng-deng/feddbl)**
 - 2023-02-17, **Multimodal Federated Learning via Contrastive Representation Ensemble**, Qiying Yu et.al., Paper: [http://arxiv.org/abs/2302.08888v1](http://arxiv.org/abs/2302.08888v1)

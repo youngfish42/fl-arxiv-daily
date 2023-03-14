@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.13
+## Updated on 2023.03.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -31,7 +31,7 @@
 |**2020-11-06**|**ASFGNN: Automated Separated-Federated Graph Neural Network**|Longfei Zheng et.al.|[2011.03248v1](http://arxiv.org/abs/2011.03248v1)|null|
 |**2022-04-25**|**Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification**|Chaochao Chen et.al.|[2005.11903v3](http://arxiv.org/abs/2005.11903v3)|null|
 
-<p align=right>(<a href=#Updated-on-20230313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
 
 ## Federated Learning For Tabular
 
@@ -49,7 +49,7 @@
 |**2021-08-12**|**FedXGBoost: Privacy-Preserving XGBoost for Federated Learning**|Nhan Khanh Le et.al.|[2106.10662v3](http://arxiv.org/abs/2106.10662v3)|null|
 |**2021-05-12**|**An Efficient Learning Framework For Federated XGBoost Using Secret Sharing And Distributed Optimization**|Lunchen Xie et.al.|[2105.05717v1](http://arxiv.org/abs/2105.05717v1)|**[link](https://github.com/HikariX/MP-FedXGB)**|
 
-<p align=right>(<a href=#Updated-on-20230313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
 
 ## Federated Learning Framework
 
@@ -61,7 +61,7 @@
 |**2023-02-17**|**Multimodal Federated Learning via Contrastive Representation Ensemble**|Qiying Yu et.al.|[2302.08888v1](http://arxiv.org/abs/2302.08888v1)|null|
 |**2023-02-10**|**XFL: A High Performace, Lightweighted Federated Learning Framework**|Hong Wang et.al.|[2302.05076v1](http://arxiv.org/abs/2302.05076v1)|**[link](https://github.com/paritybit-ai/xfl)**|
 |**2023-02-23**|**A Privacy-Preserving Hybrid Federated Learning Framework for Financial Crime Detection**|Haobo Zhang et.al.|[2302.03654v2](http://arxiv.org/abs/2302.03654v2)|**[link](https://github.com/illidanlab/hyfl)**|
-|**2023-01-17**|**SegViz: A Federated Learning Framework for Medical Image Segmentation from Distributed Datasets with Different and Incomplete Annotations**|Adway U. Kanhere et.al.|[2301.07074v1](http://arxiv.org/abs/2301.07074v1)|null|
+|**2023-03-11**|**SegViz: A federated-learning based framework for multi-organ segmentation on heterogeneous data sets with partial annotations**|Adway U. Kanhere et.al.|[2301.07074v2](http://arxiv.org/abs/2301.07074v2)|null|
 |**2023-02-17**|**Surgical Aggregation: A Federated Learning Framework for Harmonizing Distributed Datasets with Diverse Tasks**|Pranav Kulkarni et.al.|[2301.06683v2](http://arxiv.org/abs/2301.06683v2)|null|
 |**2023-01-06**|**Learning Personalized Brain Functional Connectivity of MDD Patients from Multiple Sites via Federated Bayesian Networks**|Shuai Liu et.al.|[2301.02423v1](http://arxiv.org/abs/2301.02423v1)|null|
 |**2023-01-03**|**Recent Advances on Federated Learning: A Systematic Survey**|Bingyan Liu et.al.|[2301.01299v1](http://arxiv.org/abs/2301.01299v1)|null|
@@ -89,7 +89,7 @@
 |**2022-09-22**|**Enhanced Decentralized Federated Learning based on Consensus in Connected Vehicles**|Xiaoyan Liu et.al.|[2209.10722v1](http://arxiv.org/abs/2209.10722v1)|null|
 |**2022-09-07**|**Modular Federated Learning**|Kuo-Yun Liang et.al.|[2209.03090v1](http://arxiv.org/abs/2209.03090v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/youngfish42/fl-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/youngfish42/fl-arxiv-daily/graphs/contributors

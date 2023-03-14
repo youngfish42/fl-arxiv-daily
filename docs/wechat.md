@@ -49,6 +49,7 @@
 
 ## Federated Learning Framework
 
+- 2023-03-10, **Optimizing Federated Learning for Medical Image Classification on Distributed Non-iid Datasets with Partial Labels**, Pranav Kulkarni et.al., Paper: [http://arxiv.org/abs/2303.06180v1](http://arxiv.org/abs/2303.06180v1)
 - 2023-03-01, **FedScore: A privacy-preserving framework for federated scoring system development**, Siqi Li et.al., Paper: [http://arxiv.org/abs/2303.00282v1](http://arxiv.org/abs/2303.00282v1)
 - 2023-02-27, **FLAG: Fast Label-Adaptive Aggregation for Multi-label Classification in Federated Learning**, Shih-Fang Chang et.al., Paper: [http://arxiv.org/abs/2302.13571v1](http://arxiv.org/abs/2302.13571v1)
 - 2023-02-24, **FedDBL: Communication and Data Efficient Federated Deep-Broad Learning for Histopathological Tissue Classification**, Tianpeng Deng et.al., Paper: [http://arxiv.org/abs/2302.12662v1](http://arxiv.org/abs/2302.12662v1), Code: **[https://github.com/tianpeng-deng/feddbl](https://github.com/tianpeng-deng/feddbl)**

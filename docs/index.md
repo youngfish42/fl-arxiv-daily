@@ -63,7 +63,7 @@ layout: default
 |**2023-03-01**|**FedScore: A privacy-preserving framework for federated scoring system development**|Siqi Li et.al.|[2303.00282v1](http://arxiv.org/abs/2303.00282v1)|null|
 |**2023-02-27**|**FLAG: Fast Label-Adaptive Aggregation for Multi-label Classification in Federated Learning**|Shih-Fang Chang et.al.|[2302.13571v1](http://arxiv.org/abs/2302.13571v1)|null|
 |**2023-02-24**|**FedDBL: Communication and Data Efficient Federated Deep-Broad Learning for Histopathological Tissue Classification**|Tianpeng Deng et.al.|[2302.12662v1](http://arxiv.org/abs/2302.12662v1)|**[link](https://github.com/tianpeng-deng/feddbl)**|
-|**2023-03-13**|**Multimodal Federated Learning via Contrastive Representation Ensemble**|Qiying Yu et.al.|[2302.08888v2](http://arxiv.org/abs/2302.08888v2)|null|
+|**2023-03-13**|**Multimodal Federated Learning via Contrastive Representation Ensemble**|Qiying Yu et.al.|[2302.08888v2](http://arxiv.org/abs/2302.08888v2)|**[link](https://github.com/flair-thu/creamfl)**|
 |**2023-02-10**|**XFL: A High Performace, Lightweighted Federated Learning Framework**|Hong Wang et.al.|[2302.05076v1](http://arxiv.org/abs/2302.05076v1)|**[link](https://github.com/paritybit-ai/xfl)**|
 |**2023-02-23**|**A Privacy-Preserving Hybrid Federated Learning Framework for Financial Crime Detection**|Haobo Zhang et.al.|[2302.03654v2](http://arxiv.org/abs/2302.03654v2)|**[link](https://github.com/illidanlab/hyfl)**|
 |**2023-03-11**|**SegViz: A federated-learning based framework for multi-organ segmentation on heterogeneous data sets with partial annotations**|Adway U. Kanhere et.al.|[2301.07074v2](http://arxiv.org/abs/2301.07074v2)|null|

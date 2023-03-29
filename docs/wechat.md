@@ -50,6 +50,7 @@
 
 ## Federated Learning Framework
 
+- 2023-03-27, **Unimodal Training-Multimodal Prediction: Cross-modal Federated Learning with Hierarchical Aggregation**, Rongyu Zhang et.al., Paper: [http://arxiv.org/abs/2303.15486v1](http://arxiv.org/abs/2303.15486v1)
 - 2023-03-22, **Prototype Helps Federated Learning: Towards Faster Convergence**, Yu Qiao et.al., Paper: [http://arxiv.org/abs/2303.12296v1](http://arxiv.org/abs/2303.12296v1)
 - 2023-03-10, **Optimizing Federated Learning for Medical Image Classification on Distributed Non-iid Datasets with Partial Labels**, Pranav Kulkarni et.al., Paper: [http://arxiv.org/abs/2303.06180v1](http://arxiv.org/abs/2303.06180v1)
 - 2023-03-01, **FedScore: A privacy-preserving framework for federated scoring system development**, Siqi Li et.al., Paper: [http://arxiv.org/abs/2303.00282v1](http://arxiv.org/abs/2303.00282v1)

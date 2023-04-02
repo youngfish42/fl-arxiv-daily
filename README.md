@@ -65,7 +65,7 @@
 |**2023-02-24**|**FedDBL: Communication and Data Efficient Federated Deep-Broad Learning for Histopathological Tissue Classification**|Tianpeng Deng et.al.|[2302.12662v1](http://arxiv.org/abs/2302.12662v1)|**[link](https://github.com/tianpeng-deng/feddbl)**|
 |**2023-03-13**|**Multimodal Federated Learning via Contrastive Representation Ensemble**|Qiying Yu et.al.|[2302.08888v2](http://arxiv.org/abs/2302.08888v2)|**[link](https://github.com/flair-thu/creamfl)**|
 |**2023-02-10**|**XFL: A High Performace, Lightweighted Federated Learning Framework**|Hong Wang et.al.|[2302.05076v1](http://arxiv.org/abs/2302.05076v1)|**[link](https://github.com/paritybit-ai/xfl)**|
-|**2023-02-23**|**A Privacy-Preserving Hybrid Federated Learning Framework for Financial Crime Detection**|Haobo Zhang et.al.|[2302.03654v2](http://arxiv.org/abs/2302.03654v2)|**[link](https://github.com/illidanlab/hyfl)**|
+|**2023-02-23**|**A Privacy-Preserving Hybrid Federated Learning Framework for Financial Crime Detection**|Haobo Zhang et.al.|[2302.03654v2](http://arxiv.org/abs/2302.03654v2)|null|
 |**2023-03-11**|**SegViz: A federated-learning based framework for multi-organ segmentation on heterogeneous data sets with partial annotations**|Adway U. Kanhere et.al.|[2301.07074v2](http://arxiv.org/abs/2301.07074v2)|null|
 |**2023-02-17**|**Surgical Aggregation: A Federated Learning Framework for Harmonizing Distributed Datasets with Diverse Tasks**|Pranav Kulkarni et.al.|[2301.06683v2](http://arxiv.org/abs/2301.06683v2)|null|
 |**2023-01-06**|**Learning Personalized Brain Functional Connectivity of MDD Patients from Multiple Sites via Federated Bayesian Networks**|Shuai Liu et.al.|[2301.02423v1](http://arxiv.org/abs/2301.02423v1)|null|

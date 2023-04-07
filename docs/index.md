@@ -60,6 +60,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-06**|**IoT Federated Blockchain Learning at the Edge**|James Calo et.al.|[2304.03006v1](http://arxiv.org/abs/2304.03006v1)|null|
 |**2023-03-28**|**FeDiSa: A Semi-asynchronous Federated Learning Framework for Power System Fault and Cyberattack Discrimination**|Muhammad Akbar Husnoo et.al.|[2303.16956v1](http://arxiv.org/abs/2303.16956v1)|null|
 |**2023-03-27**|**Unimodal Training-Multimodal Prediction: Cross-modal Federated Learning with Hierarchical Aggregation**|Rongyu Zhang et.al.|[2303.15486v1](http://arxiv.org/abs/2303.15486v1)|null|
 |**2023-03-22**|**Prototype Helps Federated Learning: Towards Faster Convergence**|Yu Qiao et.al.|[2303.12296v1](http://arxiv.org/abs/2303.12296v1)|null|

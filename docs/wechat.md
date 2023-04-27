@@ -51,6 +51,7 @@
 
 ## Federated Learning Framework
 
+- 2023-04-26, **SMPC-based Federated Learning for 6G enabled Internet of Medical Things**, Aditya Pribadi Kalapaaking et.al., Paper: [http://arxiv.org/abs/2304.13352v1](http://arxiv.org/abs/2304.13352v1)
 - 2023-04-15, **Model-based Federated Learning for Accurate MR Image Reconstruction from Undersampled k-space Data**, Ruoyou Wu et.al., Paper: [http://arxiv.org/abs/2304.07502v1](http://arxiv.org/abs/2304.07502v1)
 - 2023-04-07, **FedDiSC: A Computation-efficient Federated Learning Framework for Power Systems Disturbance and Cyber Attack Discrimination**, Muhammad Akbar Husnoo et.al., Paper: [http://arxiv.org/abs/2304.03640v1](http://arxiv.org/abs/2304.03640v1)
 - 2023-04-06, **IoT Federated Blockchain Learning at the Edge**, James Calo et.al., Paper: [http://arxiv.org/abs/2304.03006v1](http://arxiv.org/abs/2304.03006v1)

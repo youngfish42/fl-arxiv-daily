@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-03-25**|**A Survey on Model-based, Heuristic, and Machine Learning Optimization Approaches in RIS-aided Wireless Networks**|Hao Zhou et.al.|[2303.14320v1](http://arxiv.org/abs/2303.14320v1)|null|
-|**2023-05-07**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v2](http://arxiv.org/abs/2303.05786v2)|null|
+|**2023-05-07**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v2](http://arxiv.org/abs/2303.05786v2)|**[link](https://github.com/maiph123/verticalgnn)**|
 |**2023-03-01**|**Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices**|Qiying Pan et.al.|[2303.00492v1](http://arxiv.org/abs/2303.00492v1)|null|
 |**2023-01-27**|**SplitGNN: Splitting GNN for Node Classification with Heterogeneous Attention**|Xiaolong Xu et.al.|[2301.12885v1](http://arxiv.org/abs/2301.12885v1)|null|
 |**2023-01-13**|**Imitation Learning-based Implicit Semantic-aware Communication Networks: Multi-layer Representation and Collaborative Reasoning**|Yong Xiao et.al.|[2210.16118v3](http://arxiv.org/abs/2210.16118v3)|**[link](https://github.com/zjs919/irml)**|
@@ -57,6 +57,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-08**|**Performative Federated Learning: A Solution to Model-Dependent and Heterogeneous Distribution Shifts**|Kun Jin et.al.|[2305.05090v1](http://arxiv.org/abs/2305.05090v1)|null|
 |**2023-04-26**|**SMPC-based Federated Learning for 6G enabled Internet of Medical Things**|Aditya Pribadi Kalapaaking et.al.|[2304.13352v1](http://arxiv.org/abs/2304.13352v1)|null|
 |**2023-04-15**|**Model-based Federated Learning for Accurate MR Image Reconstruction from Undersampled k-space Data**|Ruoyou Wu et.al.|[2304.07502v1](http://arxiv.org/abs/2304.07502v1)|null|
 |**2023-04-07**|**FedDiSC: A Computation-efficient Federated Learning Framework for Power Systems Disturbance and Cyber Attack Discrimination**|Muhammad Akbar Husnoo et.al.|[2304.03640v1](http://arxiv.org/abs/2304.03640v1)|null|

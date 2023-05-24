@@ -51,6 +51,7 @@
 
 ## Federated Learning Framework
 
+- 2023-05-23, **Fair Differentially Private Federated Learning Framework**, Ayush K. Varshney et.al., Paper: [http://arxiv.org/abs/2305.13878v1](http://arxiv.org/abs/2305.13878v1)
 - 2023-05-19, **PS-FedGAN: An Efficient Federated Learning Framework Based on Partially Shared Generative Adversarial Networks For Data Privacy**, Achintha Wijesinghe et.al., Paper: [http://arxiv.org/abs/2305.11437v1](http://arxiv.org/abs/2305.11437v1)
 - 2023-05-08, **Performative Federated Learning: A Solution to Model-Dependent and Heterogeneous Distribution Shifts**, Kun Jin et.al., Paper: [http://arxiv.org/abs/2305.05090v1](http://arxiv.org/abs/2305.05090v1)
 - 2023-04-26, **SMPC-based Federated Learning for 6G enabled Internet of Medical Things**, Aditya Pribadi Kalapaaking et.al., Paper: [http://arxiv.org/abs/2304.13352v1](http://arxiv.org/abs/2304.13352v1)

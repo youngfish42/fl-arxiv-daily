@@ -61,6 +61,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**Deep Equilibrium Models Meet Federated Learning**|Alexandros Gkillas et.al.|[2305.18646v1](http://arxiv.org/abs/2305.18646v1)|null|
 |**2023-05-25**|**FedHC: A Scalable Federated Learning Framework for Heterogeneous and Resource-Constrained Clients**|Min Zhang et.al.|[2305.15668v1](http://arxiv.org/abs/2305.15668v1)|null|
 |**2023-05-23**|**Fair Differentially Private Federated Learning Framework**|Ayush K. Varshney et.al.|[2305.13878v1](http://arxiv.org/abs/2305.13878v1)|null|
 |**2023-05-19**|**PS-FedGAN: An Efficient Federated Learning Framework Based on Partially Shared Generative Adversarial Networks For Data Privacy**|Achintha Wijesinghe et.al.|[2305.11437v1](http://arxiv.org/abs/2305.11437v1)|null|

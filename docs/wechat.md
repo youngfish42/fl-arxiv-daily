@@ -16,6 +16,7 @@
 
 ## Federated Learning For Graph
 
+- 2023-06-05, **Personalized Federated Domain Adaptation for Item-to-Item Recommendation**, Ziwei Fan et.al., Paper: [http://arxiv.org/abs/2306.03191v1](http://arxiv.org/abs/2306.03191v1)
 - 2023-03-25, **A Survey on Model-based, Heuristic, and Machine Learning Optimization Approaches in RIS-aided Wireless Networks**, Hao Zhou et.al., Paper: [http://arxiv.org/abs/2303.14320v1](http://arxiv.org/abs/2303.14320v1)
 - 2023-05-07, **Vertical Federated Graph Neural Network for Recommender System**, Peihua Mai et.al., Paper: [http://arxiv.org/abs/2303.05786v2](http://arxiv.org/abs/2303.05786v2), Code: **[https://github.com/maiph123/verticalgnn](https://github.com/maiph123/verticalgnn)**
 - 2023-03-01, **Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices**, Qiying Pan et.al., Paper: [http://arxiv.org/abs/2303.00492v1](http://arxiv.org/abs/2303.00492v1)

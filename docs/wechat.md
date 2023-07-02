@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.07.01
+> Updated on 2023.07.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -31,7 +31,7 @@
 - 2020-11-06, **ASFGNN: Automated Separated-Federated Graph Neural Network**, Longfei Zheng et.al., Paper: [http://arxiv.org/abs/2011.03248v1](http://arxiv.org/abs/2011.03248v1)
 - 2022-04-25, **Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification**, Chaochao Chen et.al., Paper: [http://arxiv.org/abs/2005.11903v3](http://arxiv.org/abs/2005.11903v3)
 
-<p align=right>(<a href=#Updated-on-20230701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230702>back to top</a>)</p>
 
 ## Federated Learning For Tabular
 
@@ -48,11 +48,11 @@
 - 2021-08-12, **FedXGBoost: Privacy-Preserving XGBoost for Federated Learning**, Nhan Khanh Le et.al., Paper: [http://arxiv.org/abs/2106.10662v3](http://arxiv.org/abs/2106.10662v3)
 - 2021-05-12, **An Efficient Learning Framework For Federated XGBoost Using Secret Sharing And Distributed Optimization**, Lunchen Xie et.al., Paper: [http://arxiv.org/abs/2105.05717v1](http://arxiv.org/abs/2105.05717v1), Code: **[https://github.com/HikariX/MP-FedXGB](https://github.com/HikariX/MP-FedXGB)**
 
-<p align=right>(<a href=#Updated-on-20230701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230702>back to top</a>)</p>
 
 ## Federated Learning Framework
 
-- 2023-06-28, **Federated Generative Learning with Foundation Models**, Jie Zhang et.al., Paper: [http://arxiv.org/abs/2306.16064v1](http://arxiv.org/abs/2306.16064v1)
+- 2023-06-28, **Federated Generative Learning with Foundation Models**, Jie Zhang et.al., Paper: [http://arxiv.org/abs/2306.16064v1](http://arxiv.org/abs/2306.16064v1), Code: **[https://github.com/zj-jayzhang/federated_generative_learning](https://github.com/zj-jayzhang/federated_generative_learning)**
 - 2023-06-28, **A Distributed Computation Model Based on Federated Learning Integrates Heterogeneous models and Consortium Blockchain for Solving Time-Varying Problems**, Zhihao Hao et.al., Paper: [http://arxiv.org/abs/2306.16023v1](http://arxiv.org/abs/2306.16023v1)
 - 2023-05-29, **Deep Equilibrium Models Meet Federated Learning**, Alexandros Gkillas et.al., Paper: [http://arxiv.org/abs/2305.18646v1](http://arxiv.org/abs/2305.18646v1)
 - 2023-05-25, **FedHC: A Scalable Federated Learning Framework for Heterogeneous and Resource-Constrained Clients**, Min Zhang et.al., Paper: [http://arxiv.org/abs/2305.15668v1](http://arxiv.org/abs/2305.15668v1)
@@ -101,7 +101,7 @@
 - 2022-09-22, **Enhanced Decentralized Federated Learning based on Consensus in Connected Vehicles**, Xiaoyan Liu et.al., Paper: [http://arxiv.org/abs/2209.10722v1](http://arxiv.org/abs/2209.10722v1)
 - 2022-09-07, **Modular Federated Learning**, Kuo-Yun Liang et.al., Paper: [http://arxiv.org/abs/2209.03090v1](http://arxiv.org/abs/2209.03090v1)
 
-<p align=right>(<a href=#Updated-on-20230701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230702>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/youngfish42/fl-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/youngfish42/fl-arxiv-daily/graphs/contributors

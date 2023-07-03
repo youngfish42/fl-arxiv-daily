@@ -58,6 +58,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Vision Through the Veil: Differential Privacy in Federated Learning for Medical Image Classification**|Kishore Babu Nampalle et.al.|[2306.17794v1](http://arxiv.org/abs/2306.17794v1)|null|
 |**2023-06-28**|**Federated Generative Learning with Foundation Models**|Jie Zhang et.al.|[2306.16064v1](http://arxiv.org/abs/2306.16064v1)|**[link](https://github.com/zj-jayzhang/federated_generative_learning)**|
 |**2023-06-28**|**A Distributed Computation Model Based on Federated Learning Integrates Heterogeneous models and Consortium Blockchain for Solving Time-Varying Problems**|Zhihao Hao et.al.|[2306.16023v1](http://arxiv.org/abs/2306.16023v1)|null|
 |**2023-05-29**|**Deep Equilibrium Models Meet Federated Learning**|Alexandros Gkillas et.al.|[2305.18646v1](http://arxiv.org/abs/2305.18646v1)|null|

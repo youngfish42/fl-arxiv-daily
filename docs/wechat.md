@@ -52,6 +52,7 @@
 
 ## Federated Learning Framework
 
+- 2023-07-10, **DBFed: Debiasing Federated Learning Framework based on Domain-Independent**, Jiale Li et.al., Paper: [http://arxiv.org/abs/2307.05582v1](http://arxiv.org/abs/2307.05582v1)
 - 2023-06-30, **Vision Through the Veil: Differential Privacy in Federated Learning for Medical Image Classification**, Kishore Babu Nampalle et.al., Paper: [http://arxiv.org/abs/2306.17794v1](http://arxiv.org/abs/2306.17794v1)
 - 2023-06-28, **Federated Generative Learning with Foundation Models**, Jie Zhang et.al., Paper: [http://arxiv.org/abs/2306.16064v1](http://arxiv.org/abs/2306.16064v1), Code: **[https://github.com/zj-jayzhang/federated_generative_learning](https://github.com/zj-jayzhang/federated_generative_learning)**
 - 2023-06-28, **A Distributed Computation Model Based on Federated Learning Integrates Heterogeneous models and Consortium Blockchain for Solving Time-Varying Problems**, Zhihao Hao et.al., Paper: [http://arxiv.org/abs/2306.16023v1](http://arxiv.org/abs/2306.16023v1)

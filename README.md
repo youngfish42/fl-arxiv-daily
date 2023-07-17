@@ -58,6 +58,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**Ed-Fed: A generic federated learning framework with resource-aware client selection for edge devices**|Zitha Sasindran et.al.|[2307.07199v1](http://arxiv.org/abs/2307.07199v1)|null|
 |**2023-07-10**|**DBFed: Debiasing Federated Learning Framework based on Domain-Independent**|Jiale Li et.al.|[2307.05582v1](http://arxiv.org/abs/2307.05582v1)|null|
 |**2023-06-30**|**Vision Through the Veil: Differential Privacy in Federated Learning for Medical Image Classification**|Kishore Babu Nampalle et.al.|[2306.17794v1](http://arxiv.org/abs/2306.17794v1)|null|
 |**2023-06-28**|**Federated Generative Learning with Foundation Models**|Jie Zhang et.al.|[2306.16064v1](http://arxiv.org/abs/2306.16064v1)|**[link](https://github.com/zj-jayzhang/federated_generative_learning)**|

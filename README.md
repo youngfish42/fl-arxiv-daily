@@ -58,6 +58,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-05**|**FLight: A Lightweight Federated Learning Framework in Edge and Fog Computing**|Wuji Zhu et.al.|[2308.02834v1](http://arxiv.org/abs/2308.02834v1)|null|
+|**2023-08-04**|**SABRE: Robust Bayesian Peer-to-Peer Federated Learning**|Nasimeh Heydaribeni et.al.|[2308.02747v1](http://arxiv.org/abs/2308.02747v1)|null|
 |**2023-07-19**|**Graph Federated Learning Based on the Decentralized Framework**|Peilin Liu et.al.|[2307.09801v1](http://arxiv.org/abs/2307.09801v1)|null|
 |**2023-07-14**|**Ed-Fed: A generic federated learning framework with resource-aware client selection for edge devices**|Zitha Sasindran et.al.|[2307.07199v1](http://arxiv.org/abs/2307.07199v1)|null|
 |**2023-07-10**|**DBFed: Debiasing Federated Learning Framework based on Domain-Independent**|Jiale Li et.al.|[2307.05582v1](http://arxiv.org/abs/2307.05582v1)|null|

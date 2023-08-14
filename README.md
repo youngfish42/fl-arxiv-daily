@@ -58,6 +58,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**UFed-GAN: A Secure Federated Learning Framework with Constrained Computation and Unlabeled Data**|Achintha Wijesinghe et.al.|[2308.05870v1](http://arxiv.org/abs/2308.05870v1)|null|
+|**2023-08-10**|**FLShield: A Validation Based Federated Learning Framework to Defend Against Poisoning Attacks**|Ehsanul Kabir et.al.|[2308.05832v1](http://arxiv.org/abs/2308.05832v1)|null|
 |**2023-08-09**|**An Empirical Study of Bugs in Open-Source Federated Learning Framework**|Weijie Shao et.al.|[2308.05014v1](http://arxiv.org/abs/2308.05014v1)|null|
 |**2023-08-05**|**FLight: A Lightweight Federated Learning Framework in Edge and Fog Computing**|Wuji Zhu et.al.|[2308.02834v1](http://arxiv.org/abs/2308.02834v1)|null|
 |**2023-08-04**|**SABRE: Robust Bayesian Peer-to-Peer Federated Learning**|Nasimeh Heydaribeni et.al.|[2308.02747v1](http://arxiv.org/abs/2308.02747v1)|null|

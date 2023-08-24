@@ -53,7 +53,7 @@
 
 ## Federated Learning Framework
 
-- 2023-08-22, **Federated Learning in Big Model Era: Domain-Specific Multimodal Large Models**, Zengxiang Li et.al., Paper: [http://arxiv.org/abs/2308.11217v1](http://arxiv.org/abs/2308.11217v1)
+- 2023-08-23, **Federated Learning in Big Model Era: Domain-Specific Multimodal Large Models**, Zengxiang Li et.al., Paper: [http://arxiv.org/abs/2308.11217v2](http://arxiv.org/abs/2308.11217v2)
 - 2023-08-20, **Federated Pseudo Modality Generation for Incomplete Multi-Modal MRI Reconstruction**, Yunlu Yan et.al., Paper: [http://arxiv.org/abs/2308.10910v1](http://arxiv.org/abs/2308.10910v1)
 - 2023-08-10, **UFed-GAN: A Secure Federated Learning Framework with Constrained Computation and Unlabeled Data**, Achintha Wijesinghe et.al., Paper: [http://arxiv.org/abs/2308.05870v1](http://arxiv.org/abs/2308.05870v1)
 - 2023-08-10, **FLShield: A Validation Based Federated Learning Framework to Defend Against Poisoning Attacks**, Ehsanul Kabir et.al., Paper: [http://arxiv.org/abs/2308.05832v1](http://arxiv.org/abs/2308.05832v1)

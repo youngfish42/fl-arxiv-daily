@@ -63,6 +63,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**EdgeFL: A Lightweight Decentralized Federated Learning Framework**|Hongyi Zhang et.al.|[2309.02936v1](http://arxiv.org/abs/2309.02936v1)|null|
 |**2023-08-31**|**Improving Multiple Sclerosis Lesion Segmentation Across Clinical Sites: A Federated Learning Approach with Noise-Resilient Training**|Lei Bai et.al.|[2308.16376v1](http://arxiv.org/abs/2308.16376v1)|null|
 |**2023-08-29**|**CEFHRI: A Communication Efficient Federated Learning Framework for Recognizing Industrial Human-Robot Interaction**|Umar Khalid et.al.|[2308.14965v1](http://arxiv.org/abs/2308.14965v1)|**[link](https://github.com/umarkhalidai/cefhri-efficient-federated-learning)**|
 |**2023-08-24**|**Federated Learning in Big Model Era: Domain-Specific Multimodal Large Models**|Zengxiang Li et.al.|[2308.11217v3](http://arxiv.org/abs/2308.11217v3)|null|

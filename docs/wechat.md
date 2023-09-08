@@ -53,6 +53,7 @@
 
 ## Federated Learning Framework
 
+- 2023-09-07, **Privacy-preserving Continual Federated Clustering via Adaptive Resonance Theory**, Naoki Masuyama et.al., Paper: [http://arxiv.org/abs/2309.03487v1](http://arxiv.org/abs/2309.03487v1), Code: **[https://github.com/Masuyama-lab/FCAC](https://github.com/Masuyama-lab/FCAC)**
 - 2023-09-06, **EdgeFL: A Lightweight Decentralized Federated Learning Framework**, Hongyi Zhang et.al., Paper: [http://arxiv.org/abs/2309.02936v1](http://arxiv.org/abs/2309.02936v1)
 - 2023-08-31, **Improving Multiple Sclerosis Lesion Segmentation Across Clinical Sites: A Federated Learning Approach with Noise-Resilient Training**, Lei Bai et.al., Paper: [http://arxiv.org/abs/2308.16376v1](http://arxiv.org/abs/2308.16376v1)
 - 2023-08-29, **CEFHRI: A Communication Efficient Federated Learning Framework for Recognizing Industrial Human-Robot Interaction**, Umar Khalid et.al., Paper: [http://arxiv.org/abs/2308.14965v1](http://arxiv.org/abs/2308.14965v1), Code: **[https://github.com/umarkhalidai/cefhri-efficient-federated-learning](https://github.com/umarkhalidai/cefhri-efficient-federated-learning)**

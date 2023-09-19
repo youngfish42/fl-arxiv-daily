@@ -16,6 +16,7 @@
 
 ## Federated Learning For Graph
 
+- 2023-09-18, **FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks**, Qiying Pan et.al., Paper: [http://arxiv.org/abs/2309.09517v1](http://arxiv.org/abs/2309.09517v1)
 - 2023-08-15, **Decentralized Graph Neural Network for Privacy-Preserving Recommendation**, Xiaolin Zheng et.al., Paper: [http://arxiv.org/abs/2308.08072v1](http://arxiv.org/abs/2308.08072v1)
 - 2023-06-05, **Personalized Federated Domain Adaptation for Item-to-Item Recommendation**, Ziwei Fan et.al., Paper: [http://arxiv.org/abs/2306.03191v1](http://arxiv.org/abs/2306.03191v1)
 - 2023-03-25, **A Survey on Model-based, Heuristic, and Machine Learning Optimization Approaches in RIS-aided Wireless Networks**, Hao Zhou et.al., Paper: [http://arxiv.org/abs/2303.14320v1](http://arxiv.org/abs/2303.14320v1)

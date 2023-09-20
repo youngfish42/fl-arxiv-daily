@@ -54,6 +54,7 @@
 
 ## Federated Learning Framework
 
+- 2023-09-19, **Toward efficient resource utilization at edge nodes in federated learning**, Sadi Alawadi et.al., Paper: [http://arxiv.org/abs/2309.10367v1](http://arxiv.org/abs/2309.10367v1)
 - 2023-09-15, **XFedHunter: An Explainable Federated Learning Framework for Advanced Persistent Threat Detection in SDN**, Huynh Thai Thi et.al., Paper: [http://arxiv.org/abs/2309.08485v1](http://arxiv.org/abs/2309.08485v1)
 - 2023-09-07, **Privacy-preserving Continual Federated Clustering via Adaptive Resonance Theory**, Naoki Masuyama et.al., Paper: [http://arxiv.org/abs/2309.03487v1](http://arxiv.org/abs/2309.03487v1), Code: **[https://github.com/Masuyama-lab/FCAC](https://github.com/Masuyama-lab/FCAC)**
 - 2023-09-06, **EdgeFL: A Lightweight Decentralized Federated Learning Framework**, Hongyi Zhang et.al., Paper: [http://arxiv.org/abs/2309.02936v1](http://arxiv.org/abs/2309.02936v1)

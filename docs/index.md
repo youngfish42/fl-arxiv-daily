@@ -45,6 +45,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**Effective and Efficient Federated Tree Learning on Hybrid Data**|Qinbin Li et.al.|[2310.11865v1](http://arxiv.org/abs/2310.11865v1)|null|
 |**2023-05-02**|**Gradient-less Federated Gradient Boosting Trees with Learnable Learning Rates**|Chenyang Ma et.al.|[2304.07537v2](http://arxiv.org/abs/2304.07537v2)|null|
 |**2023-01-12**|**Fed-TDA: Federated Tabular Data Augmentation on Non-IID Data**|Shaoming Duan et.al.|[2211.13116v2](http://arxiv.org/abs/2211.13116v2)|**[link](https://github.com/smduan/Fed-TDA)**|
 |**2022-10-06**|**Federated Boosted Decision Trees with Differential Privacy**|Samuel Maddock et.al.|[2210.02910v1](http://arxiv.org/abs/2210.02910v1)|**[link](https://github.com/samuel-maddock/federated-boosted-dp-trees)**|

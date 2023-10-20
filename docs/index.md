@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**Equipping Federated Graph Neural Networks with Structure-aware Group Fairness**|Nan Cui et.al.|[2310.12350v1](http://arxiv.org/abs/2310.12350v1)|**[link](https://github.com/yuening-lab/f2gnn)**|
 |**2023-09-21**|**FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks**|Qiying Pan et.al.|[2309.09517v3](http://arxiv.org/abs/2309.09517v3)|null|
 |**2023-08-15**|**Decentralized Graph Neural Network for Privacy-Preserving Recommendation**|Xiaolin Zheng et.al.|[2308.08072v1](http://arxiv.org/abs/2308.08072v1)|null|
 |**2023-06-05**|**Personalized Federated Domain Adaptation for Item-to-Item Recommendation**|Ziwei Fan et.al.|[2306.03191v1](http://arxiv.org/abs/2306.03191v1)|null|

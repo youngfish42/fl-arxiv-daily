@@ -66,6 +66,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-30**|**A Federated Learning Framework for Stenosis Detection**|Mariachiara Di Cosmo et.al.|[2310.19445v1](http://arxiv.org/abs/2310.19445v1)|null|
 |**2023-10-30**|**An Efficient Imbalance-Aware Federated Learning Approach for Wearable Healthcare with Autoregressive Ratio Observation**|Wenhao Yan et.al.|[2310.14784v2](http://arxiv.org/abs/2310.14784v2)|null|
 |**2023-10-22**|**PPFL: A Personalized Federated Learning Framework for Heterogeneous Population**|Hao Di et.al.|[2310.14337v1](http://arxiv.org/abs/2310.14337v1)|null|
 |**2023-10-20**|**FedLoRA: Model-Heterogeneous Personalized Federated Learning with LoRA Tuning**|Liping Yi et.al.|[2310.13283v1](http://arxiv.org/abs/2310.13283v1)|null|

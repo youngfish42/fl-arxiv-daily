@@ -61,6 +61,7 @@
 - 2023-10-30, **An Efficient Imbalance-Aware Federated Learning Approach for Wearable Healthcare with Autoregressive Ratio Observation**, Wenhao Yan et.al., Paper: [http://arxiv.org/abs/2310.14784v2](http://arxiv.org/abs/2310.14784v2)
 - 2023-10-22, **PPFL: A Personalized Federated Learning Framework for Heterogeneous Population**, Hao Di et.al., Paper: [http://arxiv.org/abs/2310.14337v1](http://arxiv.org/abs/2310.14337v1)
 - 2023-10-20, **FedLoRA: Model-Heterogeneous Personalized Federated Learning with LoRA Tuning**, Liping Yi et.al., Paper: [http://arxiv.org/abs/2310.13283v1](http://arxiv.org/abs/2310.13283v1)
+- 2023-11-09, **An Efficient Federated Learning Framework for Training Semantic Communication System**, Loc X. Nguyen et.al., Paper: [http://arxiv.org/abs/2310.13236v2](http://arxiv.org/abs/2310.13236v2)
 - 2023-10-16, **FATE-LLM: A Industrial Grade Federated Learning Framework for Large Language Models**, Tao Fan et.al., Paper: [http://arxiv.org/abs/2310.10049v1](http://arxiv.org/abs/2310.10049v1), Code: **[https://github.com/FederatedAI/FATE-LLM](https://github.com/FederatedAI/FATE-LLM)**
 - 2023-10-11, **RaftFed: A Lightweight Federated Learning Framework for Vehicular Crowd Intelligence**, Changan Yang et.al., Paper: [http://arxiv.org/abs/2310.07268v1](http://arxiv.org/abs/2310.07268v1)
 - 2023-10-10, **Federated Learning with Reduced Information Leakage and Computation**, Tongxin Yin et.al., Paper: [http://arxiv.org/abs/2310.06341v1](http://arxiv.org/abs/2310.06341v1)

@@ -56,6 +56,7 @@
 
 ## Federated Learning Framework
 
+- 2023-11-09, **The Paradox of Noise: An Empirical Study of Noise-Infusion Mechanisms to Improve Generalization, Stability, and Privacy in Federated Learning**, Elaheh Jafarigol et.al., Paper: [http://arxiv.org/abs/2311.05790v1](http://arxiv.org/abs/2311.05790v1)
 - 2023-11-02, **FedSN: A General Federated Learning Framework over LEO Satellite Networks**, Zheng Lin et.al., Paper: [http://arxiv.org/abs/2311.01483v1](http://arxiv.org/abs/2311.01483v1)
 - 2023-10-30, **A Federated Learning Framework for Stenosis Detection**, Mariachiara Di Cosmo et.al., Paper: [http://arxiv.org/abs/2310.19445v1](http://arxiv.org/abs/2310.19445v1)
 - 2023-10-30, **An Efficient Imbalance-Aware Federated Learning Approach for Wearable Healthcare with Autoregressive Ratio Observation**, Wenhao Yan et.al., Paper: [http://arxiv.org/abs/2310.14784v2](http://arxiv.org/abs/2310.14784v2)

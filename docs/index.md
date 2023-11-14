@@ -66,6 +66,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Robust softmax aggregation on blockchain based federated learning with convergence guarantee**|Huiyu Wu et.al.|[2311.07027v1](http://arxiv.org/abs/2311.07027v1)|null|
+|**2023-11-11**|**Seeing is Believing: A Federated Learning Based Prototype to Detect Wireless Injection Attacks**|Aadil Hussain et.al.|[2311.06564v1](http://arxiv.org/abs/2311.06564v1)|null|
 |**2023-11-09**|**The Paradox of Noise: An Empirical Study of Noise-Infusion Mechanisms to Improve Generalization, Stability, and Privacy in Federated Learning**|Elaheh Jafarigol et.al.|[2311.05790v1](http://arxiv.org/abs/2311.05790v1)|null|
 |**2023-11-02**|**FedSN: A General Federated Learning Framework over LEO Satellite Networks**|Zheng Lin et.al.|[2311.01483v1](http://arxiv.org/abs/2311.01483v1)|null|
 |**2023-10-30**|**A Federated Learning Framework for Stenosis Detection**|Mariachiara Di Cosmo et.al.|[2310.19445v1](http://arxiv.org/abs/2310.19445v1)|null|

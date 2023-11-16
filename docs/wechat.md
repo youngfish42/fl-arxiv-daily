@@ -56,6 +56,7 @@
 
 ## Federated Learning Framework
 
+- 2023-11-15, **Federated Learning for Sparse Principal Component Analysis**, Sin Cheng Ciou et.al., Paper: [http://arxiv.org/abs/2311.08677v1](http://arxiv.org/abs/2311.08677v1)
 - 2023-11-13, **Robust softmax aggregation on blockchain based federated learning with convergence guarantee**, Huiyu Wu et.al., Paper: [http://arxiv.org/abs/2311.07027v1](http://arxiv.org/abs/2311.07027v1)
 - 2023-11-11, **Seeing is Believing: A Federated Learning Based Prototype to Detect Wireless Injection Attacks**, Aadil Hussain et.al., Paper: [http://arxiv.org/abs/2311.06564v1](http://arxiv.org/abs/2311.06564v1)
 - 2023-11-09, **The Paradox of Noise: An Empirical Study of Noise-Infusion Mechanisms to Improve Generalization, Stability, and Privacy in Federated Learning**, Elaheh Jafarigol et.al., Paper: [http://arxiv.org/abs/2311.05790v1](http://arxiv.org/abs/2311.05790v1)

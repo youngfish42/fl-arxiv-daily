@@ -66,6 +66,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**VeryFL: A Verify Federated Learning Framework Embedded with Blockchain**|Yihao Li et.al.|[2311.15617v1](http://arxiv.org/abs/2311.15617v1)|**[link](https://github.com/gtmllab/veryfl)**|
+|**2023-11-26**|**Evaluating Multi-Global Server Architecture for Federated Learning**|Asfia Kawnine et.al.|[2311.15382v1](http://arxiv.org/abs/2311.15382v1)|null|
 |**2023-11-23**|**Enhancing Intrusion Detection In Internet Of Vehicles Through Federated Learning**|Abhishek Sebastian et.al.|[2311.13800v1](http://arxiv.org/abs/2311.13800v1)|null|
 |**2023-11-17**|**FedTruth: Byzantine-Robust and Backdoor-Resilient Federated Learning Framework**|Sheldon C. Ebron Jr. et.al.|[2311.10248v1](http://arxiv.org/abs/2311.10248v1)|null|
 |**2023-11-15**|**Federated Learning for Sparse Principal Component Analysis**|Sin Cheng Ciou et.al.|[2311.08677v1](http://arxiv.org/abs/2311.08677v1)|null|

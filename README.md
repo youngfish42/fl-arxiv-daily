@@ -22,7 +22,7 @@
 |**2023-09-21**|**FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks**|Qiying Pan et.al.|[2309.09517v3](http://arxiv.org/abs/2309.09517v3)|null|
 |**2023-08-15**|**Decentralized Graph Neural Network for Privacy-Preserving Recommendation**|Xiaolin Zheng et.al.|[2308.08072v1](http://arxiv.org/abs/2308.08072v1)|null|
 |**2023-06-05**|**Personalized Federated Domain Adaptation for Item-to-Item Recommendation**|Ziwei Fan et.al.|[2306.03191v1](http://arxiv.org/abs/2306.03191v1)|null|
-|**2023-03-25**|**A Survey on Model-based, Heuristic, and Machine Learning Optimization Approaches in RIS-aided Wireless Networks**|Hao Zhou et.al.|[2303.14320v1](http://arxiv.org/abs/2303.14320v1)|null|
+|**2023-11-29**|**A Survey on Model-based, Heuristic, and Machine Learning Optimization Approaches in RIS-aided Wireless Networks**|Hao Zhou et.al.|[2303.14320v2](http://arxiv.org/abs/2303.14320v2)|null|
 |**2023-05-07**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v2](http://arxiv.org/abs/2303.05786v2)|**[link](https://github.com/maiph123/verticalgnn)**|
 |**2023-10-03**|**Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices**|Qiying Pan et.al.|[2303.00492v2](http://arxiv.org/abs/2303.00492v2)|null|
 |**2023-01-27**|**SplitGNN: Splitting GNN for Node Classification with Heterogeneous Attention**|Xiaolong Xu et.al.|[2301.12885v1](http://arxiv.org/abs/2301.12885v1)|null|

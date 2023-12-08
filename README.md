@@ -62,6 +62,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**Factor-Assisted Federated Learning for Personalized Optimization with Heterogeneous Data**|Feifei Wang et.al.|[2312.04281v1](http://arxiv.org/abs/2312.04281v1)|null|
+|**2023-12-06**|**PCDP-SGD: Improving the Convergence of Differentially Private SGD via Projection in Advance**|Haichao Sha et.al.|[2312.03792v1](http://arxiv.org/abs/2312.03792v1)|null|
 |**2023-11-27**|**VeryFL: A Verify Federated Learning Framework Embedded with Blockchain**|Yihao Li et.al.|[2311.15617v1](http://arxiv.org/abs/2311.15617v1)|**[link](https://github.com/gtmllab/veryfl)**|
 |**2023-11-26**|**Evaluating Multi-Global Server Architecture for Federated Learning**|Asfia Kawnine et.al.|[2311.15382v1](http://arxiv.org/abs/2311.15382v1)|null|
 |**2023-11-23**|**Enhancing Intrusion Detection In Internet Of Vehicles Through Federated Learning**|Abhishek Sebastian et.al.|[2311.13800v1](http://arxiv.org/abs/2311.13800v1)|null|

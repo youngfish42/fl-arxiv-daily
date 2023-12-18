@@ -56,6 +56,7 @@
 
 ## Federated Learning Framework
 
+- 2023-12-15, **Dynamic Heterogeneous Federated Learning with Multi-Level Prototypes**, Shunxin Guo et.al., Paper: [http://arxiv.org/abs/2312.09881v1](http://arxiv.org/abs/2312.09881v1)
 - 2023-12-12, **Feature Norm Regularized Federated Learning: Transforming Skewed Distributions into Global Insights**, Ke Hu et.al., Paper: [http://arxiv.org/abs/2312.06951v1](http://arxiv.org/abs/2312.06951v1)
 - 2023-12-06, **TrustFed: A Reliable Federated Learning Framework with Malicious-Attack Resistance**, Hangn Su et.al., Paper: [http://arxiv.org/abs/2312.04597v1](http://arxiv.org/abs/2312.04597v1)
 - 2023-12-07, **Factor-Assisted Federated Learning for Personalized Optimization with Heterogeneous Data**, Feifei Wang et.al., Paper: [http://arxiv.org/abs/2312.04281v1](http://arxiv.org/abs/2312.04281v1)

@@ -66,6 +66,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**FedMKGC: Privacy-Preserving Federated Multilingual Knowledge Graph Completion**|Wei Tang et.al.|[2312.10645v1](http://arxiv.org/abs/2312.10645v1)|null|
 |**2023-12-15**|**Dynamic Heterogeneous Federated Learning with Multi-Level Prototypes**|Shunxin Guo et.al.|[2312.09881v1](http://arxiv.org/abs/2312.09881v1)|null|
 |**2023-12-12**|**Feature Norm Regularized Federated Learning: Transforming Skewed Distributions into Global Insights**|Ke Hu et.al.|[2312.06951v1](http://arxiv.org/abs/2312.06951v1)|null|
 |**2023-12-06**|**TrustFed: A Reliable Federated Learning Framework with Malicious-Attack Resistance**|Hangn Su et.al.|[2312.04597v1](http://arxiv.org/abs/2312.04597v1)|null|

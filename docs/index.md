@@ -66,7 +66,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-19**|**FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels**|Jichang Li et.al.|[2312.12263v1](http://arxiv.org/abs/2312.12263v1)|**[link](https://github.com/lijichang/flnl-feddiv)**|
+|**2023-12-20**|**FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels**|Jichang Li et.al.|[2312.12263v2](http://arxiv.org/abs/2312.12263v2)|**[link](https://github.com/lijichang/flnl-feddiv)**|
 |**2023-12-18**|**A Quantum Federated Learning Framework for Classical Clients**|Yanqi Song et.al.|[2312.11672v1](http://arxiv.org/abs/2312.11672v1)|null|
 |**2023-12-17**|**FedMKGC: Privacy-Preserving Federated Multilingual Knowledge Graph Completion**|Wei Tang et.al.|[2312.10645v1](http://arxiv.org/abs/2312.10645v1)|null|
 |**2023-12-15**|**Dynamic Heterogeneous Federated Learning with Multi-Level Prototypes**|Shunxin Guo et.al.|[2312.09881v1](http://arxiv.org/abs/2312.09881v1)|null|

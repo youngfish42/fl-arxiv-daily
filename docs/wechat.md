@@ -56,6 +56,7 @@
 
 ## Federated Learning Framework
 
+- 2023-12-22, **Federated Learning with Projected Trajectory Regularization**, Tiejin Chen et.al., Paper: [http://arxiv.org/abs/2312.14380v1](http://arxiv.org/abs/2312.14380v1)
 - 2023-12-21, **Multimodal Federated Learning with Missing Modality via Prototype Mask and Contrast**, Guangyin Bao et.al., Paper: [http://arxiv.org/abs/2312.13508v1](http://arxiv.org/abs/2312.13508v1)
 - 2023-12-20, **FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels**, Jichang Li et.al., Paper: [http://arxiv.org/abs/2312.12263v2](http://arxiv.org/abs/2312.12263v2), Code: **[https://github.com/lijichang/flnl-feddiv](https://github.com/lijichang/flnl-feddiv)**
 - 2023-12-18, **A Quantum Federated Learning Framework for Classical Clients**, Yanqi Song et.al., Paper: [http://arxiv.org/abs/2312.11672v1](http://arxiv.org/abs/2312.11672v1)

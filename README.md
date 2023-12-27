@@ -62,6 +62,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-26**|**Federated Hyperdimensional Computing**|Kazim Ergun et.al.|[2312.15966v1](http://arxiv.org/abs/2312.15966v1)|null|
 |**2023-12-22**|**Federated Learning with Projected Trajectory Regularization**|Tiejin Chen et.al.|[2312.14380v1](http://arxiv.org/abs/2312.14380v1)|null|
 |**2023-12-21**|**Multimodal Federated Learning with Missing Modality via Prototype Mask and Contrast**|Guangyin Bao et.al.|[2312.13508v1](http://arxiv.org/abs/2312.13508v1)|null|
 |**2023-12-20**|**FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels**|Jichang Li et.al.|[2312.12263v2](http://arxiv.org/abs/2312.12263v2)|**[link](https://github.com/lijichang/flnl-feddiv)**|

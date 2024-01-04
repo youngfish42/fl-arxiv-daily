@@ -56,6 +56,7 @@
 
 ## Federated Learning Framework
 
+- 2024-01-01, **Predicting Infant Brain Connectivity with Federated Multi-Trajectory GNNs using Scarce Data**, Michalis Pistos et.al., Paper: [http://arxiv.org/abs/2401.01383v1](http://arxiv.org/abs/2401.01383v1)
 - 2023-12-28, **Replica Tree-based Federated Learning using Limited Data**, Ramona Ghilea et.al., Paper: [http://arxiv.org/abs/2312.17159v1](http://arxiv.org/abs/2312.17159v1)
 - 2023-12-26, **Federated Hyperdimensional Computing**, Kazim Ergun et.al., Paper: [http://arxiv.org/abs/2312.15966v1](http://arxiv.org/abs/2312.15966v1)
 - 2023-12-22, **Federated Learning with Projected Trajectory Regularization**, Tiejin Chen et.al., Paper: [http://arxiv.org/abs/2312.14380v1](http://arxiv.org/abs/2312.14380v1)

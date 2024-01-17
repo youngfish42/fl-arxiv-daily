@@ -56,6 +56,8 @@
 
 ## Federated Learning Framework
 
+- 2024-01-16, **Learn What You Need in Personalized Federated Learning**, Kexin Lv et.al., Paper: [http://arxiv.org/abs/2401.08327v1](http://arxiv.org/abs/2401.08327v1), Code: **[https://github.com/kelenlv/learn2pfed](https://github.com/kelenlv/learn2pfed)**
+- 2024-01-13, **FedDriveScore: Federated Scoring Driving Behavior with a Mixture of Metric Distributions**, Lin Lu et.al., Paper: [http://arxiv.org/abs/2401.06953v1](http://arxiv.org/abs/2401.06953v1)
 - 2024-01-08, **Predicting Infant Brain Connectivity with Federated Multi-Trajectory GNNs using Scarce Data**, Michalis Pistos et.al., Paper: [http://arxiv.org/abs/2401.01383v2](http://arxiv.org/abs/2401.01383v2), Code: **[https://github.com/basiralab/fedgmte-net-plus](https://github.com/basiralab/fedgmte-net-plus)**
 - 2023-12-28, **Replica Tree-based Federated Learning using Limited Data**, Ramona Ghilea et.al., Paper: [http://arxiv.org/abs/2312.17159v1](http://arxiv.org/abs/2312.17159v1)
 - 2023-12-26, **Federated Hyperdimensional Computing**, Kazim Ergun et.al., Paper: [http://arxiv.org/abs/2312.15966v1](http://arxiv.org/abs/2312.15966v1)

@@ -62,6 +62,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-23**|**FedRSU: Federated Learning for Scene Flow Estimation on Roadside Units**|Shaoheng Fang et.al.|[2401.12862v1](http://arxiv.org/abs/2401.12862v1)|null|
 |**2024-01-16**|**Learn What You Need in Personalized Federated Learning**|Kexin Lv et.al.|[2401.08327v1](http://arxiv.org/abs/2401.08327v1)|**[link](https://github.com/kelenlv/learn2pfed)**|
 |**2024-01-13**|**FedDriveScore: Federated Scoring Driving Behavior with a Mixture of Metric Distributions**|Lin Lu et.al.|[2401.06953v1](http://arxiv.org/abs/2401.06953v1)|null|
 |**2024-01-08**|**Predicting Infant Brain Connectivity with Federated Multi-Trajectory GNNs using Scarce Data**|Michalis Pistos et.al.|[2401.01383v2](http://arxiv.org/abs/2401.01383v2)|**[link](https://github.com/basiralab/fedgmte-net-plus)**|

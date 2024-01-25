@@ -56,6 +56,7 @@
 
 ## Federated Learning Framework
 
+- 2024-01-24, **Past, Present, Future: A Comprehensive Exploration of AI Use Cases in the UMBRELLA IoT Testbed**, Peizheng Li et.al., Paper: [http://arxiv.org/abs/2401.13346v1](http://arxiv.org/abs/2401.13346v1)
 - 2024-01-23, **FedRSU: Federated Learning for Scene Flow Estimation on Roadside Units**, Shaoheng Fang et.al., Paper: [http://arxiv.org/abs/2401.12862v1](http://arxiv.org/abs/2401.12862v1)
 - 2024-01-16, **Learn What You Need in Personalized Federated Learning**, Kexin Lv et.al., Paper: [http://arxiv.org/abs/2401.08327v1](http://arxiv.org/abs/2401.08327v1), Code: **[https://github.com/kelenlv/learn2pfed](https://github.com/kelenlv/learn2pfed)**
 - 2024-01-13, **FedDriveScore: Federated Scoring Driving Behavior with a Mixture of Metric Distributions**, Lin Lu et.al., Paper: [http://arxiv.org/abs/2401.06953v1](http://arxiv.org/abs/2401.06953v1)

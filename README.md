@@ -62,6 +62,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Model CBOR Serialization for Federated Learning**|Koen Zandberg et.al.|[2401.14056v1](http://arxiv.org/abs/2401.14056v1)|null|
 |**2024-01-24**|**Past, Present, Future: A Comprehensive Exploration of AI Use Cases in the UMBRELLA IoT Testbed**|Peizheng Li et.al.|[2401.13346v1](http://arxiv.org/abs/2401.13346v1)|null|
 |**2024-01-23**|**FedRSU: Federated Learning for Scene Flow Estimation on Roadside Units**|Shaoheng Fang et.al.|[2401.12862v1](http://arxiv.org/abs/2401.12862v1)|null|
 |**2024-01-16**|**Learn What You Need in Personalized Federated Learning**|Kexin Lv et.al.|[2401.08327v1](http://arxiv.org/abs/2401.08327v1)|**[link](https://github.com/kelenlv/learn2pfed)**|

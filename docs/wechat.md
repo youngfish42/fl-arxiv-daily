@@ -56,6 +56,7 @@
 
 ## Federated Learning Framework
 
+- 2024-01-29, **Rethinking Personalized Federated Learning with Clustering-based Dynamic Graph Propagation**, Jiaqi Wang et.al., Paper: [http://arxiv.org/abs/2401.15874v1](http://arxiv.org/abs/2401.15874v1)
 - 2024-01-25, **Model CBOR Serialization for Federated Learning**, Koen Zandberg et.al., Paper: [http://arxiv.org/abs/2401.14056v1](http://arxiv.org/abs/2401.14056v1)
 - 2024-01-24, **Past, Present, Future: A Comprehensive Exploration of AI Use Cases in the UMBRELLA IoT Testbed**, Peizheng Li et.al., Paper: [http://arxiv.org/abs/2401.13346v1](http://arxiv.org/abs/2401.13346v1)
 - 2024-01-23, **FedRSU: Federated Learning for Scene Flow Estimation on Roadside Units**, Shaoheng Fang et.al., Paper: [http://arxiv.org/abs/2401.12862v1](http://arxiv.org/abs/2401.12862v1)

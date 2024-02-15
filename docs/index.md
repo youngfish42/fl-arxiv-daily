@@ -66,6 +66,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**FedSiKD: Clients Similarity and Knowledge Distillation: Addressing Non-i.i.d. and Constraints in Federated Learning**|Yousef Alsenani et.al.|[2402.09095v1](http://arxiv.org/abs/2402.09095v1)|**[link](https://github.com/simuenv/fedsikd)**|
 |**2024-02-10**|**Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off**|Yuecheng Li et.al.|[2402.07002v1](http://arxiv.org/abs/2402.07002v1)|null|
 |**2024-02-05**|**Towards Eliminating Hard Label Constraints in Gradient Inversion Attacks**|Yanbo Wang et.al.|[2402.03124v1](http://arxiv.org/abs/2402.03124v1)|**[link](https://github.com/ybwang119/label_recovery)**|
 |**2024-01-29**|**Rethinking Personalized Federated Learning with Clustering-based Dynamic Graph Propagation**|Jiaqi Wang et.al.|[2401.15874v1](http://arxiv.org/abs/2401.15874v1)|null|

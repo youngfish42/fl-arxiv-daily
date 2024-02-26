@@ -62,6 +62,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Practical Insights into Knowledge Distillation for Pre-Trained Models**|Norah Alballa et.al.|[2402.14922v1](http://arxiv.org/abs/2402.14922v1)|null|
 |**2024-02-22**|**Federated Learning on Transcriptomic Data: Model Quality and Performance Trade-Offs**|Anika Hannemann et.al.|[2402.14527v1](http://arxiv.org/abs/2402.14527v1)|**[link](https://github.com/leoseg/benchmarkingfederated)**|
 |**2024-02-14**|**FedSiKD: Clients Similarity and Knowledge Distillation: Addressing Non-i.i.d. and Constraints in Federated Learning**|Yousef Alsenani et.al.|[2402.09095v1](http://arxiv.org/abs/2402.09095v1)|**[link](https://github.com/simuenv/fedsikd)**|
 |**2024-02-10**|**Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off**|Yuecheng Li et.al.|[2402.07002v1](http://arxiv.org/abs/2402.07002v1)|null|

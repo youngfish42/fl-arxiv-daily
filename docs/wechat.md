@@ -56,6 +56,7 @@
 
 ## Federated Learning Framework
 
+- 2024-02-24, **ESFL: Efficient Split Federated Learning over Resource-Constrained Heterogeneous Wireless Devices**, Guangyu Zhu et.al., Paper: [http://arxiv.org/abs/2402.15903v1](http://arxiv.org/abs/2402.15903v1)
 - 2024-02-22, **Practical Insights into Knowledge Distillation for Pre-Trained Models**, Norah Alballa et.al., Paper: [http://arxiv.org/abs/2402.14922v1](http://arxiv.org/abs/2402.14922v1)
 - 2024-02-22, **Federated Learning on Transcriptomic Data: Model Quality and Performance Trade-Offs**, Anika Hannemann et.al., Paper: [http://arxiv.org/abs/2402.14527v1](http://arxiv.org/abs/2402.14527v1), Code: **[https://github.com/leoseg/benchmarkingfederated](https://github.com/leoseg/benchmarkingfederated)**
 - 2024-02-14, **FedSiKD: Clients Similarity and Knowledge Distillation: Addressing Non-i.i.d. and Constraints in Federated Learning**, Yousef Alsenani et.al., Paper: [http://arxiv.org/abs/2402.09095v1](http://arxiv.org/abs/2402.09095v1), Code: **[https://github.com/simuenv/fedsikd](https://github.com/simuenv/fedsikd)**

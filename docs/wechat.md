@@ -56,10 +56,12 @@
 
 ## Federated Learning Framework
 
+- 2024-03-04, **Towards Optimal Customized Architecture for Heterogeneous Federated Learning with Contrastive Cloud-Edge Model Decoupling**, Xingyan Chen et.al., Paper: [http://arxiv.org/abs/2403.02360v1](http://arxiv.org/abs/2403.02360v1), Code: **[https://github.com/elegy112138/fedcmd](https://github.com/elegy112138/fedcmd)**
+- 2024-03-03, **Asyn2F: An Asynchronous Federated Learning Framework with Bidirectional Model Aggregation**, Tien-Dung Cao et.al., Paper: [http://arxiv.org/abs/2403.01417v1](http://arxiv.org/abs/2403.01417v1)
 - 2024-03-01, **Federated Learning via Lattice Joint Source-Channel Coding**, Seyed Mohammad Azimi-Abarghouyi et.al., Paper: [http://arxiv.org/abs/2403.01023v1](http://arxiv.org/abs/2403.01023v1)
 - 2024-03-01, **FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked RDMA Transmission**, Zeling Zhang et.al., Paper: [http://arxiv.org/abs/2403.00881v1](http://arxiv.org/abs/2403.00881v1)
 - 2024-03-01, **Cloud-based Federated Learning Framework for MRI Segmentation**, Rukesh Prajapati et.al., Paper: [http://arxiv.org/abs/2403.00254v1](http://arxiv.org/abs/2403.00254v1)
-- 2024-02-29, **Global and Local Prompts Cooperation via Optimal Transport for Federated Learning**, Hongxia Li et.al., Paper: [http://arxiv.org/abs/2403.00041v1](http://arxiv.org/abs/2403.00041v1)
+- 2024-02-29, **Global and Local Prompts Cooperation via Optimal Transport for Federated Learning**, Hongxia Li et.al., Paper: [http://arxiv.org/abs/2403.00041v1](http://arxiv.org/abs/2403.00041v1), Code: **[https://github.com/hongxialee/fedotp](https://github.com/hongxialee/fedotp)**
 - 2024-02-24, **ESFL: Efficient Split Federated Learning over Resource-Constrained Heterogeneous Wireless Devices**, Guangyu Zhu et.al., Paper: [http://arxiv.org/abs/2402.15903v1](http://arxiv.org/abs/2402.15903v1)
 - 2024-02-22, **Practical Insights into Knowledge Distillation for Pre-Trained Models**, Norah Alballa et.al., Paper: [http://arxiv.org/abs/2402.14922v1](http://arxiv.org/abs/2402.14922v1)
 - 2024-02-22, **Federated Learning on Transcriptomic Data: Model Quality and Performance Trade-Offs**, Anika Hannemann et.al., Paper: [http://arxiv.org/abs/2402.14527v1](http://arxiv.org/abs/2402.14527v1), Code: **[https://github.com/leoseg/benchmarkingfederated](https://github.com/leoseg/benchmarkingfederated)**

@@ -56,6 +56,7 @@
 
 ## Federated Learning Framework
 
+- 2024-03-08, **FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation**, Yuxi Liu et.al., Paper: [http://arxiv.org/abs/2403.05408v1](http://arxiv.org/abs/2403.05408v1), Code: **[https://github.com/liu-yuxi/fedfms](https://github.com/liu-yuxi/fedfms)**
 - 2024-03-04, **Towards Optimal Customized Architecture for Heterogeneous Federated Learning with Contrastive Cloud-Edge Model Decoupling**, Xingyan Chen et.al., Paper: [http://arxiv.org/abs/2403.02360v1](http://arxiv.org/abs/2403.02360v1), Code: **[https://github.com/elegy112138/fedcmd](https://github.com/elegy112138/fedcmd)**
 - 2024-03-03, **Asyn2F: An Asynchronous Federated Learning Framework with Bidirectional Model Aggregation**, Tien-Dung Cao et.al., Paper: [http://arxiv.org/abs/2403.01417v1](http://arxiv.org/abs/2403.01417v1)
 - 2024-03-01, **Federated Learning via Lattice Joint Source-Channel Coding**, Seyed Mohammad Azimi-Abarghouyi et.al., Paper: [http://arxiv.org/abs/2403.01023v1](http://arxiv.org/abs/2403.01023v1)

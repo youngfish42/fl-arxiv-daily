@@ -66,6 +66,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**Adaptive Coded Federated Learning: Privacy Preservation and Straggler Mitigation**|Chengxi Li et.al.|[2403.14905v1](http://arxiv.org/abs/2403.14905v1)|null|
+|**2024-03-19**|**FedSR: A Semi-Decentralized Federated Learning Algorithm for Non-IIDness in IoT System**|Jianjun Huang et.al.|[2403.14718v1](http://arxiv.org/abs/2403.14718v1)|null|
 |**2024-03-18**|**Fed3DGS: Scalable 3D Gaussian Splatting with Federated Learning**|Teppei Suzuki et.al.|[2403.11460v1](http://arxiv.org/abs/2403.11460v1)|**[link](https://github.com/densoitlab/fed3dgs)**|
 |**2024-03-14**|**Metadata-Driven Federated Learning of Connectional Brain Templates in Non-IID Multi-Domain Scenarios**|Geng Chen et.al.|[2403.09139v1](http://arxiv.org/abs/2403.09139v1)|null|
 |**2024-03-13**|**Decoupled Federated Learning on Long-Tailed and Non-IID data with Feature Statistics**|Zhuoxin Chen et.al.|[2403.08364v1](http://arxiv.org/abs/2403.08364v1)|null|

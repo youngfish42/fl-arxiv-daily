@@ -39,7 +39,7 @@
 ## Federated Learning For Tabular
 
 - 2023-10-18, **Effective and Efficient Federated Tree Learning on Hybrid Data**, Qinbin Li et.al., Paper: [http://arxiv.org/abs/2310.11865v1](http://arxiv.org/abs/2310.11865v1)
-- 2023-05-02, **Gradient-less Federated Gradient Boosting Trees with Learnable Learning Rates**, Chenyang Ma et.al., Paper: [http://arxiv.org/abs/2304.07537v2](http://arxiv.org/abs/2304.07537v2)
+- 2024-03-24, **Gradient-less Federated Gradient Boosting Trees with Learnable Learning Rates**, Chenyang Ma et.al., Paper: [http://arxiv.org/abs/2304.07537v3](http://arxiv.org/abs/2304.07537v3)
 - 2023-01-12, **Fed-TDA: Federated Tabular Data Augmentation on Non-IID Data**, Shaoming Duan et.al., Paper: [http://arxiv.org/abs/2211.13116v2](http://arxiv.org/abs/2211.13116v2), Code: **[https://github.com/smduan/Fed-TDA](https://github.com/smduan/Fed-TDA)**
 - 2022-10-06, **Federated Boosted Decision Trees with Differential Privacy**, Samuel Maddock et.al., Paper: [http://arxiv.org/abs/2210.02910v1](http://arxiv.org/abs/2210.02910v1), Code: **[https://github.com/samuel-maddock/federated-boosted-dp-trees](https://github.com/samuel-maddock/federated-boosted-dp-trees)**
 - 2022-10-04, **OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization**, Xiaochen Li et.al., Paper: [http://arxiv.org/abs/2210.01318v1](http://arxiv.org/abs/2210.01318v1), Code: **[https://github.com/alibaba-edu/mpc4j](https://github.com/alibaba-edu/mpc4j)**

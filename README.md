@@ -62,6 +62,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**FedAC: A Adaptive Clustered Federated Learning Framework for Heterogeneous Data**|Yuxin Zhang et.al.|[2403.16460v1](http://arxiv.org/abs/2403.16460v1)|null|
 |**2024-03-22**|**Adaptive Coded Federated Learning: Privacy Preservation and Straggler Mitigation**|Chengxi Li et.al.|[2403.14905v1](http://arxiv.org/abs/2403.14905v1)|null|
 |**2024-03-19**|**FedSR: A Semi-Decentralized Federated Learning Algorithm for Non-IIDness in IoT System**|Jianjun Huang et.al.|[2403.14718v1](http://arxiv.org/abs/2403.14718v1)|null|
 |**2024-03-18**|**Fed3DGS: Scalable 3D Gaussian Splatting with Federated Learning**|Teppei Suzuki et.al.|[2403.11460v1](http://arxiv.org/abs/2403.11460v1)|**[link](https://github.com/densoitlab/fed3dgs)**|

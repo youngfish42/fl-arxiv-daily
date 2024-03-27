@@ -56,6 +56,7 @@
 
 ## Federated Learning Framework
 
+- 2024-03-26, **Not All Federated Learning Algorithms Are Created Equal: A Performance Evaluation Study**, Gustav A. Baumgart et.al., Paper: [http://arxiv.org/abs/2403.17287v1](http://arxiv.org/abs/2403.17287v1)
 - 2024-03-25, **FedAC: A Adaptive Clustered Federated Learning Framework for Heterogeneous Data**, Yuxin Zhang et.al., Paper: [http://arxiv.org/abs/2403.16460v1](http://arxiv.org/abs/2403.16460v1)
 - 2024-03-22, **Adaptive Coded Federated Learning: Privacy Preservation and Straggler Mitigation**, Chengxi Li et.al., Paper: [http://arxiv.org/abs/2403.14905v1](http://arxiv.org/abs/2403.14905v1)
 - 2024-03-19, **FedSR: A Semi-Decentralized Federated Learning Algorithm for Non-IIDness in IoT System**, Jianjun Huang et.al., Paper: [http://arxiv.org/abs/2403.14718v1](http://arxiv.org/abs/2403.14718v1)

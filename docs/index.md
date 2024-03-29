@@ -66,6 +66,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Client-supervised Federated Learning: Towards One-model-for-all Personalization**|Peng Yan et.al.|[2403.19499v1](http://arxiv.org/abs/2403.19499v1)|null|
 |**2024-03-27**|**Spikewhisper: Temporal Spike Backdoor Attacks on Federated Neuromorphic Learning over Low-power Devices**|Hanqing Fu et.al.|[2403.18607v1](http://arxiv.org/abs/2403.18607v1)|null|
 |**2024-03-26**|**Not All Federated Learning Algorithms Are Created Equal: A Performance Evaluation Study**|Gustav A. Baumgart et.al.|[2403.17287v1](http://arxiv.org/abs/2403.17287v1)|null|
 |**2024-03-25**|**FedAC: A Adaptive Clustered Federated Learning Framework for Heterogeneous Data**|Yuxin Zhang et.al.|[2403.16460v1](http://arxiv.org/abs/2403.16460v1)|null|

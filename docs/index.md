@@ -67,6 +67,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-20**|**EHRFL: Federated Learning Framework for Heterogeneous EHRs and Precision-guided Selection of Participating Clients**|Jiyoun Kim et.al.|[2404.13318v1](http://arxiv.org/abs/2404.13318v1)|**[link](https://github.com/ji-youn-kim/ehrfl)**|
 |**2024-04-15**|**Communication-Efficient Hybrid Federated Learning for E-health with Horizontal and Vertical Data Partitioning**|Chong Yu et.al.|[2404.10110v1](http://arxiv.org/abs/2404.10110v1)|null|
 |**2024-04-15**|**Federated Learning on Riemannian Manifolds with Differential Privacy**|Zhenwei Huang et.al.|[2404.10029v1](http://arxiv.org/abs/2404.10029v1)|null|
 |**2024-04-15**|**Distributed Federated Learning-Based Deep Learning Model for Privacy MRI Brain Tumor Detection**|Lisang Zhou et.al.|[2404.10026v1](http://arxiv.org/abs/2404.10026v1)|null|

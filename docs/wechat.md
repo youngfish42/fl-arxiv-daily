@@ -57,6 +57,7 @@
 
 ## Federated Learning Framework
 
+- 2024-05-02, **Gradient-Congruity Guided Federated Sparse Training**, Chris Xing Tian et.al., Paper: [http://arxiv.org/abs/2405.01189v1](http://arxiv.org/abs/2405.01189v1)
 - 2024-04-26, **On the Federated Learning Framework for Cooperative Perception**, Zhenrong Zhang et.al., Paper: [http://arxiv.org/abs/2404.17147v1](http://arxiv.org/abs/2404.17147v1)
 - 2024-04-23, **FLARE: A New Federated Learning Framework with Adjustable Learning Rates over Resource-Constrained Wireless Networks**, Bingnan Xiao et.al., Paper: [http://arxiv.org/abs/2404.14811v1](http://arxiv.org/abs/2404.14811v1)
 - 2024-04-20, **EHRFL: Federated Learning Framework for Heterogeneous EHRs and Precision-guided Selection of Participating Clients**, Jiyoun Kim et.al., Paper: [http://arxiv.org/abs/2404.13318v1](http://arxiv.org/abs/2404.13318v1), Code: **[https://github.com/ji-youn-kim/ehrfl](https://github.com/ji-youn-kim/ehrfl)**

@@ -39,6 +39,8 @@
 
 ## Federated Learning For Tabular
 
+- 2024-05-03, **A Federated Learning Benchmark on Tabular Data: Comparing Tree-Based Models and Neural Networks**, William Lindskog et.al., Paper: [http://arxiv.org/abs/2405.02074v1](http://arxiv.org/abs/2405.02074v1)
+- 2024-05-03, **Histogram-Based Federated XGBoost using Minimal Variance Sampling for Federated Tabular Data**, William Lindskog et.al., Paper: [http://arxiv.org/abs/2405.02067v1](http://arxiv.org/abs/2405.02067v1)
 - 2024-04-29, **Effective and Efficient Federated Tree Learning on Hybrid Data**, Qinbin Li et.al., Paper: [http://arxiv.org/abs/2310.11865v2](http://arxiv.org/abs/2310.11865v2)
 - 2024-03-24, **Gradient-less Federated Gradient Boosting Trees with Learnable Learning Rates**, Chenyang Ma et.al., Paper: [http://arxiv.org/abs/2304.07537v3](http://arxiv.org/abs/2304.07537v3)
 - 2023-01-12, **Fed-TDA: Federated Tabular Data Augmentation on Non-IID Data**, Shaoming Duan et.al., Paper: [http://arxiv.org/abs/2211.13116v2](http://arxiv.org/abs/2211.13116v2), Code: **[https://github.com/smduan/Fed-TDA](https://github.com/smduan/Fed-TDA)**

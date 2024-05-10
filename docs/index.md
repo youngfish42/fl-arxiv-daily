@@ -69,6 +69,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Federated Combinatorial Multi-Agent Multi-Armed Bandits**|Fares Fourati et.al.|[2405.05950v1](http://arxiv.org/abs/2405.05950v1)|null|
 |**2024-05-08**|**Federated Adaptation for Foundation Model-based Recommendations**|Chunxu Zhang et.al.|[2405.04840v1](http://arxiv.org/abs/2405.04840v1)|**[link](https://github.com/Zhangcx19/IJCAI-24-FedPA)**|
 |**2024-05-07**|**pFedLVM: A Large Vision Model (LVM)-Driven and Latent Feature-Based Personalized Federated Learning Framework in Autonomous Driving**|Wei-Bin Kou et.al.|[2405.04146v1](http://arxiv.org/abs/2405.04146v1)|null|
 |**2024-05-07**|**Research on financial fraud algorithm based on federal learning and big data technology**|Xinye Sha et.al.|[2405.03992v1](http://arxiv.org/abs/2405.03992v1)|null|

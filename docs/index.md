@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,7 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-25**|**Equipping Federated Graph Neural Networks with Structure-aware Group Fairness**|Nan Cui et.al.|[2310.12350v2](http://arxiv.org/abs/2310.12350v2)|**[link](https://github.com/yuening-lab/f2gnn)**|
+|**2024-05-13**|**Equipping Federated Graph Neural Networks with Structure-aware Group Fairness**|Nan Cui et.al.|[2310.12350v3](http://arxiv.org/abs/2310.12350v3)|**[link](https://github.com/yuening-lab/f2gnn)**|
 |**2023-09-21**|**FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks**|Qiying Pan et.al.|[2309.09517v3](http://arxiv.org/abs/2309.09517v3)|null|
 |**2023-08-15**|**Decentralized Graph Neural Network for Privacy-Preserving Recommendation**|Xiaolin Zheng et.al.|[2308.08072v1](http://arxiv.org/abs/2308.08072v1)|null|
 |**2024-04-18**|**Label Inference Attacks against Node-level Vertical Federated GNNs**|Marco Arazzi et.al.|[2308.02465v2](http://arxiv.org/abs/2308.02465v2)|null|
@@ -41,7 +41,7 @@ layout: default
 |**2020-11-06**|**ASFGNN: Automated Separated-Federated Graph Neural Network**|Longfei Zheng et.al.|[2011.03248v1](http://arxiv.org/abs/2011.03248v1)|null|
 |**2022-04-25**|**Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification**|Chaochao Chen et.al.|[2005.11903v3](http://arxiv.org/abs/2005.11903v3)|null|
 
-<p align=right>(<a href=#Updated-on-20240514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240515>back to top</a>)</p>
 
 ## Federated Learning For Tabular
 
@@ -63,7 +63,7 @@ layout: default
 |**2021-08-12**|**FedXGBoost: Privacy-Preserving XGBoost for Federated Learning**|Nhan Khanh Le et.al.|[2106.10662v3](http://arxiv.org/abs/2106.10662v3)|null|
 |**2021-05-12**|**An Efficient Learning Framework For Federated XGBoost Using Secret Sharing And Distributed Optimization**|Lunchen Xie et.al.|[2105.05717v1](http://arxiv.org/abs/2105.05717v1)|**[link](https://github.com/HikariX/MP-FedXGB)**|
 
-<p align=right>(<a href=#Updated-on-20240514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240515>back to top</a>)</p>
 
 ## Federated Learning Framework
 
@@ -207,7 +207,7 @@ layout: default
 |**2022-09-22**|**Enhanced Decentralized Federated Learning based on Consensus in Connected Vehicles**|Xiaoyan Liu et.al.|[2209.10722v1](http://arxiv.org/abs/2209.10722v1)|null|
 |**2022-09-07**|**Modular Federated Learning**|Kuo-Yun Liang et.al.|[2209.03090v1](http://arxiv.org/abs/2209.03090v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240515>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/youngfish42/fl-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/youngfish42/fl-arxiv-daily/graphs/contributors

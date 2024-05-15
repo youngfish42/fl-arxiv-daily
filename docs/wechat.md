@@ -59,6 +59,7 @@
 
 ## Federated Learning Framework
 
+- 2024-05-13, **PrivFED -- A Framework for Privacy-Preserving Federated Learning in Enhanced Breast Cancer Diagnosis**, Maithili Jha et.al., Paper: [http://arxiv.org/abs/2405.08084v1](http://arxiv.org/abs/2405.08084v1)
 - 2024-05-13, **Federated Hierarchical Tensor Networks: a Collaborative Learning Quantum AI-Driven Framework for Healthcare**, Amandeep Singh Bhatia et.al., Paper: [http://arxiv.org/abs/2405.07735v1](http://arxiv.org/abs/2405.07735v1)
 - 2024-05-09, **Federated Combinatorial Multi-Agent Multi-Armed Bandits**, Fares Fourati et.al., Paper: [http://arxiv.org/abs/2405.05950v1](http://arxiv.org/abs/2405.05950v1)
 - 2024-05-08, **Federated Adaptation for Foundation Model-based Recommendations**, Chunxu Zhang et.al., Paper: [http://arxiv.org/abs/2405.04840v1](http://arxiv.org/abs/2405.04840v1), Code: **[https://github.com/Zhangcx19/IJCAI-24-FedPA](https://github.com/Zhangcx19/IJCAI-24-FedPA)**

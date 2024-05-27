@@ -69,6 +69,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**RFLPA: A Robust Federated Learning Framework against Poisoning Attacks with Secure Aggregation**|Peihua Mai et.al.|[2405.15182v1](http://arxiv.org/abs/2405.15182v1)|null|
 |**2024-05-19**|**Securing Health Data on the Blockchain: A Differential Privacy and Federated Learning Framework**|Daniel Commey et.al.|[2405.11580v1](http://arxiv.org/abs/2405.11580v1)|null|
 |**2024-05-15**|**Unmasking Efficiency: Learning Salient Sparse Models in Non-IID Federated Learning**|Riyasat Ohib et.al.|[2405.09037v1](http://arxiv.org/abs/2405.09037v1)|null|
 |**2024-05-13**|**PrivFED -- A Framework for Privacy-Preserving Federated Learning in Enhanced Breast Cancer Diagnosis**|Maithili Jha et.al.|[2405.08084v1](http://arxiv.org/abs/2405.08084v1)|null|

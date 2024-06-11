@@ -59,6 +59,7 @@
 
 ## Federated Learning Framework
 
+- 2024-06-10, **Federated learning in food research**, Zuzanna Fendor et.al., Paper: [http://arxiv.org/abs/2406.06202v1](http://arxiv.org/abs/2406.06202v1)
 - 2024-06-06, **Federated TrustChain: Blockchain-Enhanced LLM Training and Unlearning**, Xuhan Zuo et.al., Paper: [http://arxiv.org/abs/2406.04076v1](http://arxiv.org/abs/2406.04076v1)
 - 2024-05-28, **FedSAC: Dynamic Submodel Allocation for Collaborative Fairness in Federated Learning**, Zihui Wang et.al., Paper: [http://arxiv.org/abs/2405.18291v1](http://arxiv.org/abs/2405.18291v1)
 - 2024-05-24, **RFLPA: A Robust Federated Learning Framework against Poisoning Attacks with Secure Aggregation**, Peihua Mai et.al., Paper: [http://arxiv.org/abs/2405.15182v1](http://arxiv.org/abs/2405.15182v1)

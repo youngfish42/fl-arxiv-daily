@@ -60,6 +60,7 @@
 
 ## Federated Learning Framework
 
+- 2024-06-21, **Safely Learning with Private Data: A Federated Learning Framework for Large Language Model**, JiaYing Zheng et.al., Paper: [http://arxiv.org/abs/2406.14898v1](http://arxiv.org/abs/2406.14898v1)
 - 2024-06-06, **1-D CNN-Based Online Signature Verification with Federated Learning**, Lingfeng Zhang et.al., Paper: [http://arxiv.org/abs/2406.06597v1](http://arxiv.org/abs/2406.06597v1)
 - 2024-06-10, **Federated learning in food research**, Zuzanna Fendor et.al., Paper: [http://arxiv.org/abs/2406.06202v1](http://arxiv.org/abs/2406.06202v1)
 - 2024-06-06, **Federated TrustChain: Blockchain-Enhanced LLM Training and Unlearning**, Xuhan Zuo et.al., Paper: [http://arxiv.org/abs/2406.04076v1](http://arxiv.org/abs/2406.04076v1)

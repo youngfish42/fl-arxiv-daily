@@ -60,6 +60,8 @@
 
 ## Federated Learning Framework
 
+- 2024-07-01, **Optimizing Age of Information in Vehicular Edge Computing with Federated Graph Neural Network Multi-Agent Reinforcement Learning**, Wenhua Wang et.al., Paper: [http://arxiv.org/abs/2407.02342v1](http://arxiv.org/abs/2407.02342v1), Code: **[https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning](https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning)**
+- 2024-07-01, **FedRC: A Rapid-Converged Hierarchical Federated Learning Framework in Street Scene Semantic Understanding**, Wei-Bin Kou et.al., Paper: [http://arxiv.org/abs/2407.01103v1](http://arxiv.org/abs/2407.01103v1)
 - 2024-06-26, **Safely Learning with Private Data: A Federated Learning Framework for Large Language Model**, JiaYing Zheng et.al., Paper: [http://arxiv.org/abs/2406.14898v2](http://arxiv.org/abs/2406.14898v2)
 - 2024-06-06, **1-D CNN-Based Online Signature Verification with Federated Learning**, Lingfeng Zhang et.al., Paper: [http://arxiv.org/abs/2406.06597v1](http://arxiv.org/abs/2406.06597v1)
 - 2024-06-10, **Federated learning in food research**, Zuzanna Fendor et.al., Paper: [http://arxiv.org/abs/2406.06202v1](http://arxiv.org/abs/2406.06202v1)

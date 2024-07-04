@@ -60,6 +60,8 @@
 
 ## Federated Learning Framework
 
+- 2024-07-03, **Effective Heterogeneous Federated Learning via Efficient Hypernetwork-based Weight Generation**, Yujin Shin et.al., Paper: [http://arxiv.org/abs/2407.03086v1](http://arxiv.org/abs/2407.03086v1)
+- 2024-07-03, **Zero-X: A Blockchain-Enabled Open-Set Federated Learning Framework for Zero-Day Attack Detection in IoV**, Abdelaziz Amara korba et.al., Paper: [http://arxiv.org/abs/2407.02969v1](http://arxiv.org/abs/2407.02969v1)
 - 2024-07-01, **Optimizing Age of Information in Vehicular Edge Computing with Federated Graph Neural Network Multi-Agent Reinforcement Learning**, Wenhua Wang et.al., Paper: [http://arxiv.org/abs/2407.02342v1](http://arxiv.org/abs/2407.02342v1), Code: **[https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning](https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning)**
 - 2024-07-01, **FedRC: A Rapid-Converged Hierarchical Federated Learning Framework in Street Scene Semantic Understanding**, Wei-Bin Kou et.al., Paper: [http://arxiv.org/abs/2407.01103v1](http://arxiv.org/abs/2407.01103v1)
 - 2024-06-26, **Safely Learning with Private Data: A Federated Learning Framework for Large Language Model**, JiaYing Zheng et.al., Paper: [http://arxiv.org/abs/2406.14898v2](http://arxiv.org/abs/2406.14898v2)

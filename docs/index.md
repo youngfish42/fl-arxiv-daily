@@ -70,6 +70,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**DFedSat: Communication-Efficient and Robust Decentralized Federated Learning for LEO Satellite Constellations**|Minghao Yang et.al.|[2407.05850v1](http://arxiv.org/abs/2407.05850v1)|null|
 |**2024-07-03**|**Effective Heterogeneous Federated Learning via Efficient Hypernetwork-based Weight Generation**|Yujin Shin et.al.|[2407.03086v1](http://arxiv.org/abs/2407.03086v1)|null|
 |**2024-07-03**|**Zero-X: A Blockchain-Enabled Open-Set Federated Learning Framework for Zero-Day Attack Detection in IoV**|Abdelaziz Amara korba et.al.|[2407.02969v1](http://arxiv.org/abs/2407.02969v1)|null|
 |**2024-07-01**|**Optimizing Age of Information in Vehicular Edge Computing with Federated Graph Neural Network Multi-Agent Reinforcement Learning**|Wenhua Wang et.al.|[2407.02342v1](http://arxiv.org/abs/2407.02342v1)|**[link](https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning)**|

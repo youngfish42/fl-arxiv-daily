@@ -60,6 +60,8 @@
 
 ## Federated Learning Framework
 
+- 2024-07-17, **Proximity-based Self-Federated Learning**, Davide Domini et.al., Paper: [http://arxiv.org/abs/2407.12410v1](http://arxiv.org/abs/2407.12410v1)
+- 2024-07-17, **CDFL: Efficient Federated Human Activity Recognition using Contrastive Learning and Deep Clustering**, Ensieh Khazaei et.al., Paper: [http://arxiv.org/abs/2407.12287v1](http://arxiv.org/abs/2407.12287v1)
 - 2024-07-08, **DFedSat: Communication-Efficient and Robust Decentralized Federated Learning for LEO Satellite Constellations**, Minghao Yang et.al., Paper: [http://arxiv.org/abs/2407.05850v1](http://arxiv.org/abs/2407.05850v1)
 - 2024-07-03, **Effective Heterogeneous Federated Learning via Efficient Hypernetwork-based Weight Generation**, Yujin Shin et.al., Paper: [http://arxiv.org/abs/2407.03086v1](http://arxiv.org/abs/2407.03086v1)
 - 2024-07-03, **Zero-X: A Blockchain-Enabled Open-Set Federated Learning Framework for Zero-Day Attack Detection in IoV**, Abdelaziz Amara korba et.al., Paper: [http://arxiv.org/abs/2407.02969v1](http://arxiv.org/abs/2407.02969v1)

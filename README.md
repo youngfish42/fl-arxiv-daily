@@ -66,6 +66,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**FedBChain: A Blockchain-enabled Federated Learning Framework for Improving DeepConvLSTM with Comparative Strategy Insights**|Gaoxuan Li et.al.|[2407.21282v1](http://arxiv.org/abs/2407.21282v1)|null|
+|**2024-07-30**|**FL-DECO-BC: A Privacy-Preserving, Provably Secure, and Provenance-Preserving Federated Learning Framework with Decentralized Oracles on Blockchain for VANETs**|Sathwik Narkedimilli et.al.|[2407.21141v1](http://arxiv.org/abs/2407.21141v1)|null|
 |**2024-07-25**|**HF-Fed: Hierarchical based customized Federated Learning Framework for X-Ray Imaging**|Tajamul Ashraf et.al.|[2407.17780v1](http://arxiv.org/abs/2407.17780v1)|null|
 |**2024-07-24**|**SFPrompt: Communication-Efficient Split Federated Fine-Tuning for Large Pre-Trained Models over Resource-Limited Devices**|Linxiao Cao et.al.|[2407.17533v1](http://arxiv.org/abs/2407.17533v1)|null|
 |**2024-07-17**|**Proximity-based Self-Federated Learning**|Davide Domini et.al.|[2407.12410v1](http://arxiv.org/abs/2407.12410v1)|null|

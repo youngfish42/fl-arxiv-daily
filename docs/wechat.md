@@ -60,6 +60,7 @@
 
 ## Federated Learning Framework
 
+- 2024-08-08, **Federated Cubic Regularized Newton Learning with Sparsification-amplified Differential Privacy**, Wei Huo et.al., Paper: [http://arxiv.org/abs/2408.04315v1](http://arxiv.org/abs/2408.04315v1)
 - 2024-08-06, **Federated Learning Architectures: A Performance Evaluation with Crop Yield Prediction Application**, Anwesha Mukherjee et.al., Paper: [http://arxiv.org/abs/2408.02998v1](http://arxiv.org/abs/2408.02998v1)
 - 2024-08-07, **FedBChain: A Blockchain-enabled Federated Learning Framework for Improving DeepConvLSTM with Comparative Strategy Insights**, Gaoxuan Li et.al., Paper: [http://arxiv.org/abs/2407.21282v2](http://arxiv.org/abs/2407.21282v2)
 - 2024-07-30, **FL-DECO-BC: A Privacy-Preserving, Provably Secure, and Provenance-Preserving Federated Learning Framework with Decentralized Oracles on Blockchain for VANETs**, Sathwik Narkedimilli et.al., Paper: [http://arxiv.org/abs/2407.21141v1](http://arxiv.org/abs/2407.21141v1)

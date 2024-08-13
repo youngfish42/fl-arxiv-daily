@@ -60,6 +60,7 @@
 
 ## Federated Learning Framework
 
+- 2024-08-07, **SocFedGPT: Federated GPT-based Adaptive Content Filtering System Leveraging User Interactions in Social Networks**, Sai Puppala et.al., Paper: [http://arxiv.org/abs/2408.05243v1](http://arxiv.org/abs/2408.05243v1)
 - 2024-08-08, **Federated Cubic Regularized Newton Learning with Sparsification-amplified Differential Privacy**, Wei Huo et.al., Paper: [http://arxiv.org/abs/2408.04315v1](http://arxiv.org/abs/2408.04315v1)
 - 2024-08-06, **Federated Learning Architectures: A Performance Evaluation with Crop Yield Prediction Application**, Anwesha Mukherjee et.al., Paper: [http://arxiv.org/abs/2408.02998v1](http://arxiv.org/abs/2408.02998v1)
 - 2024-08-07, **FedBChain: A Blockchain-enabled Federated Learning Framework for Improving DeepConvLSTM with Comparative Strategy Insights**, Gaoxuan Li et.al., Paper: [http://arxiv.org/abs/2407.21282v2](http://arxiv.org/abs/2407.21282v2)

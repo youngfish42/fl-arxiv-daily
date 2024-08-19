@@ -70,6 +70,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**A Novel Buffered Federated Learning Framework for Privacy-Driven Anomaly Detection in IIoT**|Samira Kamali Poorazad et.al.|[2408.08722v1](http://arxiv.org/abs/2408.08722v1)|null|
+|**2024-08-16**|**A Multivocal Literature Review on Privacy and Fairness in Federated Learning**|Beatrice Balbierer et.al.|[2408.08666v1](http://arxiv.org/abs/2408.08666v1)|null|
 |**2024-08-07**|**SocFedGPT: Federated GPT-based Adaptive Content Filtering System Leveraging User Interactions in Social Networks**|Sai Puppala et.al.|[2408.05243v1](http://arxiv.org/abs/2408.05243v1)|null|
 |**2024-08-08**|**Federated Cubic Regularized Newton Learning with Sparsification-amplified Differential Privacy**|Wei Huo et.al.|[2408.04315v1](http://arxiv.org/abs/2408.04315v1)|null|
 |**2024-08-06**|**Federated Learning Architectures: A Performance Evaluation with Crop Yield Prediction Application**|Anwesha Mukherjee et.al.|[2408.02998v1](http://arxiv.org/abs/2408.02998v1)|null|

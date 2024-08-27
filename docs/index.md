@@ -70,6 +70,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-25**|**FedGlu: A personalized federated learning-based glucose forecasting algorithm for improved performance in glycemic excursion regions**|Darpit Dave et.al.|[2408.13926v1](http://arxiv.org/abs/2408.13926v1)|null|
+|**2024-08-24**|**Submodular Maximization Approaches for Equitable Client Selection in Federated Learning**|Andrés Catalino Castillo Jiménez et.al.|[2408.13683v1](http://arxiv.org/abs/2408.13683v1)|null|
 |**2024-08-17**|**FEDKIM: Adaptive Federated Knowledge Injection into Medical Foundation Models**|Xiaochen Wang et.al.|[2408.10276v1](http://arxiv.org/abs/2408.10276v1)|null|
 |**2024-08-16**|**A Novel Buffered Federated Learning Framework for Privacy-Driven Anomaly Detection in IIoT**|Samira Kamali Poorazad et.al.|[2408.08722v1](http://arxiv.org/abs/2408.08722v1)|null|
 |**2024-08-16**|**A Multivocal Literature Review on Privacy and Fairness in Federated Learning**|Beatrice Balbierer et.al.|[2408.08666v1](http://arxiv.org/abs/2408.08666v1)|null|

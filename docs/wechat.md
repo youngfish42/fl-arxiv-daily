@@ -60,6 +60,7 @@
 
 ## Federated Learning Framework
 
+- 2024-09-01, **DAMe: Personalized Federated Social Event Detection with Dual Aggregation Mechanism**, Xiaoyan Yu et.al., Paper: [http://arxiv.org/abs/2409.00614v1](http://arxiv.org/abs/2409.00614v1)
 - 2024-08-25, **FedGlu: A personalized federated learning-based glucose forecasting algorithm for improved performance in glycemic excursion regions**, Darpit Dave et.al., Paper: [http://arxiv.org/abs/2408.13926v1](http://arxiv.org/abs/2408.13926v1)
 - 2024-08-27, **Submodular Maximization Approaches for Equitable Client Selection in Federated Learning**, Andrés Catalino Castillo Jiménez et.al., Paper: [http://arxiv.org/abs/2408.13683v2](http://arxiv.org/abs/2408.13683v2)
 - 2024-08-17, **FEDKIM: Adaptive Federated Knowledge Injection into Medical Foundation Models**, Xiaochen Wang et.al., Paper: [http://arxiv.org/abs/2408.10276v1](http://arxiv.org/abs/2408.10276v1)

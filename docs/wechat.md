@@ -60,6 +60,7 @@
 
 ## Federated Learning Framework
 
+- 2024-09-17, **Advances in APPFL: A Comprehensive and Extensible Federated Learning Framework**, Zilinghan Li et.al., Paper: [http://arxiv.org/abs/2409.11585v1](http://arxiv.org/abs/2409.11585v1), Code: **[https://github.com/appfl/appfl](https://github.com/appfl/appfl)**
 - 2024-09-10, **Compute-Update Federated Learning: A Lattice Coding Approach**, Seyed Mohammad Azimi-Abarghouyi et.al., Paper: [http://arxiv.org/abs/2409.06343v1](http://arxiv.org/abs/2409.06343v1)
 - 2024-09-09, **MLLM-FL: Multimodal Large Language Model Assisted Federated Learning on Heterogeneous and Long-tailed Data**, Jianyi Zhang et.al., Paper: [http://arxiv.org/abs/2409.06067v1](http://arxiv.org/abs/2409.06067v1)
 - 2024-09-07, **FedModule: A Modular Federated Learning Framework**, Chuyi Chen et.al., Paper: [http://arxiv.org/abs/2409.04849v1](http://arxiv.org/abs/2409.04849v1), Code: **[https://github.com/nuaa-smartsensing/async-fl](https://github.com/nuaa-smartsensing/async-fl)**

@@ -61,7 +61,7 @@
 ## Federated Learning Framework
 
 - 2024-09-23, **SHFL: Secure Hierarchical Federated Learning Framework for Edge Networks**, Omid Tavallaie et.al., Paper: [http://arxiv.org/abs/2409.15067v1](http://arxiv.org/abs/2409.15067v1)
-- 2024-09-20, **SatFed: A Resource-Efficient LEO Satellite-Assisted Heterogeneous Federated Learning Framework**, Yuxin Zhang et.al., Paper: [http://arxiv.org/abs/2409.13503v1](http://arxiv.org/abs/2409.13503v1)
+- 2024-09-26, **SatFed: A Resource-Efficient LEO Satellite-Assisted Heterogeneous Federated Learning Framework**, Yuxin Zhang et.al., Paper: [http://arxiv.org/abs/2409.13503v2](http://arxiv.org/abs/2409.13503v2)
 - 2024-09-20, **Flotta: a Secure and Flexible Spark-inspired Federated Learning Framework**, Claudio Bonesana et.al., Paper: [http://arxiv.org/abs/2409.13473v1](http://arxiv.org/abs/2409.13473v1)
 - 2024-09-17, **Advances in APPFL: A Comprehensive and Extensible Federated Learning Framework**, Zilinghan Li et.al., Paper: [http://arxiv.org/abs/2409.11585v1](http://arxiv.org/abs/2409.11585v1), Code: **[https://github.com/appfl/appfl](https://github.com/appfl/appfl)**
 - 2024-09-10, **Compute-Update Federated Learning: A Lattice Coding Approach**, Seyed Mohammad Azimi-Abarghouyi et.al., Paper: [http://arxiv.org/abs/2409.06343v1](http://arxiv.org/abs/2409.06343v1)

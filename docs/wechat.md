@@ -60,6 +60,7 @@
 
 ## Federated Learning Framework
 
+- 2024-09-27, **HSTFL: A Heterogeneous Federated Learning Framework for Misaligned Spatiotemporal Forecasting**, Shuowei Cai et.al., Paper: [http://arxiv.org/abs/2409.18482v1](http://arxiv.org/abs/2409.18482v1)
 - 2024-09-26, **Dataset Distillation-based Hybrid Federated Learning on Non-IID Data**, Xiufang Shi et.al., Paper: [http://arxiv.org/abs/2409.17517v1](http://arxiv.org/abs/2409.17517v1)
 - 2024-09-23, **SHFL: Secure Hierarchical Federated Learning Framework for Edge Networks**, Omid Tavallaie et.al., Paper: [http://arxiv.org/abs/2409.15067v1](http://arxiv.org/abs/2409.15067v1)
 - 2024-09-26, **SatFed: A Resource-Efficient LEO Satellite-Assisted Heterogeneous Federated Learning Framework**, Yuxin Zhang et.al., Paper: [http://arxiv.org/abs/2409.13503v2](http://arxiv.org/abs/2409.13503v2)

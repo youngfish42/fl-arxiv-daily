@@ -60,6 +60,8 @@
 
 ## Federated Learning Framework
 
+- 2024-10-02, **ParallelSFL: A Novel Split Federated Learning Framework Tackling Heterogeneity Issues**, Yunming Liao et.al., Paper: [http://arxiv.org/abs/2410.01256v1](http://arxiv.org/abs/2410.01256v1)
+- 2024-09-30, **Fisher Information-based Efficient Curriculum Federated Learning with Large Language Models**, Ji Liu et.al., Paper: [http://arxiv.org/abs/2410.00131v1](http://arxiv.org/abs/2410.00131v1)
 - 2024-09-27, **HSTFL: A Heterogeneous Federated Learning Framework for Misaligned Spatiotemporal Forecasting**, Shuowei Cai et.al., Paper: [http://arxiv.org/abs/2409.18482v1](http://arxiv.org/abs/2409.18482v1)
 - 2024-09-26, **Dataset Distillation-based Hybrid Federated Learning on Non-IID Data**, Xiufang Shi et.al., Paper: [http://arxiv.org/abs/2409.17517v1](http://arxiv.org/abs/2409.17517v1)
 - 2024-09-23, **SHFL: Secure Hierarchical Federated Learning Framework for Edge Networks**, Omid Tavallaie et.al., Paper: [http://arxiv.org/abs/2409.15067v1](http://arxiv.org/abs/2409.15067v1)

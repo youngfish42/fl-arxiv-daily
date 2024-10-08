@@ -70,6 +70,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-05**|**pFedGame -- Decentralized Federated Learning using Game Theory in Dynamic Topology**|Monik Raj Behera et.al.|[2410.04058v1](http://arxiv.org/abs/2410.04058v1)|null|
 |**2024-10-04**|**Influence-oriented Personalized Federated Learning**|Yue Tan et.al.|[2410.03315v1](http://arxiv.org/abs/2410.03315v1)|null|
 |**2024-10-03**|**FedScalar: A Communication efficient Federated Learning**|M. Rostami et.al.|[2410.02260v1](http://arxiv.org/abs/2410.02260v1)|null|
 |**2024-10-02**|**ParallelSFL: A Novel Split Federated Learning Framework Tackling Heterogeneity Issues**|Yunming Liao et.al.|[2410.01256v1](http://arxiv.org/abs/2410.01256v1)|null|

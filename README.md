@@ -66,6 +66,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**DistDD: Distributed Data Distillation Aggregation through Gradient Matching**|Peiran Wang et.al.|[2410.08665v1](http://arxiv.org/abs/2410.08665v1)|null|
 |**2024-10-05**|**pFedGame -- Decentralized Federated Learning using Game Theory in Dynamic Topology**|Monik Raj Behera et.al.|[2410.04058v1](http://arxiv.org/abs/2410.04058v1)|null|
 |**2024-10-04**|**Influence-oriented Personalized Federated Learning**|Yue Tan et.al.|[2410.03315v1](http://arxiv.org/abs/2410.03315v1)|null|
 |**2024-10-03**|**FedScalar: A Communication efficient Federated Learning**|M. Rostami et.al.|[2410.02260v1](http://arxiv.org/abs/2410.02260v1)|null|

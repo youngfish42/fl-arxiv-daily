@@ -60,6 +60,7 @@
 
 ## Federated Learning Framework
 
+- 2024-10-17, **Conformal Prediction for Federated Graph Neural Networks with Missing Neighbor Information**, Ömer Faruk Akgül et.al., Paper: [http://arxiv.org/abs/2410.14010v1](http://arxiv.org/abs/2410.14010v1)
 - 2024-10-17, **DPFedBank: Crafting a Privacy-Preserving Federated Learning Framework for Financial Institutions with Policy Pillars**, Peilin He et.al., Paper: [http://arxiv.org/abs/2410.13753v1](http://arxiv.org/abs/2410.13753v1)
 - 2024-10-16, **TPFL: A Trustworthy Personalized Federated Learning Framework via Subjective Logic**, Jinqian Chen et.al., Paper: [http://arxiv.org/abs/2410.12316v1](http://arxiv.org/abs/2410.12316v1)
 - 2024-10-15, **Federated Learning framework for LoRaWAN-enabled IIoT communication: A case study**, Oscar Torres Sanchez et.al., Paper: [http://arxiv.org/abs/2410.11612v1](http://arxiv.org/abs/2410.11612v1)

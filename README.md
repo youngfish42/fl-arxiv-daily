@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Federated GNNs for EEG-Based Stroke Assessment**|Andrea Protani et.al.|[2411.02286v1](http://arxiv.org/abs/2411.02286v1)|null|
 |**2024-06-15**|**HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated Graph Learning**|Zhuoning Guo et.al.|[2406.10616v1](http://arxiv.org/abs/2406.10616v1)|**[link](https://github.com/usail-hkust/HiFGL)**|
 |**2024-05-13**|**Equipping Federated Graph Neural Networks with Structure-aware Group Fairness**|Nan Cui et.al.|[2310.12350v3](http://arxiv.org/abs/2310.12350v3)|**[link](https://github.com/yuening-lab/f2gnn)**|
 |**2023-09-21**|**FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks**|Qiying Pan et.al.|[2309.09517v3](http://arxiv.org/abs/2309.09517v3)|null|
@@ -66,6 +67,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-03**|**Anomalous Client Detection in Federated Learning**|Dipanwita Thakur et.al.|[2411.01490v1](http://arxiv.org/abs/2411.01490v1)|null|
+|**2024-11-02**|**Federated Learning with Relative Fairness**|Shogo Nakakita et.al.|[2411.01161v1](http://arxiv.org/abs/2411.01161v1)|null|
 |**2024-10-31**|**Federated Black-Box Adaptation for Semantic Segmentation**|Jay N. Paranjape et.al.|[2410.24181v1](http://arxiv.org/abs/2410.24181v1)|null|
 |**2024-10-30**|**Federated UCBVI: Communication-Efficient Federated Regret Minimization with Heterogeneous Agents**|Safwan Labbi et.al.|[2410.22908v1](http://arxiv.org/abs/2410.22908v1)|null|
 |**2024-10-28**|**A Unified Solution to Diverse Heterogeneities in One-shot Federated Learning**|Jun Bai et.al.|[2410.21119v1](http://arxiv.org/abs/2410.21119v1)|null|

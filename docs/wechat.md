@@ -61,6 +61,7 @@
 
 ## Federated Learning Framework
 
+- 2024-11-08, **IPMN Risk Assessment under Federated Learning Paradigm**, Hongyi Pan et.al., Paper: [http://arxiv.org/abs/2411.05697v1](http://arxiv.org/abs/2411.05697v1)
 - 2024-11-07, **FedDP: Privacy-preserving method based on federated learning for histopathology image segmentation**, Liangrui Pan et.al., Paper: [http://arxiv.org/abs/2411.04509v1](http://arxiv.org/abs/2411.04509v1)
 - 2024-11-06, **Fed-EC: Bandwidth-Efficient Clustering-Based Federated Learning For Autonomous Visual Robot Navigation**, Shreya Gummadi et.al., Paper: [http://arxiv.org/abs/2411.04112v1](http://arxiv.org/abs/2411.04112v1)
 - 2024-11-03, **Anomalous Client Detection in Federated Learning**, Dipanwita Thakur et.al., Paper: [http://arxiv.org/abs/2411.01490v1](http://arxiv.org/abs/2411.01490v1)

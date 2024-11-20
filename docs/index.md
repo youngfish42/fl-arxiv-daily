@@ -71,6 +71,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning**|Kichang Lee et.al.|[2411.12220v1](http://arxiv.org/abs/2411.12220v1)|null|
 |**2024-11-11**|**WassFFed: Wasserstein Fair Federated Learning**|Zhongxuan Han et.al.|[2411.06881v1](http://arxiv.org/abs/2411.06881v1)|null|
 |**2024-11-09**|**A Sharded Blockchain-Based Secure Federated Learning Framework for LEO Satellite Networks**|Wenbo Wu et.al.|[2411.06137v1](http://arxiv.org/abs/2411.06137v1)|null|
 |**2024-11-08**|**IPMN Risk Assessment under Federated Learning Paradigm**|Hongyi Pan et.al.|[2411.05697v1](http://arxiv.org/abs/2411.05697v1)|null|

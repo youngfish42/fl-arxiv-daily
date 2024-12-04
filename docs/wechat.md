@@ -61,6 +61,9 @@
 
 ## Federated Learning Framework
 
+- 2024-11-30, **MQFL-FHE: Multimodal Quantum Federated Learning Framework with Fully Homomorphic Encryption**, Siddhant Dutta et.al., Paper: [http://arxiv.org/abs/2412.01858v1](http://arxiv.org/abs/2412.01858v1)
+- 2024-12-02, **FedPAW: Federated Learning with Personalized Aggregation Weights for Urban Vehicle Speed Prediction**, Yuepeng He et.al., Paper: [http://arxiv.org/abs/2412.01281v1](http://arxiv.org/abs/2412.01281v1), Code: **[https://github.com/heyuepeng/pfllibvsp](https://github.com/heyuepeng/pfllibvsp)**
+- 2024-12-01, **Towards Privacy-Preserving Medical Imaging: Federated Learning with Differential Privacy and Secure Aggregation Using a Modified ResNet Architecture**, Mohamad Haj Fares et.al., Paper: [http://arxiv.org/abs/2412.00687v1](http://arxiv.org/abs/2412.00687v1)
 - 2024-11-24, **Tackling Data Heterogeneity in Federated Time Series Forecasting**, Wei Yuan et.al., Paper: [http://arxiv.org/abs/2411.15716v1](http://arxiv.org/abs/2411.15716v1)
 - 2024-11-19, **DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning**, Kichang Lee et.al., Paper: [http://arxiv.org/abs/2411.12220v1](http://arxiv.org/abs/2411.12220v1)
 - 2024-11-11, **WassFFed: Wasserstein Fair Federated Learning**, Zhongxuan Han et.al., Paper: [http://arxiv.org/abs/2411.06881v1](http://arxiv.org/abs/2411.06881v1)

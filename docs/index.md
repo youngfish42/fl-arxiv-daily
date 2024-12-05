@@ -71,7 +71,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-30**|**MQFL-FHE: Multimodal Quantum Federated Learning Framework with Fully Homomorphic Encryption**|Siddhant Dutta et.al.|[2412.01858v1](http://arxiv.org/abs/2412.01858v1)|null|
+|**2024-12-04**|**MQFL-FHE: Multimodal Quantum Federated Learning Framework with Fully Homomorphic Encryption**|Siddhant Dutta et.al.|[2412.01858v2](http://arxiv.org/abs/2412.01858v2)|null|
 |**2024-12-02**|**FedPAW: Federated Learning with Personalized Aggregation Weights for Urban Vehicle Speed Prediction**|Yuepeng He et.al.|[2412.01281v1](http://arxiv.org/abs/2412.01281v1)|**[link](https://github.com/heyuepeng/pfllibvsp)**|
 |**2024-12-01**|**Towards Privacy-Preserving Medical Imaging: Federated Learning with Differential Privacy and Secure Aggregation Using a Modified ResNet Architecture**|Mohamad Haj Fares et.al.|[2412.00687v1](http://arxiv.org/abs/2412.00687v1)|null|
 |**2024-11-24**|**Tackling Data Heterogeneity in Federated Time Series Forecasting**|Wei Yuan et.al.|[2411.15716v1](http://arxiv.org/abs/2411.15716v1)|null|

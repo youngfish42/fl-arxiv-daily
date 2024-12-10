@@ -16,7 +16,7 @@
 
 ## Federated Learning For Graph
 
-- 2024-11-04, **Federated GNNs for EEG-Based Stroke Assessment**, Andrea Protani et.al., Paper: [http://arxiv.org/abs/2411.02286v1](http://arxiv.org/abs/2411.02286v1)
+- 2024-12-07, **Federated GNNs for EEG-Based Stroke Assessment**, Andrea Protani et.al., Paper: [http://arxiv.org/abs/2411.02286v2](http://arxiv.org/abs/2411.02286v2)
 - 2024-06-15, **HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated Graph Learning**, Zhuoning Guo et.al., Paper: [http://arxiv.org/abs/2406.10616v1](http://arxiv.org/abs/2406.10616v1), Code: **[https://github.com/usail-hkust/HiFGL](https://github.com/usail-hkust/HiFGL)**
 - 2024-05-13, **Equipping Federated Graph Neural Networks with Structure-aware Group Fairness**, Nan Cui et.al., Paper: [http://arxiv.org/abs/2310.12350v3](http://arxiv.org/abs/2310.12350v3), Code: **[https://github.com/yuening-lab/f2gnn](https://github.com/yuening-lab/f2gnn)**
 - 2023-09-21, **FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks**, Qiying Pan et.al., Paper: [http://arxiv.org/abs/2309.09517v3](http://arxiv.org/abs/2309.09517v3)
@@ -61,6 +61,7 @@
 
 ## Federated Learning Framework
 
+- 2024-12-09, **FedSynthCT-Brain: A Federated Learning Framework for Multi-Institutional Brain MRI-to-CT Synthesis**, Ciro Benito Raggio et.al., Paper: [http://arxiv.org/abs/2412.06690v1](http://arxiv.org/abs/2412.06690v1)
 - 2024-12-05, **MQFL-FHE: Multimodal Quantum Federated Learning Framework with Fully Homomorphic Encryption**, Siddhant Dutta et.al., Paper: [http://arxiv.org/abs/2412.01858v3](http://arxiv.org/abs/2412.01858v3)
 - 2024-12-02, **FedPAW: Federated Learning with Personalized Aggregation Weights for Urban Vehicle Speed Prediction**, Yuepeng He et.al., Paper: [http://arxiv.org/abs/2412.01281v1](http://arxiv.org/abs/2412.01281v1), Code: **[https://github.com/heyuepeng/pfllibvsp](https://github.com/heyuepeng/pfllibvsp)**
 - 2024-12-01, **Towards Privacy-Preserving Medical Imaging: Federated Learning with Differential Privacy and Secure Aggregation Using a Modified ResNet Architecture**, Mohamad Haj Fares et.al., Paper: [http://arxiv.org/abs/2412.00687v1](http://arxiv.org/abs/2412.00687v1)

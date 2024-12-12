@@ -16,6 +16,7 @@
 
 ## Federated Learning For Graph
 
+- 2024-12-11, **Cluster-Enhanced Federated Graph Neural Network for Recommendation**, Haiyan Wang et.al., Paper: [http://arxiv.org/abs/2412.08066v1](http://arxiv.org/abs/2412.08066v1)
 - 2024-12-07, **Federated GNNs for EEG-Based Stroke Assessment**, Andrea Protani et.al., Paper: [http://arxiv.org/abs/2411.02286v2](http://arxiv.org/abs/2411.02286v2)
 - 2024-06-15, **HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated Graph Learning**, Zhuoning Guo et.al., Paper: [http://arxiv.org/abs/2406.10616v1](http://arxiv.org/abs/2406.10616v1), Code: **[https://github.com/usail-hkust/HiFGL](https://github.com/usail-hkust/HiFGL)**
 - 2024-05-13, **Equipping Federated Graph Neural Networks with Structure-aware Group Fairness**, Nan Cui et.al., Paper: [http://arxiv.org/abs/2310.12350v3](http://arxiv.org/abs/2310.12350v3), Code: **[https://github.com/yuening-lab/f2gnn](https://github.com/yuening-lab/f2gnn)**

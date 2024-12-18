@@ -62,8 +62,9 @@
 
 ## Federated Learning Framework
 
+- 2024-12-17, **Concurrent vertical and horizontal federated learning with fuzzy cognitive maps**, Jose L Salmeron et.al., Paper: [http://arxiv.org/abs/2412.12844v1](http://arxiv.org/abs/2412.12844v1)
 - 2024-12-16, **UA-PDFL: A Personalized Approach for Decentralized Federated Learning**, Hangyu Zhu et.al., Paper: [http://arxiv.org/abs/2412.11674v1](http://arxiv.org/abs/2412.11674v1)
-- 2024-12-16, **TRAIL: Trust-Aware Client Scheduling for Semi-Decentralized Federated Learning**, Gangqiang Hu et.al., Paper: [http://arxiv.org/abs/2412.11448v1](http://arxiv.org/abs/2412.11448v1)
+- 2024-12-17, **TRAIL: Trust-Aware Client Scheduling for Semi-Decentralized Federated Learning**, Gangqiang Hu et.al., Paper: [http://arxiv.org/abs/2412.11448v2](http://arxiv.org/abs/2412.11448v2)
 - 2024-12-16, **Federated Domain Generalization with Label Smoothing and Balanced Decentralized Training**, Milad Soltany et.al., Paper: [http://arxiv.org/abs/2412.11408v1](http://arxiv.org/abs/2412.11408v1)
 - 2024-12-10, **Tazza: Shuffling Neural Network Parameters for Secure and Private Federated Learning**, Kichang Lee et.al., Paper: [http://arxiv.org/abs/2412.07454v1](http://arxiv.org/abs/2412.07454v1)
 - 2024-12-10, **A New Federated Learning Framework Against Gradient Inversion Attacks**, Pengxin Guo et.al., Paper: [http://arxiv.org/abs/2412.07187v1](http://arxiv.org/abs/2412.07187v1), Code: **[https://github.com/pengxin-guo/hyperfl](https://github.com/pengxin-guo/hyperfl)**

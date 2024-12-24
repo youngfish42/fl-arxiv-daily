@@ -62,6 +62,9 @@
 
 ## Federated Learning Framework
 
+- 2024-12-23, **Better Knowledge Enhancement for Privacy-Preserving Cross-Project Defect Prediction**, Yuying Wang et.al., Paper: [http://arxiv.org/abs/2412.17317v1](http://arxiv.org/abs/2412.17317v1)
+- 2024-12-23, **FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks**, Qian Chen et.al., Paper: [http://arxiv.org/abs/2412.17231v1](http://arxiv.org/abs/2412.17231v1)
+- 2024-12-21, **Federal Learning Framework for Quality Evaluation of Blastomere Cleavage**, Jung-Hua Wang et.al., Paper: [http://arxiv.org/abs/2412.16567v1](http://arxiv.org/abs/2412.16567v1)
 - 2024-12-20, **DualGFL: Federated Learning with a Dual-Level Coalition-Auction Game**, Xiaobing Chen et.al., Paper: [http://arxiv.org/abs/2412.15492v1](http://arxiv.org/abs/2412.15492v1)
 - 2024-12-18, **Federated Learning and RAG Integration: A Scalable Approach for Medical Large Language Models**, Jincheol Jung et.al., Paper: [http://arxiv.org/abs/2412.13720v1](http://arxiv.org/abs/2412.13720v1)
 - 2024-12-18, **Large Language Model Federated Learning with Blockchain and Unlearning for Cross-Organizational Collaboration**, Xuhan Zuo et.al., Paper: [http://arxiv.org/abs/2412.13551v1](http://arxiv.org/abs/2412.13551v1)

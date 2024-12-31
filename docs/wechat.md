@@ -16,7 +16,7 @@
 
 ## Federated Learning For Graph
 
-- 2024-12-11, **Cluster-Enhanced Federated Graph Neural Network for Recommendation**, Haiyan Wang et.al., Paper: [http://arxiv.org/abs/2412.08066v1](http://arxiv.org/abs/2412.08066v1)
+- 2024-12-28, **Cluster-Enhanced Federated Graph Neural Network for Recommendation**, Haiyan Wang et.al., Paper: [http://arxiv.org/abs/2412.08066v2](http://arxiv.org/abs/2412.08066v2)
 - 2024-12-07, **Federated GNNs for EEG-Based Stroke Assessment**, Andrea Protani et.al., Paper: [http://arxiv.org/abs/2411.02286v2](http://arxiv.org/abs/2411.02286v2)
 - 2024-06-15, **HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated Graph Learning**, Zhuoning Guo et.al., Paper: [http://arxiv.org/abs/2406.10616v1](http://arxiv.org/abs/2406.10616v1), Code: **[https://github.com/usail-hkust/HiFGL](https://github.com/usail-hkust/HiFGL)**
 - 2024-05-13, **Equipping Federated Graph Neural Networks with Structure-aware Group Fairness**, Nan Cui et.al., Paper: [http://arxiv.org/abs/2310.12350v3](http://arxiv.org/abs/2310.12350v3), Code: **[https://github.com/yuening-lab/f2gnn](https://github.com/yuening-lab/f2gnn)**
@@ -62,6 +62,9 @@
 
 ## Federated Learning Framework
 
+- 2024-12-30, **Enhancing Privacy in Federated Learning through Quantum Teleportation Integration**, Koffka Khan et.al., Paper: [http://arxiv.org/abs/2412.20762v1](http://arxiv.org/abs/2412.20762v1)
+- 2024-12-28, **Calibre: Towards Fair and Accurate Personalized Federated Learning with Self-Supervised Learning**, Sijia Chen et.al., Paper: [http://arxiv.org/abs/2412.20020v1](http://arxiv.org/abs/2412.20020v1), Code: **[https://github.com/tl-system/plato](https://github.com/tl-system/plato)**
+- 2024-12-28, **A Robust Federated Learning Framework for Undependable Devices at Scale**, Shilong Wang et.al., Paper: [http://arxiv.org/abs/2412.19991v1](http://arxiv.org/abs/2412.19991v1)
 - 2024-12-27, **Asymmetrical Reciprocity-based Federated Learning for Resolving Disparities in Medical Diagnosis**, Jiaqi Wang et.al., Paper: [http://arxiv.org/abs/2412.19654v1](http://arxiv.org/abs/2412.19654v1)
 - 2024-12-23, **Better Knowledge Enhancement for Privacy-Preserving Cross-Project Defect Prediction**, Yuying Wang et.al., Paper: [http://arxiv.org/abs/2412.17317v1](http://arxiv.org/abs/2412.17317v1)
 - 2024-12-23, **FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks**, Qian Chen et.al., Paper: [http://arxiv.org/abs/2412.17231v1](http://arxiv.org/abs/2412.17231v1)

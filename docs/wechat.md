@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.01.01
+> Updated on 2025.01.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -38,7 +38,7 @@
 - 2020-11-06, **ASFGNN: Automated Separated-Federated Graph Neural Network**, Longfei Zheng et.al., Paper: [http://arxiv.org/abs/2011.03248v1](http://arxiv.org/abs/2011.03248v1)
 - 2022-04-25, **Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification**, Chaochao Chen et.al., Paper: [http://arxiv.org/abs/2005.11903v3](http://arxiv.org/abs/2005.11903v3)
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 ## Federated Learning For Tabular
 
@@ -58,14 +58,14 @@
 - 2021-08-12, **FedXGBoost: Privacy-Preserving XGBoost for Federated Learning**, Nhan Khanh Le et.al., Paper: [http://arxiv.org/abs/2106.10662v3](http://arxiv.org/abs/2106.10662v3)
 - 2021-05-12, **An Efficient Learning Framework For Federated XGBoost Using Secret Sharing And Distributed Optimization**, Lunchen Xie et.al., Paper: [http://arxiv.org/abs/2105.05717v1](http://arxiv.org/abs/2105.05717v1), Code: **[https://github.com/HikariX/MP-FedXGB](https://github.com/HikariX/MP-FedXGB)**
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 ## Federated Learning Framework
 
 - 2024-12-30, **Enhancing Privacy in Federated Learning through Quantum Teleportation Integration**, Koffka Khan et.al., Paper: [http://arxiv.org/abs/2412.20762v1](http://arxiv.org/abs/2412.20762v1)
 - 2024-12-28, **Calibre: Towards Fair and Accurate Personalized Federated Learning with Self-Supervised Learning**, Sijia Chen et.al., Paper: [http://arxiv.org/abs/2412.20020v1](http://arxiv.org/abs/2412.20020v1), Code: **[https://github.com/tl-system/plato](https://github.com/tl-system/plato)**
 - 2024-12-28, **A Robust Federated Learning Framework for Undependable Devices at Scale**, Shilong Wang et.al., Paper: [http://arxiv.org/abs/2412.19991v1](http://arxiv.org/abs/2412.19991v1)
-- 2024-12-27, **Asymmetrical Reciprocity-based Federated Learning for Resolving Disparities in Medical Diagnosis**, Jiaqi Wang et.al., Paper: [http://arxiv.org/abs/2412.19654v1](http://arxiv.org/abs/2412.19654v1)
+- 2024-12-27, **Asymmetrical Reciprocity-based Federated Learning for Resolving Disparities in Medical Diagnosis**, Jiaqi Wang et.al., Paper: [http://arxiv.org/abs/2412.19654v1](http://arxiv.org/abs/2412.19654v1), Code: **[https://github.com/JackqqWang/fedhelp](https://github.com/JackqqWang/fedhelp)**
 - 2024-12-23, **Better Knowledge Enhancement for Privacy-Preserving Cross-Project Defect Prediction**, Yuying Wang et.al., Paper: [http://arxiv.org/abs/2412.17317v1](http://arxiv.org/abs/2412.17317v1)
 - 2024-12-23, **FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks**, Qian Chen et.al., Paper: [http://arxiv.org/abs/2412.17231v1](http://arxiv.org/abs/2412.17231v1)
 - 2024-12-21, **Federal Learning Framework for Quality Evaluation of Blastomere Cleavage**, Jung-Hua Wang et.al., Paper: [http://arxiv.org/abs/2412.16567v1](http://arxiv.org/abs/2412.16567v1)
@@ -284,7 +284,7 @@
 - 2022-09-22, **Enhanced Decentralized Federated Learning based on Consensus in Connected Vehicles**, Xiaoyan Liu et.al., Paper: [http://arxiv.org/abs/2209.10722v1](http://arxiv.org/abs/2209.10722v1)
 - 2022-09-07, **Modular Federated Learning**, Kuo-Yun Liang et.al., Paper: [http://arxiv.org/abs/2209.03090v1](http://arxiv.org/abs/2209.03090v1)
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/youngfish42/fl-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/youngfish42/fl-arxiv-daily/graphs/contributors

@@ -62,6 +62,9 @@
 
 ## Federated Learning Framework
 
+- 2025-01-06, **Proof-of-Data: A Consensus Protocol for Collaborative Intelligence**, Huiwen Liu et.al., Paper: [http://arxiv.org/abs/2501.02971v1](http://arxiv.org/abs/2501.02971v1)
+- 2025-01-05, **Incentive-Compatible Federated Learning with Stackelberg Game Modeling**, Simin Javaherian et.al., Paper: [http://arxiv.org/abs/2501.02662v1](http://arxiv.org/abs/2501.02662v1)
+- 2025-01-05, **FedRSClip: Federated Learning for Remote Sensing Scene Classification Using Vision-Language Models**, Hui Lin et.al., Paper: [http://arxiv.org/abs/2501.02461v1](http://arxiv.org/abs/2501.02461v1)
 - 2025-01-03, **LCFed: An Efficient Clustered Federated Learning Framework for Heterogeneous Data**, Yuxin Zhang et.al., Paper: [http://arxiv.org/abs/2501.01850v1](http://arxiv.org/abs/2501.01850v1)
 - 2024-12-30, **Enhancing Privacy in Federated Learning through Quantum Teleportation Integration**, Koffka Khan et.al., Paper: [http://arxiv.org/abs/2412.20762v1](http://arxiv.org/abs/2412.20762v1)
 - 2024-12-28, **Calibre: Towards Fair and Accurate Personalized Federated Learning with Self-Supervised Learning**, Sijia Chen et.al., Paper: [http://arxiv.org/abs/2412.20020v1](http://arxiv.org/abs/2412.20020v1), Code: **[https://github.com/tl-system/plato](https://github.com/tl-system/plato)**

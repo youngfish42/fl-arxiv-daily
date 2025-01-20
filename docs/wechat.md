@@ -62,6 +62,7 @@
 
 ## Federated Learning Framework
 
+- 2025-01-16, **pFedWN: A Personalized Federated Learning Framework for D2D Wireless Networks with Heterogeneous Data**, Zhou Ni et.al., Paper: [http://arxiv.org/abs/2501.09822v1](http://arxiv.org/abs/2501.09822v1)
 - 2025-01-08, **AutoDFL: A Scalable and Automated Reputation-Aware Decentralized Federated Learning**, Meryem Malak Dif et.al., Paper: [http://arxiv.org/abs/2501.04331v1](http://arxiv.org/abs/2501.04331v1), Code: **[https://github.com/meryemmalakdif/autodfl](https://github.com/meryemmalakdif/autodfl)**
 - 2025-01-08, **VerifBFL: Leveraging zk-SNARKs for A Verifiable Blockchained Federated Learning**, Ahmed Ayoub Bellachia et.al., Paper: [http://arxiv.org/abs/2501.04319v1](http://arxiv.org/abs/2501.04319v1)
 - 2025-01-06, **Proof-of-Data: A Consensus Protocol for Collaborative Intelligence**, Huiwen Liu et.al., Paper: [http://arxiv.org/abs/2501.02971v1](http://arxiv.org/abs/2501.02971v1)

@@ -62,6 +62,8 @@
 
 ## Federated Learning Framework
 
+- 2025-01-21, **BotDetect: A Decentralized Federated Learning Framework for Detecting Financial Bots on the EVM Blockchains**, Ahmed Mounsf Rafik Bendada et.al., Paper: [http://arxiv.org/abs/2501.12112v1](http://arxiv.org/abs/2501.12112v1)
+- 2025-01-19, **Federated Testing (FedTest): A New Scheme to Enhance Convergence and Mitigate Adversarial Attacks in Federating Learning**, Mustafa Ghaleb et.al., Paper: [http://arxiv.org/abs/2501.11167v1](http://arxiv.org/abs/2501.11167v1)
 - 2025-01-16, **pFedWN: A Personalized Federated Learning Framework for D2D Wireless Networks with Heterogeneous Data**, Zhou Ni et.al., Paper: [http://arxiv.org/abs/2501.09822v1](http://arxiv.org/abs/2501.09822v1)
 - 2025-01-08, **AutoDFL: A Scalable and Automated Reputation-Aware Decentralized Federated Learning**, Meryem Malak Dif et.al., Paper: [http://arxiv.org/abs/2501.04331v1](http://arxiv.org/abs/2501.04331v1), Code: **[https://github.com/meryemmalakdif/autodfl](https://github.com/meryemmalakdif/autodfl)**
 - 2025-01-08, **VerifBFL: Leveraging zk-SNARKs for A Verifiable Blockchained Federated Learning**, Ahmed Ayoub Bellachia et.al., Paper: [http://arxiv.org/abs/2501.04319v1](http://arxiv.org/abs/2501.04319v1)

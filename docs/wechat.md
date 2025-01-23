@@ -62,6 +62,8 @@
 
 ## Federated Learning Framework
 
+- 2025-01-22, **Practical quantum federated learning and its experimental demonstration**, Zhi-Ping Liu et.al., Paper: [http://arxiv.org/abs/2501.12709v1](http://arxiv.org/abs/2501.12709v1)
+- 2025-01-21, **Federated Discrete Denoising Diffusion Model for Molecular Generation with OpenFL**, Kevin Ta et.al., Paper: [http://arxiv.org/abs/2501.12523v1](http://arxiv.org/abs/2501.12523v1), Code: **[https://github.com/securefederatedai/openfl](https://github.com/securefederatedai/openfl)**
 - 2025-01-21, **BotDetect: A Decentralized Federated Learning Framework for Detecting Financial Bots on the EVM Blockchains**, Ahmed Mounsf Rafik Bendada et.al., Paper: [http://arxiv.org/abs/2501.12112v1](http://arxiv.org/abs/2501.12112v1)
 - 2025-01-19, **Federated Testing (FedTest): A New Scheme to Enhance Convergence and Mitigate Adversarial Attacks in Federating Learning**, Mustafa Ghaleb et.al., Paper: [http://arxiv.org/abs/2501.11167v1](http://arxiv.org/abs/2501.11167v1)
 - 2025-01-16, **pFedWN: A Personalized Federated Learning Framework for D2D Wireless Networks with Heterogeneous Data**, Zhou Ni et.al., Paper: [http://arxiv.org/abs/2501.09822v1](http://arxiv.org/abs/2501.09822v1)

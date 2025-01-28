@@ -72,6 +72,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Integrating Personalized Federated Learning with Control Systems for Enhanced Performance**|Alice Smith et.al.|[2501.15728v1](http://arxiv.org/abs/2501.15728v1)|null|
+|**2025-01-25**|**A Post-Processing-Based Fair Federated Learning Framework**|Yi Zhou et.al.|[2501.15318v1](http://arxiv.org/abs/2501.15318v1)|null|
+|**2025-01-25**|**A Two-Stage CAE-Based Federated Learning Framework for Efficient Jamming Detection in 5G Networks**|Samhita Kuili et.al.|[2501.15288v1](http://arxiv.org/abs/2501.15288v1)|null|
 |**2025-01-22**|**Practical quantum federated learning and its experimental demonstration**|Zhi-Ping Liu et.al.|[2501.12709v1](http://arxiv.org/abs/2501.12709v1)|null|
 |**2025-01-21**|**Federated Discrete Denoising Diffusion Model for Molecular Generation with OpenFL**|Kevin Ta et.al.|[2501.12523v1](http://arxiv.org/abs/2501.12523v1)|**[link](https://github.com/securefederatedai/openfl)**|
 |**2025-01-21**|**BotDetect: A Decentralized Federated Learning Framework for Detecting Financial Bots on the EVM Blockchains**|Ahmed Mounsf Rafik Bendada et.al.|[2501.12112v1](http://arxiv.org/abs/2501.12112v1)|null|

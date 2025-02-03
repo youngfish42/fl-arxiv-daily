@@ -62,6 +62,7 @@
 
 ## Federated Learning Framework
 
+- 2025-01-30, **Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift**, Yi Liu et.al., Paper: [http://arxiv.org/abs/2501.18798v1](http://arxiv.org/abs/2501.18798v1)
 - 2025-01-27, **Integrating Personalized Federated Learning with Control Systems for Enhanced Performance**, Alice Smith et.al., Paper: [http://arxiv.org/abs/2501.15728v1](http://arxiv.org/abs/2501.15728v1)
 - 2025-01-25, **A Post-Processing-Based Fair Federated Learning Framework**, Yi Zhou et.al., Paper: [http://arxiv.org/abs/2501.15318v1](http://arxiv.org/abs/2501.15318v1)
 - 2025-01-25, **A Two-Stage CAE-Based Federated Learning Framework for Efficient Jamming Detection in 5G Networks**, Samhita Kuili et.al., Paper: [http://arxiv.org/abs/2501.15288v1](http://arxiv.org/abs/2501.15288v1)

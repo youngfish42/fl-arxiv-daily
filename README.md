@@ -68,6 +68,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-02**|**Federated Generalised Variational Inference: A Robust Probabilistic Federated Learning Framework**|Terje Mildner et.al.|[2502.00846v1](http://arxiv.org/abs/2502.00846v1)|null|
 |**2025-01-30**|**Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift**|Yi Liu et.al.|[2501.18798v1](http://arxiv.org/abs/2501.18798v1)|null|
 |**2025-01-27**|**Integrating Personalized Federated Learning with Control Systems for Enhanced Performance**|Alice Smith et.al.|[2501.15728v1](http://arxiv.org/abs/2501.15728v1)|null|
 |**2025-01-25**|**A Post-Processing-Based Fair Federated Learning Framework**|Yi Zhou et.al.|[2501.15318v1](http://arxiv.org/abs/2501.15318v1)|null|

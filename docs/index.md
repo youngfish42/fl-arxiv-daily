@@ -72,6 +72,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**A Fair Federated Learning Framework for Collaborative Network Traffic Prediction and Resource Allocation**|Saroj Kumar Panda et.al.|[2502.06743v1](http://arxiv.org/abs/2502.06743v1)|null|
 |**2025-02-07**|**Graph Federated Learning Based Proactive Content Caching in Edge Computing**|Rui Wang et.al.|[2502.04760v1](http://arxiv.org/abs/2502.04760v1)|null|
 |**2025-02-06**|**FedOptimus: Optimizing Vertical Federated Learning for Scalability and Efficiency**|Nikita Shrivastava et.al.|[2502.04243v1](http://arxiv.org/abs/2502.04243v1)|null|
 |**2025-02-02**|**Federated Generalised Variational Inference: A Robust Probabilistic Federated Learning Framework**|Terje Mildner et.al.|[2502.00846v1](http://arxiv.org/abs/2502.00846v1)|null|

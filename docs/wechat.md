@@ -64,7 +64,7 @@
 
 - 2025-02-10, **A Fair Federated Learning Framework for Collaborative Network Traffic Prediction and Resource Allocation**, Saroj Kumar Panda et.al., Paper: [http://arxiv.org/abs/2502.06743v1](http://arxiv.org/abs/2502.06743v1)
 - 2025-02-07, **Graph Federated Learning Based Proactive Content Caching in Edge Computing**, Rui Wang et.al., Paper: [http://arxiv.org/abs/2502.04760v1](http://arxiv.org/abs/2502.04760v1)
-- 2025-02-06, **FedOptimus: Optimizing Vertical Federated Learning for Scalability and Efficiency**, Nikita Shrivastava et.al., Paper: [http://arxiv.org/abs/2502.04243v1](http://arxiv.org/abs/2502.04243v1)
+- 2025-02-12, **FedOptimus: Optimizing Vertical Federated Learning for Scalability and Efficiency**, Nikita Shrivastava et.al., Paper: [http://arxiv.org/abs/2502.04243v2](http://arxiv.org/abs/2502.04243v2)
 - 2025-02-02, **Federated Generalised Variational Inference: A Robust Probabilistic Federated Learning Framework**, Terje Mildner et.al., Paper: [http://arxiv.org/abs/2502.00846v1](http://arxiv.org/abs/2502.00846v1)
 - 2025-01-30, **Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift**, Yi Liu et.al., Paper: [http://arxiv.org/abs/2501.18798v1](http://arxiv.org/abs/2501.18798v1)
 - 2025-01-27, **Integrating Personalized Federated Learning with Control Systems for Enhanced Performance**, Alice Smith et.al., Paper: [http://arxiv.org/abs/2501.15728v1](http://arxiv.org/abs/2501.15728v1)

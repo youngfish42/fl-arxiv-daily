@@ -63,6 +63,9 @@
 
 ## Federated Learning Framework
 
+- 2025-03-03, **MoCFL: Mobile Cluster Federated Learning Framework for Highly Dynamic Network**, Kai Fang et.al., Paper: [http://arxiv.org/abs/2503.01557v1](http://arxiv.org/abs/2503.01557v1)
+- 2025-03-02, **HLoRA: Efficient Federated Learning System for LLM Heterogeneous Fine-Tuning**, Qianli Liu et.al., Paper: [http://arxiv.org/abs/2503.00813v1](http://arxiv.org/abs/2503.00813v1)
+- 2025-03-01, **Asynchronous Personalized Federated Learning through Global Memorization**, Fan Wan et.al., Paper: [http://arxiv.org/abs/2503.00407v1](http://arxiv.org/abs/2503.00407v1)
 - 2025-02-18, **FedHC: A Hierarchical Clustered Federated Learning Framework for Satellite Networks**, Zhuocheng Liu et.al., Paper: [http://arxiv.org/abs/2502.12783v1](http://arxiv.org/abs/2502.12783v1)
 - 2025-02-17, **A Fair Federated Learning Framework for Collaborative Network Traffic Prediction and Resource Allocation**, Saroj Kumar Panda et.al., Paper: [http://arxiv.org/abs/2502.06743v2](http://arxiv.org/abs/2502.06743v2)
 - 2025-02-07, **Graph Federated Learning Based Proactive Content Caching in Edge Computing**, Rui Wang et.al., Paper: [http://arxiv.org/abs/2502.04760v1](http://arxiv.org/abs/2502.04760v1)

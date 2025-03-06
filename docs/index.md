@@ -73,6 +73,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**Quantum-Inspired Privacy-Preserving Federated Learning Framework for Secure Dementia Classification**|Gazi Tanbhir et.al.|[2503.03267v1](http://arxiv.org/abs/2503.03267v1)|null|
 |**2025-03-03**|**MoCFL: Mobile Cluster Federated Learning Framework for Highly Dynamic Network**|Kai Fang et.al.|[2503.01557v1](http://arxiv.org/abs/2503.01557v1)|null|
 |**2025-03-02**|**HLoRA: Efficient Federated Learning System for LLM Heterogeneous Fine-Tuning**|Qianli Liu et.al.|[2503.00813v1](http://arxiv.org/abs/2503.00813v1)|null|
 |**2025-03-01**|**Asynchronous Personalized Federated Learning through Global Memorization**|Fan Wan et.al.|[2503.00407v1](http://arxiv.org/abs/2503.00407v1)|null|

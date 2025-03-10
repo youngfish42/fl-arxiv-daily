@@ -63,6 +63,7 @@
 
 ## Federated Learning Framework
 
+- 2025-03-05, **FedPalm: A General Federated Learning Framework for Closed- and Open-Set Palmprint Verification**, Ziyuan Yang et.al., Paper: [http://arxiv.org/abs/2503.04837v1](http://arxiv.org/abs/2503.04837v1)
 - 2025-03-05, **Quantum-Inspired Privacy-Preserving Federated Learning Framework for Secure Dementia Classification**, Gazi Tanbhir et.al., Paper: [http://arxiv.org/abs/2503.03267v1](http://arxiv.org/abs/2503.03267v1)
 - 2025-03-03, **MoCFL: Mobile Cluster Federated Learning Framework for Highly Dynamic Network**, Kai Fang et.al., Paper: [http://arxiv.org/abs/2503.01557v1](http://arxiv.org/abs/2503.01557v1)
 - 2025-03-02, **HLoRA: Efficient Federated Learning System for LLM Heterogeneous Fine-Tuning**, Qianli Liu et.al., Paper: [http://arxiv.org/abs/2503.00813v1](http://arxiv.org/abs/2503.00813v1)

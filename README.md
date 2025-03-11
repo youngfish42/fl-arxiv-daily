@@ -69,6 +69,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-09**|**HFedCKD: Toward Robust Heterogeneous Federated Learning via Data-free Knowledge Distillation and Two-way Contrast**|Yiting Zheng et.al.|[2503.06511v1](http://arxiv.org/abs/2503.06511v1)|null|
+|**2025-03-03**|**Federated Learning Framework via Distributed Mutual Learning**|Yash Gupta et.al.|[2503.05803v1](http://arxiv.org/abs/2503.05803v1)|null|
+|**2025-02-27**|**FedMentalCare: Towards Privacy-Preserving Fine-Tuned LLMs to Analyze Mental Health Status Using Federated Learning Framework**|S M Sarwar et.al.|[2503.05786v1](http://arxiv.org/abs/2503.05786v1)|null|
 |**2025-03-05**|**FedPalm: A General Federated Learning Framework for Closed- and Open-Set Palmprint Verification**|Ziyuan Yang et.al.|[2503.04837v1](http://arxiv.org/abs/2503.04837v1)|null|
 |**2025-03-05**|**Quantum-Inspired Privacy-Preserving Federated Learning Framework for Secure Dementia Classification**|Gazi Tanbhir et.al.|[2503.03267v1](http://arxiv.org/abs/2503.03267v1)|null|
 |**2025-03-03**|**MoCFL: Mobile Cluster Federated Learning Framework for Highly Dynamic Network**|Kai Fang et.al.|[2503.01557v1](http://arxiv.org/abs/2503.01557v1)|null|

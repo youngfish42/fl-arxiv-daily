@@ -69,6 +69,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis**|Luyuan Xie et.al.|[2503.10412v1](http://arxiv.org/abs/2503.10412v1)|null|
+|**2025-03-13**|**A Multi-Modal Federated Learning Framework for Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2503.10262v1](http://arxiv.org/abs/2503.10262v1)|null|
 |**2025-03-09**|**HFedCKD: Toward Robust Heterogeneous Federated Learning via Data-free Knowledge Distillation and Two-way Contrast**|Yiting Zheng et.al.|[2503.06511v1](http://arxiv.org/abs/2503.06511v1)|null|
 |**2025-03-03**|**Federated Learning Framework via Distributed Mutual Learning**|Yash Gupta et.al.|[2503.05803v1](http://arxiv.org/abs/2503.05803v1)|null|
 |**2025-02-27**|**FedMentalCare: Towards Privacy-Preserving Fine-Tuned LLMs to Analyze Mental Health Status Using Federated Learning Framework**|S M Sarwar et.al.|[2503.05786v1](http://arxiv.org/abs/2503.05786v1)|null|

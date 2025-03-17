@@ -63,6 +63,7 @@
 
 ## Federated Learning Framework
 
+- 2025-03-14, **Federated Koopman-Reservoir Learning for Large-Scale Multivariate Time-Series Anomaly Detection**, Long Tan Le et.al., Paper: [http://arxiv.org/abs/2503.11255v1](http://arxiv.org/abs/2503.11255v1)
 - 2025-03-14, **dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis**, Luyuan Xie et.al., Paper: [http://arxiv.org/abs/2503.10412v2](http://arxiv.org/abs/2503.10412v2)
 - 2025-03-13, **A Multi-Modal Federated Learning Framework for Remote Sensing Image Classification**, Barış Büyüktaş et.al., Paper: [http://arxiv.org/abs/2503.10262v1](http://arxiv.org/abs/2503.10262v1)
 - 2025-03-09, **HFedCKD: Toward Robust Heterogeneous Federated Learning via Data-free Knowledge Distillation and Two-way Contrast**, Yiting Zheng et.al., Paper: [http://arxiv.org/abs/2503.06511v1](http://arxiv.org/abs/2503.06511v1)

@@ -63,11 +63,11 @@
 
 ## Federated Learning Framework
 
-- 2025-03-13, **dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis**, Luyuan Xie et.al., Paper: [http://arxiv.org/abs/2503.10412v1](http://arxiv.org/abs/2503.10412v1)
+- 2025-03-14, **dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis**, Luyuan Xie et.al., Paper: [http://arxiv.org/abs/2503.10412v2](http://arxiv.org/abs/2503.10412v2)
 - 2025-03-13, **A Multi-Modal Federated Learning Framework for Remote Sensing Image Classification**, Barış Büyüktaş et.al., Paper: [http://arxiv.org/abs/2503.10262v1](http://arxiv.org/abs/2503.10262v1)
 - 2025-03-09, **HFedCKD: Toward Robust Heterogeneous Federated Learning via Data-free Knowledge Distillation and Two-way Contrast**, Yiting Zheng et.al., Paper: [http://arxiv.org/abs/2503.06511v1](http://arxiv.org/abs/2503.06511v1)
 - 2025-03-03, **Federated Learning Framework via Distributed Mutual Learning**, Yash Gupta et.al., Paper: [http://arxiv.org/abs/2503.05803v1](http://arxiv.org/abs/2503.05803v1)
-- 2025-02-27, **FedMentalCare: Towards Privacy-Preserving Fine-Tuned LLMs to Analyze Mental Health Status Using Federated Learning Framework**, S M Sarwar et.al., Paper: [http://arxiv.org/abs/2503.05786v1](http://arxiv.org/abs/2503.05786v1)
+- 2025-03-14, **FedMentalCare: Towards Privacy-Preserving Fine-Tuned LLMs to Analyze Mental Health Status Using Federated Learning Framework**, S M Sarwar et.al., Paper: [http://arxiv.org/abs/2503.05786v2](http://arxiv.org/abs/2503.05786v2)
 - 2025-03-05, **FedPalm: A General Federated Learning Framework for Closed- and Open-Set Palmprint Verification**, Ziyuan Yang et.al., Paper: [http://arxiv.org/abs/2503.04837v1](http://arxiv.org/abs/2503.04837v1)
 - 2025-03-05, **Quantum-Inspired Privacy-Preserving Federated Learning Framework for Secure Dementia Classification**, Gazi Tanbhir et.al., Paper: [http://arxiv.org/abs/2503.03267v1](http://arxiv.org/abs/2503.03267v1)
 - 2025-03-03, **MoCFL: Mobile Cluster Federated Learning Framework for Highly Dynamic Network**, Kai Fang et.al., Paper: [http://arxiv.org/abs/2503.01557v1](http://arxiv.org/abs/2503.01557v1)

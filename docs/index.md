@@ -73,6 +73,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Online federated learning framework for classification**|Wenxing Guo et.al.|[2503.15210v1](http://arxiv.org/abs/2503.15210v1)|null|
 |**2025-03-18**|**Semantic Communication in Dynamic Channel Scenarios: Collaborative Optimization of Dual-Pipeline Joint Source-Channel Coding and Personalized Federated Learning**|Xingrun Yan et.al.|[2503.14084v1](http://arxiv.org/abs/2503.14084v1)|null|
 |**2025-03-17**|**SDFLMQ: A Semi-Decentralized Federated Learning Framework over MQTT**|Amir Ali-Pour et.al.|[2503.13624v1](http://arxiv.org/abs/2503.13624v1)|null|
 |**2025-03-15**|**A Bubble-Cluster Federated Learning Framework for Privacy-Preserving Demand Forecasting on Heterogeneous Retail Data**|Yunbo Long et.al.|[2503.12220v1](http://arxiv.org/abs/2503.12220v1)|null|

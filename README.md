@@ -70,6 +70,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**FedFeat+: A Robust Federated Learning Framework Through Federated Aggregation and Differentially Private Feature-Based Classifier Retraining**|Mrityunjoy Gain et.al.|[2504.06004v1](http://arxiv.org/abs/2504.06004v1)|null|
 |**2025-03-25**|**SAFE: Self-Adjustment Federated Learning Framework for Remote Sensing Collaborative Perception**|Xiaohe Li et.al.|[2504.03700v1](http://arxiv.org/abs/2504.03700v1)|null|
 |**2025-04-01**|**Personalized Federated Training of Diffusion Models with Privacy Guarantees**|Kumar Kshitij Patel et.al.|[2504.00952v1](http://arxiv.org/abs/2504.00952v1)|null|
 |**2025-03-28**|**Federated Intrusion Detection System Based on Unsupervised Machine Learning**|Maxime Gourceyraud et.al.|[2503.22065v1](http://arxiv.org/abs/2503.22065v1)|null|

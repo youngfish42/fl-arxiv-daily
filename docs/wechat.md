@@ -64,6 +64,8 @@
 
 ## Federated Learning Framework
 
+- 2025-04-22, **Achieving Distributive Justice in Federated Learning via Uncertainty Quantification**, Alycia Carey et.al., Paper: [http://arxiv.org/abs/2504.15924v1](http://arxiv.org/abs/2504.15924v1)
+- 2025-04-22, **Federated Latent Factor Learning for Recovering Wireless Sensor Networks Signal with Privacy-Preserving**, Chengjun Yu et.al., Paper: [http://arxiv.org/abs/2504.15525v1](http://arxiv.org/abs/2504.15525v1)
 - 2025-04-17, **VLLFL: A Vision-Language Model Based Lightweight Federated Learning Framework for Smart Agriculture**, Long Li et.al., Paper: [http://arxiv.org/abs/2504.13365v1](http://arxiv.org/abs/2504.13365v1)
 - 2025-04-14, **Multi-task Federated Learning with Encoder-Decoder Structure: Enabling Collaborative Learning Across Different Tasks**, Jingxuan Zhou et.al., Paper: [http://arxiv.org/abs/2504.09800v1](http://arxiv.org/abs/2504.09800v1)
 - 2025-04-08, **FedFeat+: A Robust Federated Learning Framework Through Federated Aggregation and Differentially Private Feature-Based Classifier Retraining**, Mrityunjoy Gain et.al., Paper: [http://arxiv.org/abs/2504.06004v1](http://arxiv.org/abs/2504.06004v1)

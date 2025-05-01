@@ -42,6 +42,7 @@
 
 ## Federated Learning For Tabular
 
+- 2025-04-30, **Bilateral Differentially Private Vertical Federated Boosted Decision Trees**, Bokang Zhang et.al., Paper: [http://arxiv.org/abs/2504.21739v1](http://arxiv.org/abs/2504.21739v1)
 - 2025-04-04, **Secure Federated XGBoost with CUDA-accelerated Homomorphic Encryption via NVIDIA FLARE**, Ziyue Xu et.al., Paper: [http://arxiv.org/abs/2504.03909v1](http://arxiv.org/abs/2504.03909v1)
 - 2024-05-03, **A Federated Learning Benchmark on Tabular Data: Comparing Tree-Based Models and Neural Networks**, William Lindskog et.al., Paper: [http://arxiv.org/abs/2405.02074v1](http://arxiv.org/abs/2405.02074v1)
 - 2024-05-03, **Histogram-Based Federated XGBoost using Minimal Variance Sampling for Federated Tabular Data**, William Lindskog et.al., Paper: [http://arxiv.org/abs/2405.02067v1](http://arxiv.org/abs/2405.02067v1)
@@ -64,6 +65,7 @@
 
 ## Federated Learning Framework
 
+- 2025-04-30, **A Generalized Meta Federated Learning Framework with Theoretical Convergence Guarantees**, Mohammad Vahid Jamali et.al., Paper: [http://arxiv.org/abs/2504.21327v1](http://arxiv.org/abs/2504.21327v1)
 - 2025-04-23, **Federated Learning of Low-Rank One-Shot Image Detection Models in Edge Devices with Scalable Accuracy and Compute Complexity**, Abdul Hannaan et.al., Paper: [http://arxiv.org/abs/2504.16515v1](http://arxiv.org/abs/2504.16515v1)
 - 2025-04-23, **DP2FL: Dual Prompt Personalized Federated Learning in Foundation Models**, Ying Chang et.al., Paper: [http://arxiv.org/abs/2504.16357v1](http://arxiv.org/abs/2504.16357v1)
 - 2025-04-22, **Achieving Distributive Justice in Federated Learning via Uncertainty Quantification**, Alycia Carey et.al., Paper: [http://arxiv.org/abs/2504.15924v1](http://arxiv.org/abs/2504.15924v1)

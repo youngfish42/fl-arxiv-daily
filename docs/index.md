@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Graph Privacy: A Heterogeneous Federated GNN for Trans-Border Financial Data Circulation**|Zhizhong Tan et.al.|[2505.00257v1](http://arxiv.org/abs/2505.00257v1)|null|
 |**2024-12-28**|**Cluster-Enhanced Federated Graph Neural Network for Recommendation**|Haiyan Wang et.al.|[2412.08066v2](http://arxiv.org/abs/2412.08066v2)|null|
 |**2024-12-07**|**Federated GNNs for EEG-Based Stroke Assessment**|Andrea Protani et.al.|[2411.02286v2](http://arxiv.org/abs/2411.02286v2)|null|
 |**2024-06-15**|**HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated Graph Learning**|Zhuoning Guo et.al.|[2406.10616v1](http://arxiv.org/abs/2406.10616v1)|**[link](https://github.com/usail-hkust/HiFGL)**|

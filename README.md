@@ -76,7 +76,7 @@
 |**2025-05-05**|**Sampling-based federated inference for M-estimators with non-smooth objective functions**|Xiudi Li et.al.|[2505.02356v1](http://arxiv.org/abs/2505.02356v1)|null|
 |**2025-05-03**|**PQS-BFL: A Post-Quantum Secure Blockchain-based Federated Learning Framework**|Daniel Commey et.al.|[2505.01866v1](http://arxiv.org/abs/2505.01866v1)|null|
 |**2025-04-30**|**Sparsification Under Siege: Defending Against Poisoning Attacks in Communication-Efficient Federated Learning**|Zhiyong Jin et.al.|[2505.01454v1](http://arxiv.org/abs/2505.01454v1)|null|
-|**2025-05-02**|**SemSpaceFL: A Collaborative Hierarchical Federated Learning Framework for Semantic Communication in 6G LEO Satellites**|Loc X. Nguyen et.al.|[2505.00966v1](http://arxiv.org/abs/2505.00966v1)|null|
+|**2025-05-06**|**SemSpaceFL: A Collaborative Hierarchical Federated Learning Framework for Semantic Communication in 6G LEO Satellites**|Loc X. Nguyen et.al.|[2505.00966v2](http://arxiv.org/abs/2505.00966v2)|null|
 |**2025-04-30**|**A Generalized Meta Federated Learning Framework with Theoretical Convergence Guarantees**|Mohammad Vahid Jamali et.al.|[2504.21327v1](http://arxiv.org/abs/2504.21327v1)|null|
 |**2025-04-23**|**Federated Learning of Low-Rank One-Shot Image Detection Models in Edge Devices with Scalable Accuracy and Compute Complexity**|Abdul Hannaan et.al.|[2504.16515v1](http://arxiv.org/abs/2504.16515v1)|null|
 |**2025-04-23**|**DP2FL: Dual Prompt Personalized Federated Learning in Foundation Models**|Ying Chang et.al.|[2504.16357v1](http://arxiv.org/abs/2504.16357v1)|null|

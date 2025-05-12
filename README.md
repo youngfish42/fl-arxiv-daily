@@ -73,6 +73,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Self-Supervised Federated GNSS Spoofing Detection with Opportunistic Data**|Wenjie Liu et.al.|[2505.06171v1](http://arxiv.org/abs/2505.06171v1)|null|
 |**2025-05-05**|**Lazy But Effective: Collaborative Personalized Federated Learning with Heterogeneous Data**|Ljubomir Rokvic et.al.|[2505.02540v1](http://arxiv.org/abs/2505.02540v1)|null|
 |**2025-05-05**|**Sampling-based federated inference for M-estimators with non-smooth objective functions**|Xiudi Li et.al.|[2505.02356v1](http://arxiv.org/abs/2505.02356v1)|null|
 |**2025-05-03**|**PQS-BFL: A Post-Quantum Secure Blockchain-based Federated Learning Framework**|Daniel Commey et.al.|[2505.01866v1](http://arxiv.org/abs/2505.01866v1)|null|

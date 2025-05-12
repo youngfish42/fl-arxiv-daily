@@ -70,7 +70,7 @@
 - 2025-05-05, **Lazy But Effective: Collaborative Personalized Federated Learning with Heterogeneous Data**, Ljubomir Rokvic et.al., Paper: [http://arxiv.org/abs/2505.02540v1](http://arxiv.org/abs/2505.02540v1)
 - 2025-05-05, **Sampling-based federated inference for M-estimators with non-smooth objective functions**, Xiudi Li et.al., Paper: [http://arxiv.org/abs/2505.02356v1](http://arxiv.org/abs/2505.02356v1)
 - 2025-05-03, **PQS-BFL: A Post-Quantum Secure Blockchain-based Federated Learning Framework**, Daniel Commey et.al., Paper: [http://arxiv.org/abs/2505.01866v1](http://arxiv.org/abs/2505.01866v1)
-- 2025-04-30, **Sparsification Under Siege: Defending Against Poisoning Attacks in Communication-Efficient Federated Learning**, Zhiyong Jin et.al., Paper: [http://arxiv.org/abs/2505.01454v1](http://arxiv.org/abs/2505.01454v1)
+- 2025-05-09, **Sparsification Under Siege: Defending Against Poisoning Attacks in Communication-Efficient Federated Learning**, Zhiyong Jin et.al., Paper: [http://arxiv.org/abs/2505.01454v2](http://arxiv.org/abs/2505.01454v2)
 - 2025-05-06, **SemSpaceFL: A Collaborative Hierarchical Federated Learning Framework for Semantic Communication in 6G LEO Satellites**, Loc X. Nguyen et.al., Paper: [http://arxiv.org/abs/2505.00966v2](http://arxiv.org/abs/2505.00966v2)
 - 2025-04-30, **A Generalized Meta Federated Learning Framework with Theoretical Convergence Guarantees**, Mohammad Vahid Jamali et.al., Paper: [http://arxiv.org/abs/2504.21327v1](http://arxiv.org/abs/2504.21327v1)
 - 2025-04-23, **Federated Learning of Low-Rank One-Shot Image Detection Models in Edge Devices with Scalable Accuracy and Compute Complexity**, Abdul Hannaan et.al., Paper: [http://arxiv.org/abs/2504.16515v1](http://arxiv.org/abs/2504.16515v1)

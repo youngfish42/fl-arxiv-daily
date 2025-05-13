@@ -67,6 +67,7 @@
 
 ## Federated Learning Framework
 
+- 2025-05-10, **FedADP: Unified Model Aggregation for Federated Learning with Heterogeneous Model Architectures**, Jiacheng Wang et.al., Paper: [http://arxiv.org/abs/2505.06497v1](http://arxiv.org/abs/2505.06497v1)
 - 2025-05-09, **Self-Supervised Federated GNSS Spoofing Detection with Opportunistic Data**, Wenjie Liu et.al., Paper: [http://arxiv.org/abs/2505.06171v1](http://arxiv.org/abs/2505.06171v1)
 - 2025-05-05, **Lazy But Effective: Collaborative Personalized Federated Learning with Heterogeneous Data**, Ljubomir Rokvic et.al., Paper: [http://arxiv.org/abs/2505.02540v1](http://arxiv.org/abs/2505.02540v1)
 - 2025-05-05, **Sampling-based federated inference for M-estimators with non-smooth objective functions**, Xiudi Li et.al., Paper: [http://arxiv.org/abs/2505.02356v1](http://arxiv.org/abs/2505.02356v1)

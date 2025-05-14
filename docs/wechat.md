@@ -67,6 +67,8 @@
 
 ## Federated Learning Framework
 
+- 2025-05-13, **Multi-Layer Hierarchical Federated Learning with Quantization**, Seyed Mohammad Azimi-Abarghouyi et.al., Paper: [http://arxiv.org/abs/2505.08145v1](http://arxiv.org/abs/2505.08145v1)
+- 2025-05-12, **A Federated Random Forest Solution for Secure Distributed Machine Learning**, Alexandre Cotorobai et.al., Paper: [http://arxiv.org/abs/2505.08085v1](http://arxiv.org/abs/2505.08085v1), Code: **[https://github.com/ieeta-pt/fed_rf](https://github.com/ieeta-pt/fed_rf)**
 - 2025-05-10, **FedADP: Unified Model Aggregation for Federated Learning with Heterogeneous Model Architectures**, Jiacheng Wang et.al., Paper: [http://arxiv.org/abs/2505.06497v1](http://arxiv.org/abs/2505.06497v1)
 - 2025-05-09, **Self-Supervised Federated GNSS Spoofing Detection with Opportunistic Data**, Wenjie Liu et.al., Paper: [http://arxiv.org/abs/2505.06171v1](http://arxiv.org/abs/2505.06171v1)
 - 2025-05-05, **Lazy But Effective: Collaborative Personalized Federated Learning with Heterogeneous Data**, Ljubomir Rokvic et.al., Paper: [http://arxiv.org/abs/2505.02540v1](http://arxiv.org/abs/2505.02540v1)

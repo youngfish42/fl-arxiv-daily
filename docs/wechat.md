@@ -67,6 +67,7 @@
 
 ## Federated Learning Framework
 
+- 2025-05-19, **Cross-Cloud Data Privacy Protection: Optimizing Collaborative Mechanisms of AI Systems by Integrating Federated Learning and LLMs**, Huaiying Luo et.al., Paper: [http://arxiv.org/abs/2505.13292v1](http://arxiv.org/abs/2505.13292v1)
 - 2025-05-13, **Multi-Layer Hierarchical Federated Learning with Quantization**, Seyed Mohammad Azimi-Abarghouyi et.al., Paper: [http://arxiv.org/abs/2505.08145v1](http://arxiv.org/abs/2505.08145v1)
 - 2025-05-12, **A Federated Random Forest Solution for Secure Distributed Machine Learning**, Alexandre Cotorobai et.al., Paper: [http://arxiv.org/abs/2505.08085v1](http://arxiv.org/abs/2505.08085v1), Code: **[https://github.com/ieeta-pt/fed_rf](https://github.com/ieeta-pt/fed_rf)**
 - 2025-05-10, **FedADP: Unified Model Aggregation for Federated Learning with Heterogeneous Model Architectures**, Jiacheng Wang et.al., Paper: [http://arxiv.org/abs/2505.06497v1](http://arxiv.org/abs/2505.06497v1)

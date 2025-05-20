@@ -77,6 +77,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Cross-Cloud Data Privacy Protection: Optimizing Collaborative Mechanisms of AI Systems by Integrating Federated Learning and LLMs**|Huaiying Luo et.al.|[2505.13292v1](http://arxiv.org/abs/2505.13292v1)|null|
 |**2025-05-13**|**Multi-Layer Hierarchical Federated Learning with Quantization**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2505.08145v1](http://arxiv.org/abs/2505.08145v1)|null|
 |**2025-05-12**|**A Federated Random Forest Solution for Secure Distributed Machine Learning**|Alexandre Cotorobai et.al.|[2505.08085v1](http://arxiv.org/abs/2505.08085v1)|**[link](https://github.com/ieeta-pt/fed_rf)**|
 |**2025-05-10**|**FedADP: Unified Model Aggregation for Federated Learning with Heterogeneous Model Architectures**|Jiacheng Wang et.al.|[2505.06497v1](http://arxiv.org/abs/2505.06497v1)|null|

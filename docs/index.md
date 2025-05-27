@@ -77,6 +77,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-25**|**Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning**|Hui Ma et.al.|[2505.19263v1](http://arxiv.org/abs/2505.19263v1)|null|
 |**2025-05-21**|**A Survey On Secure Machine Learning**|Taobo Liao et.al.|[2505.15124v1](http://arxiv.org/abs/2505.15124v1)|null|
 |**2025-05-18**|**A Comprehensive Review of Techniques, Algorithms, Advancements, Challenges, and Clinical Applications of Multi-modal Medical Image Fusion for Improved Diagnosis**|Muhammad Zubair et.al.|[2505.14715v1](http://arxiv.org/abs/2505.14715v1)|null|
 |**2025-05-19**|**Cross-Cloud Data Privacy Protection: Optimizing Collaborative Mechanisms of AI Systems by Integrating Federated Learning and LLMs**|Huaiying Luo et.al.|[2505.13292v1](http://arxiv.org/abs/2505.13292v1)|null|

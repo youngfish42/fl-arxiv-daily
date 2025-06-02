@@ -73,6 +73,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**SEMFED: Semantic-Aware Resource-Efficient Federated Learning for Heterogeneous NLP Tasks**|Sajid Hussain et.al.|[2505.23801v1](http://arxiv.org/abs/2505.23801v1)|null|
 |**2025-05-28**|**PathFL: Multi-Alignment Federated Learning for Pathology Image Segmentation**|Yuan Zhang et.al.|[2505.22522v1](http://arxiv.org/abs/2505.22522v1)|null|
 |**2025-05-27**|**Privacy-Preserving Chest X-ray Report Generation via Multimodal Federated Learning with ViT and GPT-2**|Md. Zahid Hossain et.al.|[2505.21715v1](http://arxiv.org/abs/2505.21715v1)|null|
 |**2025-05-29**|**Avoid Forgetting by Preserving Global Knowledge Gradients in Federated Learning with Non-IID Data**|Abhijit Chunduru et.al.|[2505.20485v2](http://arxiv.org/abs/2505.20485v2)|null|

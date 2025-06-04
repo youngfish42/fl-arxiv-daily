@@ -77,6 +77,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Memory-Efficient Split Federated Learning for LLM Fine-Tuning on Heterogeneous Mobile Devices**|Xiaopei Chen et.al.|[2506.02940v1](http://arxiv.org/abs/2506.02940v1)|null|
+|**2025-06-02**|**A Reliable Vertical Federated Learning Framework for Traffic State Estimation with Data Selection and Incentive Mechanisms**|Zijun Zhan et.al.|[2506.01285v1](http://arxiv.org/abs/2506.01285v1)|null|
+|**2025-06-01**|**Unlocking Personalized Knowledge in Federated Large Language Model: The Power of Mixture of Experts**|Fan Liu et.al.|[2506.00965v1](http://arxiv.org/abs/2506.00965v1)|null|
+|**2025-05-31**|**Federated learning framework for collaborative remaining useful life prognostics: an aircraft engine case study**|Diogo Landau et.al.|[2506.00499v1](http://arxiv.org/abs/2506.00499v1)|null|
 |**2025-05-26**|**SEMFED: Semantic-Aware Resource-Efficient Federated Learning for Heterogeneous NLP Tasks**|Sajid Hussain et.al.|[2505.23801v1](http://arxiv.org/abs/2505.23801v1)|null|
 |**2025-05-28**|**PathFL: Multi-Alignment Federated Learning for Pathology Image Segmentation**|Yuan Zhang et.al.|[2505.22522v1](http://arxiv.org/abs/2505.22522v1)|null|
 |**2025-05-27**|**Privacy-Preserving Chest X-ray Report Generation via Multimodal Federated Learning with ViT and GPT-2**|Md. Zahid Hossain et.al.|[2505.21715v1](http://arxiv.org/abs/2505.21715v1)|null|

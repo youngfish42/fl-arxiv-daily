@@ -67,6 +67,7 @@
 
 ## Federated Learning Framework
 
+- 2025-06-05, **Federated Isolation Forest for Efficient Anomaly Detection on Edge IoT Systems**, Pavle Vasiljevic et.al., Paper: [http://arxiv.org/abs/2506.05138v1](http://arxiv.org/abs/2506.05138v1)
 - 2025-06-04, **GCFL: A Gradient Correction-based Federated Learning Framework for Privacy-preserving CPSS**, Jiayi Wan et.al., Paper: [http://arxiv.org/abs/2506.03618v1](http://arxiv.org/abs/2506.03618v1)
 - 2025-06-03, **Memory-Efficient Split Federated Learning for LLM Fine-Tuning on Heterogeneous Mobile Devices**, Xiaopei Chen et.al., Paper: [http://arxiv.org/abs/2506.02940v1](http://arxiv.org/abs/2506.02940v1)
 - 2025-06-02, **A Reliable Vertical Federated Learning Framework for Traffic State Estimation with Data Selection and Incentive Mechanisms**, Zijun Zhan et.al., Paper: [http://arxiv.org/abs/2506.01285v1](http://arxiv.org/abs/2506.01285v1)

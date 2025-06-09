@@ -73,6 +73,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**QA-HFL: Quality-Aware Hierarchical Federated Learning for Resource-Constrained Mobile Devices with Heterogeneous Image Quality**|Sajid Hussain et.al.|[2506.05411v1](http://arxiv.org/abs/2506.05411v1)|null|
 |**2025-06-05**|**Federated Isolation Forest for Efficient Anomaly Detection on Edge IoT Systems**|Pavle Vasiljevic et.al.|[2506.05138v1](http://arxiv.org/abs/2506.05138v1)|null|
 |**2025-06-04**|**GCFL: A Gradient Correction-based Federated Learning Framework for Privacy-preserving CPSS**|Jiayi Wan et.al.|[2506.03618v1](http://arxiv.org/abs/2506.03618v1)|null|
 |**2025-06-03**|**Memory-Efficient Split Federated Learning for LLM Fine-Tuning on Heterogeneous Mobile Devices**|Xiaopei Chen et.al.|[2506.02940v1](http://arxiv.org/abs/2506.02940v1)|null|

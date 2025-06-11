@@ -78,6 +78,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**A Privacy-Preserving Federated Learning Framework for Generalizable CBCT to Synthetic CT Translation in Head and Neck**|Ciro Benito Raggio et.al.|[2506.08654v1](http://arxiv.org/abs/2506.08654v1)|null|
+|**2025-06-09**|**Federated Learning on Stochastic Neural Networks**|Jingqiao Tang et.al.|[2506.08169v1](http://arxiv.org/abs/2506.08169v1)|null|
 |**2025-06-04**|**QA-HFL: Quality-Aware Hierarchical Federated Learning for Resource-Constrained Mobile Devices with Heterogeneous Image Quality**|Sajid Hussain et.al.|[2506.05411v1](http://arxiv.org/abs/2506.05411v1)|null|
 |**2025-06-05**|**Federated Isolation Forest for Efficient Anomaly Detection on Edge IoT Systems**|Pavle Vasiljevic et.al.|[2506.05138v1](http://arxiv.org/abs/2506.05138v1)|null|
 |**2025-06-04**|**GCFL: A Gradient Correction-based Federated Learning Framework for Privacy-preserving CPSS**|Jiayi Wan et.al.|[2506.03618v1](http://arxiv.org/abs/2506.03618v1)|null|

@@ -44,7 +44,7 @@
 
 ## Federated Learning For Tabular
 
-- 2025-06-09, **TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems**, Marco Di Gennaro et.al., Paper: [http://arxiv.org/abs/2506.07605v1](http://arxiv.org/abs/2506.07605v1)
+- 2025-06-12, **TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems**, Marco Di Gennaro et.al., Paper: [http://arxiv.org/abs/2506.07605v2](http://arxiv.org/abs/2506.07605v2)
 - 2025-04-30, **Bilateral Differentially Private Vertical Federated Boosted Decision Trees**, Bokang Zhang et.al., Paper: [http://arxiv.org/abs/2504.21739v1](http://arxiv.org/abs/2504.21739v1)
 - 2025-04-04, **Secure Federated XGBoost with CUDA-accelerated Homomorphic Encryption via NVIDIA FLARE**, Ziyue Xu et.al., Paper: [http://arxiv.org/abs/2504.03909v1](http://arxiv.org/abs/2504.03909v1)
 - 2024-05-03, **A Federated Learning Benchmark on Tabular Data: Comparing Tree-Based Models and Neural Networks**, William Lindskog et.al., Paper: [http://arxiv.org/abs/2405.02074v1](http://arxiv.org/abs/2405.02074v1)

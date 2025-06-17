@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-14**|**Optimizing Federated Learning using Remote Embeddings for Graph Neural Networks**|Pranjal Naman et.al.|[2506.12425v1](http://arxiv.org/abs/2506.12425v1)|null|
 |**2025-05-01**|**AI-Driven IRM: Transforming insider risk management with adaptive scoring and LLM-based threat detection**|Lokesh Koli et.al.|[2505.03796v1](http://arxiv.org/abs/2505.03796v1)|null|
 |**2025-05-01**|**Graph Privacy: A Heterogeneous Federated GNN for Trans-Border Financial Data Circulation**|Zhizhong Tan et.al.|[2505.00257v1](http://arxiv.org/abs/2505.00257v1)|null|
 |**2024-12-28**|**Cluster-Enhanced Federated Graph Neural Network for Recommendation**|Haiyan Wang et.al.|[2412.08066v2](http://arxiv.org/abs/2412.08066v2)|null|
@@ -74,6 +75,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-15**|**Privacy-Preserving Federated Learning against Malicious Clients Based on Verifiable Functional Encryption**|Nina Cai et.al.|[2506.12846v1](http://arxiv.org/abs/2506.12846v1)|null|
 |**2025-06-10**|**A Privacy-Preserving Federated Learning Framework for Generalizable CBCT to Synthetic CT Translation in Head and Neck**|Ciro Benito Raggio et.al.|[2506.08654v1](http://arxiv.org/abs/2506.08654v1)|null|
 |**2025-06-09**|**Federated Learning on Stochastic Neural Networks**|Jingqiao Tang et.al.|[2506.08169v1](http://arxiv.org/abs/2506.08169v1)|null|
 |**2025-06-04**|**QA-HFL: Quality-Aware Hierarchical Federated Learning for Resource-Constrained Mobile Devices with Heterogeneous Image Quality**|Sajid Hussain et.al.|[2506.05411v1](http://arxiv.org/abs/2506.05411v1)|null|

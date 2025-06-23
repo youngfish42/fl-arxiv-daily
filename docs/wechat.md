@@ -69,6 +69,8 @@
 
 ## Federated Learning Framework
 
+- 2025-06-20, **TriCon-SF: A Triple-Shuffle and Contribution-Aware Serial Federated Learning Framework for Heterogeneous Healthcare Data**, Yuping Yan et.al., Paper: [http://arxiv.org/abs/2506.16723v1](http://arxiv.org/abs/2506.16723v1)
+- 2025-06-19, **FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE**, Khiem Le et.al., Paper: [http://arxiv.org/abs/2506.16600v1](http://arxiv.org/abs/2506.16600v1)
 - 2025-06-15, **Privacy-Preserving Federated Learning against Malicious Clients Based on Verifiable Functional Encryption**, Nina Cai et.al., Paper: [http://arxiv.org/abs/2506.12846v1](http://arxiv.org/abs/2506.12846v1)
 - 2025-06-10, **A Privacy-Preserving Federated Learning Framework for Generalizable CBCT to Synthetic CT Translation in Head and Neck**, Ciro Benito Raggio et.al., Paper: [http://arxiv.org/abs/2506.08654v1](http://arxiv.org/abs/2506.08654v1)
 - 2025-06-09, **Federated Learning on Stochastic Neural Networks**, Jingqiao Tang et.al., Paper: [http://arxiv.org/abs/2506.08169v1](http://arxiv.org/abs/2506.08169v1)

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -43,7 +43,7 @@
 |**2020-11-06**|**ASFGNN: Automated Separated-Federated Graph Neural Network**|Longfei Zheng et.al.|[2011.03248v1](http://arxiv.org/abs/2011.03248v1)|null|
 |**2022-04-25**|**Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification**|Chaochao Chen et.al.|[2005.11903v3](http://arxiv.org/abs/2005.11903v3)|null|
 
-<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
 
 ## Federated Learning For Tabular
 
@@ -69,18 +69,18 @@
 |**2021-08-12**|**FedXGBoost: Privacy-Preserving XGBoost for Federated Learning**|Nhan Khanh Le et.al.|[2106.10662v3](http://arxiv.org/abs/2106.10662v3)|null|
 |**2021-05-12**|**An Efficient Learning Framework For Federated XGBoost Using Secret Sharing And Distributed Optimization**|Lunchen Xie et.al.|[2105.05717v1](http://arxiv.org/abs/2105.05717v1)|**[link](https://github.com/HikariX/MP-FedXGB)**|
 
-<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
 
 ## Federated Learning Framework
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-22**|**Federated Learning-Based Data Collaboration Method for Enhancing Edge Cloud AI System Security Using Large Language Models**|Huaiying Luo et.al.|[2506.18087v1](http://arxiv.org/abs/2506.18087v1)|null|
-|**2025-06-22**|**Decoding Federated Learning: The FedNAM+ Conformal Revolution**|Sree Bhargavi Balija et.al.|[2506.17872v1](http://arxiv.org/abs/2506.17872v1)|null|
+|**2025-06-28**|**Decoding Federated Learning: The FedNAM+ Conformal Revolution**|Sree Bhargavi Balija et.al.|[2506.17872v2](http://arxiv.org/abs/2506.17872v2)|null|
 |**2025-06-20**|**FedNAMs: Performing Interpretability Analysis in Federated Learning Context**|Amitash Nanda et.al.|[2506.17466v1](http://arxiv.org/abs/2506.17466v1)|null|
 |**2025-06-20**|**TriCon-SF: A Triple-Shuffle and Contribution-Aware Serial Federated Learning Framework for Heterogeneous Healthcare Data**|Yuping Yan et.al.|[2506.16723v1](http://arxiv.org/abs/2506.16723v1)|null|
 |**2025-06-19**|**FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE**|Khiem Le et.al.|[2506.16600v1](http://arxiv.org/abs/2506.16600v1)|null|
-|**2025-06-15**|**Privacy-Preserving Federated Learning against Malicious Clients Based on Verifiable Functional Encryption**|Nina Cai et.al.|[2506.12846v1](http://arxiv.org/abs/2506.12846v1)|null|
+|**2025-06-28**|**VFEFL: Privacy-Preserving Federated Learning against Malicious Clients via Verifiable Functional Encryption**|Nina Cai et.al.|[2506.12846v2](http://arxiv.org/abs/2506.12846v2)|null|
 |**2025-06-10**|**A Privacy-Preserving Federated Learning Framework for Generalizable CBCT to Synthetic CT Translation in Head and Neck**|Ciro Benito Raggio et.al.|[2506.08654v1](http://arxiv.org/abs/2506.08654v1)|null|
 |**2025-06-09**|**Federated Learning on Stochastic Neural Networks**|Jingqiao Tang et.al.|[2506.08169v1](http://arxiv.org/abs/2506.08169v1)|null|
 |**2025-06-04**|**QA-HFL: Quality-Aware Hierarchical Federated Learning for Resource-Constrained Mobile Devices with Heterogeneous Image Quality**|Sajid Hussain et.al.|[2506.05411v1](http://arxiv.org/abs/2506.05411v1)|null|
@@ -377,7 +377,7 @@
 |**2022-09-22**|**Enhanced Decentralized Federated Learning based on Consensus in Connected Vehicles**|Xiaoyan Liu et.al.|[2209.10722v1](http://arxiv.org/abs/2209.10722v1)|null|
 |**2022-09-07**|**Modular Federated Learning**|Kuo-Yun Liang et.al.|[2209.03090v1](http://arxiv.org/abs/2209.03090v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/youngfish42/fl-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/youngfish42/fl-arxiv-daily/graphs/contributors

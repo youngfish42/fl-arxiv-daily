@@ -79,6 +79,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Far From Sight, Far From Mind: Inverse Distance Weighting for Graph Federated Recommendation**|Aymen Rayane Khouas et.al.|[2507.01285v1](http://arxiv.org/abs/2507.01285v1)|null|
 |**2025-06-22**|**Federated Learning-Based Data Collaboration Method for Enhancing Edge Cloud AI System Security Using Large Language Models**|Huaiying Luo et.al.|[2506.18087v1](http://arxiv.org/abs/2506.18087v1)|null|
 |**2025-06-28**|**Decoding Federated Learning: The FedNAM+ Conformal Revolution**|Sree Bhargavi Balija et.al.|[2506.17872v2](http://arxiv.org/abs/2506.17872v2)|null|
 |**2025-06-20**|**FedNAMs: Performing Interpretability Analysis in Federated Learning Context**|Amitash Nanda et.al.|[2506.17466v1](http://arxiv.org/abs/2506.17466v1)|null|

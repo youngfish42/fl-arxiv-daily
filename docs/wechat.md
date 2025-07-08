@@ -69,6 +69,7 @@
 
 ## Federated Learning Framework
 
+- 2025-07-07, **Kalman Filter Aided Federated Koopman Learning**, Yutao Chen et.al., Paper: [http://arxiv.org/abs/2507.04808v1](http://arxiv.org/abs/2507.04808v1)
 - 2025-07-03, **Flotilla: A scalable, modular and resilient federated learning framework for heterogeneous resources**, Roopkatha Banerjee et.al., Paper: [http://arxiv.org/abs/2507.02295v1](http://arxiv.org/abs/2507.02295v1)
 - 2025-07-02, **Far From Sight, Far From Mind: Inverse Distance Weighting for Graph Federated Recommendation**, Aymen Rayane Khouas et.al., Paper: [http://arxiv.org/abs/2507.01285v1](http://arxiv.org/abs/2507.01285v1)
 - 2025-06-22, **Federated Learning-Based Data Collaboration Method for Enhancing Edge Cloud AI System Security Using Large Language Models**, Huaiying Luo et.al., Paper: [http://arxiv.org/abs/2506.18087v1](http://arxiv.org/abs/2506.18087v1)

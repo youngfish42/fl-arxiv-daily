@@ -69,6 +69,7 @@
 
 ## Federated Learning Framework
 
+- 2025-07-08, **FedPhD: Federated Pruning with Hierarchical Learning of Diffusion Models**, Qianyu Long et.al., Paper: [http://arxiv.org/abs/2507.06449v1](http://arxiv.org/abs/2507.06449v1)
 - 2025-07-07, **pFedMMA: Personalized Federated Fine-Tuning with Multi-Modal Adapter for Vision-Language Models**, Sajjad Ghiasvand et.al., Paper: [http://arxiv.org/abs/2507.05394v1](http://arxiv.org/abs/2507.05394v1)
 - 2025-07-07, **Kalman Filter Aided Federated Koopman Learning**, Yutao Chen et.al., Paper: [http://arxiv.org/abs/2507.04808v1](http://arxiv.org/abs/2507.04808v1)
 - 2025-07-03, **Flotilla: A scalable, modular and resilient federated learning framework for heterogeneous resources**, Roopkatha Banerjee et.al., Paper: [http://arxiv.org/abs/2507.02295v1](http://arxiv.org/abs/2507.02295v1)

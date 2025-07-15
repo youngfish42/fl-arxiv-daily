@@ -45,7 +45,7 @@
 
 ## Federated Learning For Tabular
 
-- 2025-06-12, **TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems**, Marco Di Gennaro et.al., Paper: [http://arxiv.org/abs/2506.07605v2](http://arxiv.org/abs/2506.07605v2), Code: **[https://github.com/necst/timberstrike](https://github.com/necst/timberstrike)**
+- 2025-07-13, **TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems**, Marco Di Gennaro et.al., Paper: [http://arxiv.org/abs/2506.07605v3](http://arxiv.org/abs/2506.07605v3), Code: **[https://github.com/necst/timberstrike](https://github.com/necst/timberstrike)**
 - 2025-04-30, **Bilateral Differentially Private Vertical Federated Boosted Decision Trees**, Bokang Zhang et.al., Paper: [http://arxiv.org/abs/2504.21739v1](http://arxiv.org/abs/2504.21739v1)
 - 2025-04-04, **Secure Federated XGBoost with CUDA-accelerated Homomorphic Encryption via NVIDIA FLARE**, Ziyue Xu et.al., Paper: [http://arxiv.org/abs/2504.03909v1](http://arxiv.org/abs/2504.03909v1)
 - 2024-05-03, **A Federated Learning Benchmark on Tabular Data: Comparing Tree-Based Models and Neural Networks**, William Lindskog et.al., Paper: [http://arxiv.org/abs/2405.02074v1](http://arxiv.org/abs/2405.02074v1)
@@ -69,6 +69,7 @@
 
 ## Federated Learning Framework
 
+- 2025-07-14, **Domain Borders Are There to Be Crossed With Federated Few-Shot Adaptation**, Manuel Röder et.al., Paper: [http://arxiv.org/abs/2507.10160v1](http://arxiv.org/abs/2507.10160v1)
 - 2025-07-08, **FedPhD: Federated Pruning with Hierarchical Learning of Diffusion Models**, Qianyu Long et.al., Paper: [http://arxiv.org/abs/2507.06449v1](http://arxiv.org/abs/2507.06449v1)
 - 2025-07-07, **pFedMMA: Personalized Federated Fine-Tuning with Multi-Modal Adapter for Vision-Language Models**, Sajjad Ghiasvand et.al., Paper: [http://arxiv.org/abs/2507.05394v1](http://arxiv.org/abs/2507.05394v1)
 - 2025-07-07, **Kalman Filter Aided Federated Koopman Learning**, Yutao Chen et.al., Paper: [http://arxiv.org/abs/2507.04808v1](http://arxiv.org/abs/2507.04808v1)

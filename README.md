@@ -75,6 +75,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**FedGA: A Fair Federated Learning Framework Based on the Gini Coefficient**|ShanBin Liu et.al.|[2507.12983v1](http://arxiv.org/abs/2507.12983v1)|null|
 |**2025-07-14**|**Domain Borders Are There to Be Crossed With Federated Few-Shot Adaptation**|Manuel Röder et.al.|[2507.10160v1](http://arxiv.org/abs/2507.10160v1)|null|
 |**2025-07-08**|**FedPhD: Federated Pruning with Hierarchical Learning of Diffusion Models**|Qianyu Long et.al.|[2507.06449v1](http://arxiv.org/abs/2507.06449v1)|null|
 |**2025-07-07**|**pFedMMA: Personalized Federated Fine-Tuning with Multi-Modal Adapter for Vision-Language Models**|Sajjad Ghiasvand et.al.|[2507.05394v1](http://arxiv.org/abs/2507.05394v1)|null|

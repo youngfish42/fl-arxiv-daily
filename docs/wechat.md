@@ -69,6 +69,9 @@
 
 ## Federated Learning Framework
 
+- 2025-07-21, **Privacy-Preserving Multimodal News Recommendation through Federated Learning**, Mehdi Khalaj et.al., Paper: [http://arxiv.org/abs/2507.15460v1](http://arxiv.org/abs/2507.15460v1)
+- 2025-07-20, **Clustered Federated Learning for Generalizable FDIA Detection in Smart Grids with Heterogeneous Data**, Yunfeng Li et.al., Paper: [http://arxiv.org/abs/2507.14999v1](http://arxiv.org/abs/2507.14999v1)
+- 2025-07-12, **Semi-Supervised Federated Learning via Dual Contrastive Learning and Soft Labeling for Intelligent Fault Diagnosis**, Yajiao Dai et.al., Paper: [http://arxiv.org/abs/2507.14181v1](http://arxiv.org/abs/2507.14181v1)
 - 2025-07-17, **FedGA: A Fair Federated Learning Framework Based on the Gini Coefficient**, ShanBin Liu et.al., Paper: [http://arxiv.org/abs/2507.12983v1](http://arxiv.org/abs/2507.12983v1)
 - 2025-07-14, **Domain Borders Are There to Be Crossed With Federated Few-Shot Adaptation**, Manuel Röder et.al., Paper: [http://arxiv.org/abs/2507.10160v1](http://arxiv.org/abs/2507.10160v1)
 - 2025-07-08, **FedPhD: Federated Pruning with Hierarchical Learning of Diffusion Models**, Qianyu Long et.al., Paper: [http://arxiv.org/abs/2507.06449v1](http://arxiv.org/abs/2507.06449v1)

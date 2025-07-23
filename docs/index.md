@@ -79,7 +79,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-21**|**Privacy-Preserving Multimodal News Recommendation through Federated Learning**|Mehdi Khalaj et.al.|[2507.15460v1](http://arxiv.org/abs/2507.15460v1)|null|
+|**2025-07-22**|**Privacy-Preserving Multimodal News Recommendation through Federated Learning**|Mehdi Khalaj et.al.|[2507.15460v2](http://arxiv.org/abs/2507.15460v2)|null|
 |**2025-07-20**|**Clustered Federated Learning for Generalizable FDIA Detection in Smart Grids with Heterogeneous Data**|Yunfeng Li et.al.|[2507.14999v1](http://arxiv.org/abs/2507.14999v1)|null|
 |**2025-07-12**|**Semi-Supervised Federated Learning via Dual Contrastive Learning and Soft Labeling for Intelligent Fault Diagnosis**|Yajiao Dai et.al.|[2507.14181v1](http://arxiv.org/abs/2507.14181v1)|null|
 |**2025-07-17**|**FedGA: A Fair Federated Learning Framework Based on the Gini Coefficient**|ShanBin Liu et.al.|[2507.12983v1](http://arxiv.org/abs/2507.12983v1)|null|
